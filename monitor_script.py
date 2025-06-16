@@ -63,12 +63,19 @@ class InternshipMonitor:
                 if not company or company == '↳':
                     continue
                 
+                # Clean up company and role names (remove markdown formatting)
+                company = re.sub(r'[*_`]', '', company)
+                role = re.sub(r'[*_`]', '', role)
+                
                 # Extract actual URL from markdown link
                 url_match = re.search(r'href="([^"]+)"', application_link)
+                if not url_match:
+                    # Try different markdown link patterns
+                    url_match = re.search(r'\[.*?\]\(([^)]+)\)', application_link)
                 apply_url = url_match.group(1) if url_match else ""
                 
-                # Create unique identifier
-                internship_id = hashlib.md5(f"{company}{role}{location}".encode()).hexdigest()
+                # Create unique identifier using more stable data
+                internship_id = hashlib.md5(f"{company.lower()}{role.lower()}{location.lower()}".encode()).hexdigest()
                 
                 internship = {
                     'id': internship_id,
@@ -89,8 +96,12 @@ class InternshipMonitor:
         try:
             if os.path.exists(self.data_file):
                 with open(self.data_file, 'r') as f:
-                    return json.load(f)
-            return []
+                    data = json.load(f)
+                    print(f"Loaded {len(data)} previous internships from {self.data_file}")
+                    return data
+            else:
+                print(f"No previous data file found at {self.data_file}")
+                return []
         except Exception as e:
             print(f"Error loading previous data: {e}")
             return []
@@ -98,13 +109,27 @@ class InternshipMonitor:
     def save_current_data(self, internships):
         """Save current internship data"""
         try:
+            # Add metadata
+            data_with_metadata = {
+                'last_updated': datetime.now().isoformat(),
+                'total_count': len(internships),
+                'internships': internships
+            }
+            
             with open(self.data_file, 'w') as f:
-                json.dump(internships, f, indent=2)
+                json.dump(data_with_metadata, f, indent=2)
+            print(f"Saved {len(internships)} internships to {self.data_file}")
         except Exception as e:
             print(f"Error saving data: {e}")
     
-    def find_new_internships(self, current_internships, previous_internships):
+    def find_new_internships(self, current_internships, previous_data):
         """Compare current vs previous to find new internships"""
+        # Handle both old format (list) and new format (dict with metadata)
+        if isinstance(previous_data, list):
+            previous_internships = previous_data
+        else:
+            previous_internships = previous_data.get('internships', [])
+        
         previous_ids = {internship['id'] for internship in previous_internships}
         new_internships = [
             internship for internship in current_internships 
@@ -193,6 +218,8 @@ class InternshipMonitor:
     def run(self):
         """Main execution function"""
         print("Starting internship check...")
+        print(f"Current working directory: {os.getcwd()}")
+        print(f"Files in directory: {os.listdir('.')}")
         
         # Get current README content
         content = self.get_readme_content()
@@ -205,23 +232,25 @@ class InternshipMonitor:
         print(f"Found {len(current_internships)} total internships")
         
         # Load previous data
-        previous_internships = self.load_previous_data()
-        print(f"Previous data had {len(previous_internships)} internships")
+        previous_data = self.load_previous_data()
         
         # Find new internships
-        new_internships = self.find_new_internships(current_internships, previous_internships)
+        new_internships = self.find_new_internships(current_internships, previous_data)
         
         if new_internships:
             print(f"Found {len(new_internships)} new internships!")
             for internship in new_internships:
-                print(f"- {internship['company']}: {internship['role']}")
+                print(f"- {internship['company']}: {internship['role']} ({internship['location']})")
             
             # Send email alert
-            self.send_email_alert(new_internships)
+            if self.send_email_alert(new_internships):
+                print("Email notification sent successfully")
+            else:
+                print("Failed to send email notification")
         else:
             print("No new internships found")
         
-        # Save current data
+        # Always save current data (this will be committed by GitHub Actions)
         self.save_current_data(current_internships)
         print("Data saved successfully")
 
