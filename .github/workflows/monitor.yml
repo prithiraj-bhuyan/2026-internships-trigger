@@ -21,7 +21,7 @@ jobs:
         
     - name: Install dependencies
       run: |
-        pip install requests
+        pip install -r requirements.txt
         
     - name: Run monitor
       env:
