@@ -26,7 +26,9 @@ jobs:
     
     - name: Install dependencies
       run: |
-        pip install requests
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
     
     - name: Configure Git
       run: |
