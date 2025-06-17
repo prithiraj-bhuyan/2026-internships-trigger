@@ -1,7 +1,16 @@
 {
-  "last_updated": "2025-06-17T02:41:36.672822",
-  "total_count": 25,
+  "last_updated": "2025-06-17T03:42:01.985291",
+  "total_count": 26,
   "internships": [
+    {
+      "id": "ae429834b1bf143df029b06d05e2e6a8",
+      "company": "Citadel Securities",
+      "role": "Trading Fundamental Analyst Intern",
+      "location": "Miami, FL</br>New York, NY",
+      "apply_url": "https://www.citadelsecurities.com/careers/details/campus-26-trading-fundamental-analyst-intern-us/?utm_source=ouckah",
+      "date_posted": "Jun 16",
+      "found_at": "2025-06-17T03:42:01.258275"
+    },
     {
       "id": "98a3503fac04ba26ce618478755a0fcf",
       "company": "BNP Paribas",
@@ -9,16 +18,16 @@
       "location": "Jersey CIty, NJ",
       "apply_url": "http://group.bnpparibas/en/careers/job-offer/2026-summer-analyst-internship-technology?utm_source=ouckah",
       "date_posted": "Jun 16",
-      "found_at": "2025-06-17T02:41:35.954096"
+      "found_at": "2025-06-17T03:42:01.258307"
     },
     {
-      "id": "eec03f74aa825a574954bc7c3b9b470b",
+      "id": "0aa76677a3d423bef66206a6360789d3",
       "company": "Bank of America",
-      "role": "Cybersecurity Intern",
-      "location": "<details><summary>**4 locations**</summary>Charlotte, NC</br>Chicago, IL</br>Denver, CO</br>Washington, DC</details>",
-      "apply_url": "https://careers.bankofamerica.com/en-us/students/job-detail/12944/global-technology-summer-analyst-2026-cybersecurity-analyst-multiple-locations?utm_source=ouckah",
+      "role": "Software Engineer Summer Analyst Intern",
+      "location": "Charlotte, NC</br>Chicago, IL</br>Dallas, TX",
+      "apply_url": "https://careers.bankofamerica.com/en-us/students/job-detail/12942/global-technology-summer-analyst-2026-software-engineer-multiple-locations?utm_source=ouckah",
       "date_posted": "Jun 16",
-      "found_at": "2025-06-17T02:41:35.954129"
+      "found_at": "2025-06-17T03:42:01.258328"
     },
     {
       "id": "a51754979f92a07518980f81922eac25",
@@ -27,7 +36,7 @@
       "location": "Waukegan, IL",
       "apply_url": "https://www.jobs.abbott/us/en/job/ABLAUS31121333ENUSEXTERNAL/2026-IT-Intern?utm_source=ouckah",
       "date_posted": "Jun 13",
-      "found_at": "2025-06-17T02:41:35.954159"
+      "found_at": "2025-06-17T03:42:01.258366"
     },
     {
       "id": "413f5c10f5496c3fc8f749cac94f3399",
@@ -36,7 +45,7 @@
       "location": "Old Greenwich, CT",
       "apply_url": "https://job-boards.greenhouse.io/worldquant/jobs/4574082006?gh_src=78427c666us&utm_source=ouckah",
       "date_posted": "Jun 10",
-      "found_at": "2025-06-17T02:41:35.954179"
+      "found_at": "2025-06-17T03:42:01.258384"
     },
     {
       "id": "99988490ac8996b5a16b2f6759c99777",
@@ -45,7 +54,7 @@
       "location": "Santa Clara, CA",
       "apply_url": "https://www.careers.jnj.com/en/jobs/r-018331/front-end-software-engineering-intern/?utm_source=ouckah",
       "date_posted": "Jun 10",
-      "found_at": "2025-06-17T02:41:35.954195"
+      "found_at": "2025-06-17T03:42:01.258404"
     },
     {
       "id": "785cc643be2d4700d536176dd0b881bd",
@@ -54,7 +63,7 @@
       "location": "Bala Cynwyd, PA",
       "apply_url": "https://careers.sig.com/job/9377/Quantitative-Trader-Internship-Summer-2026?utm_source=ouckah",
       "date_posted": "Jun 08",
-      "found_at": "2025-06-17T02:41:35.954211"
+      "found_at": "2025-06-17T03:42:01.258419"
     },
     {
       "id": "5d9b890a9d73870a3586b7cb5a020b00",
@@ -63,7 +72,7 @@
       "location": "Chicago, IL",
       "apply_url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/4749915007?gh_jid=4749915007&utm_source=ouckah",
       "date_posted": "Jun 05",
-      "found_at": "2025-06-17T02:41:35.954231"
+      "found_at": "2025-06-17T03:42:01.258431"
     },
     {
       "id": "2205a1c579a2d11c0ce30d63f956cf0c",
@@ -72,7 +81,7 @@
       "location": "New York",
       "apply_url": "https://jobs.ashbyhq.com/n1/b531e33f-d1c2-4892-b6b7-13ce22569578?utm_source=ouckah",
       "date_posted": "Jun 05",
-      "found_at": "2025-06-17T02:41:35.954253"
+      "found_at": "2025-06-17T03:42:01.258449"
     },
     {
       "id": "712037d81257839bbe3151dfa3a8efc1",
@@ -81,7 +90,7 @@
       "location": "New York, NY",
       "apply_url": "https://careers.point72.com/CSJobDetail?jobName=quantitative-research-intern-nlp-&jobCode=CSS-0013383&utm_source=ouckah",
       "date_posted": "Jun 01",
-      "found_at": "2025-06-17T02:41:35.954270"
+      "found_at": "2025-06-17T03:42:01.258464"
     },
     {
       "id": "64d9cfc3b2d44d952707755b817326ee",
@@ -90,7 +99,7 @@
       "location": "United States",
       "apply_url": "https://jobs.apple.com/en-us/details/200606145/software-engineering-internships?team=STDNT&utm_source=ouckah",
       "date_posted": "Jun 01",
-      "found_at": "2025-06-17T02:41:35.954283"
+      "found_at": "2025-06-17T03:42:01.258477"
     },
     {
       "id": "5529d69ff51a2bb8d30f92df548ee832",
@@ -99,7 +108,7 @@
       "location": "New York, NY",
       "apply_url": "https://group.bnpparibas/en/careers/job-offer/2026-summer-associate-internship-global-markets-quantitative-research-and-trading-1?utm_source=ouckah",
       "date_posted": "May 29",
-      "found_at": "2025-06-17T02:41:35.954306"
+      "found_at": "2025-06-17T03:42:01.258500"
     },
     {
       "id": "8eb173df418d6978232847a5b242ed74",
@@ -108,7 +117,7 @@
       "location": "Jupiter, FL",
       "apply_url": "https://voloridge-investment-management.hiringthing.com/job/889639/quantitative-research-intern-2026?utm_source=ouckah",
       "date_posted": "May 24",
-      "found_at": "2025-06-17T02:41:35.954318"
+      "found_at": "2025-06-17T03:42:01.258511"
     },
     {
       "id": "f6617b8dd7a435cb45a27cbfa886ebb8",
@@ -117,7 +126,7 @@
       "location": "New York, NY",
       "apply_url": "https://tower-research.com/open-positions/?gh_jid=6651908&utm_source=ouckah",
       "date_posted": "May 24",
-      "found_at": "2025-06-17T02:41:35.954334"
+      "found_at": "2025-06-17T03:42:01.258526"
     },
     {
       "id": "e5aa91c74d61691fdbfd5bbe52ddbfbc",
@@ -126,7 +135,7 @@
       "location": "Bala Cynwyd, PA",
       "apply_url": "https://careers.sig.com/job/9238/Quantitative-Research-Internship-PhD-Summer-2026?utm_source=ouckah",
       "date_posted": "May 24",
-      "found_at": "2025-06-17T02:41:35.954345"
+      "found_at": "2025-06-17T03:42:01.258536"
     },
     {
       "id": "c90a7e8acd4e04fd5602792a617088ef",
@@ -135,7 +144,7 @@
       "location": "Kent, WA",
       "apply_url": "https://www.stokespace.com/careers/current-openings/?gh_jid=5500675004&utm_source=ouckah",
       "date_posted": "May 24",
-      "found_at": "2025-06-17T02:41:35.954367"
+      "found_at": "2025-06-17T03:42:01.258559"
     },
     {
       "id": "fc57e9f40f5030ecad927784bf325c38",
@@ -144,7 +153,7 @@
       "location": "New York, NY",
       "apply_url": "https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/NEW-YORK-CITY/New-York-City-Digital-Intern---2026_JR-254945?utm_source=ouckah",
       "date_posted": "May 24",
-      "found_at": "2025-06-17T02:41:35.954387"
+      "found_at": "2025-06-17T03:42:01.258578"
     },
     {
       "id": "db827b58fe3765a0eeb4bfba1992c5a9",
@@ -153,7 +162,7 @@
       "location": "New York, NY",
       "apply_url": "https://job-boards.greenhouse.io/point72/jobs/7297613002?utm_source=ouckah",
       "date_posted": "May 24",
-      "found_at": "2025-06-17T02:41:35.954399"
+      "found_at": "2025-06-17T03:42:01.258591"
     },
     {
       "id": "d926ac8eecb5983b8d9588aabc563d83",
@@ -162,7 +171,7 @@
       "location": "Herndon, VA",
       "apply_url": "https://www.lockheedmartinjobs.com/job/herndon/cyber-software-engineering-intern-summer-2026/694/81556994752?utm_source=ouckah",
       "date_posted": "May 24",
-      "found_at": "2025-06-17T02:41:35.954413"
+      "found_at": "2025-06-17T03:42:01.258603"
     },
     {
       "id": "e64b4dd0e4951a9db89c374674b558fa",
@@ -171,7 +180,7 @@
       "location": "New York, NY",
       "apply_url": "https://www.janestreet.com/join-jane-street/position/5869205002/?utm_source=ouckah",
       "date_posted": "May 24",
-      "found_at": "2025-06-17T02:41:35.954426"
+      "found_at": "2025-06-17T03:42:01.258615"
     },
     {
       "id": "cbf3889fae537a07541d2cb241f90fe4",
@@ -180,7 +189,7 @@
       "location": "New York, NY",
       "apply_url": "https://www.deshaw.com/careers/fundamental-research-analyst-intern-new-york-summer-2026-5378?utm_source=ouckah",
       "date_posted": "May 24",
-      "found_at": "2025-06-17T02:41:35.954438"
+      "found_at": "2025-06-17T03:42:01.258626"
     },
     {
       "id": "9c68061e794c0633e2979654be6eadf0",
@@ -189,7 +198,7 @@
       "location": "New York, NY",
       "apply_url": "https://jobs.citi.com/job/new-york/markets-quantitative-analysis-summer-analyst-new-york-city-us-2026/287/77659897200?utm_source=ouckah",
       "date_posted": "May 24",
-      "found_at": "2025-06-17T02:41:35.954455"
+      "found_at": "2025-06-17T03:42:01.258647"
     },
     {
       "id": "d90130ec8a5eb3c259b97f45f4546209",
@@ -198,7 +207,7 @@
       "location": "Jersey City, NJ",
       "apply_url": "https://group.bnpparibas/en/careers/job-offer/2026-summer-analyst-internship-technology?utm_source=ouckah",
       "date_posted": "May 24",
-      "found_at": "2025-06-17T02:41:35.954468"
+      "found_at": "2025-06-17T03:42:01.258659"
     },
     {
       "id": "6d5340124c31a7061d79970a5d934446",
@@ -207,7 +216,7 @@
       "location": "Chicago, IL",
       "apply_url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002?utm_source=ouckah",
       "date_posted": "May 24",
-      "found_at": "2025-06-17T02:41:35.954483"
+      "found_at": "2025-06-17T03:42:01.258671"
     },
     {
       "id": "9da1277756d2d43b5570b7eb5472e52c",
@@ -216,7 +225,7 @@
       "location": "Chicago, IL",
       "apply_url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7985726002?utm_source=ouckah",
       "date_posted": "May 08",
-      "found_at": "2025-06-17T02:41:35.954497"
+      "found_at": "2025-06-17T03:42:01.258684"
     },
     {
       "id": "aa9e44c125dffdcc3b8e3d4f3c5e2507",
@@ -225,7 +234,7 @@
       "location": "<details><summary>**16 locations**</summary>Atlanta, GA</br>Boston, MA</br>Chicago, IL</br>Mexico City, MX</br>Miami, FL</br>Montreal, QC</br>New York, NY</br>Newport Beach, CA</br>Princeton, NJ</br>San Francisco, CA</br>Santa Monica, CA</br>Sausalito, CA</br>Seattle, WA</br>Toronto, Canada</br>Washington, DC</br>Wilmington, DE</details>",
       "apply_url": "https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-e774a855fe31/candidate/so/pm/1/pl/1/opp/9601-2026-Summer-Internship-Program-AMERS/en-GB?utm_source=ouckah",
       "date_posted": "Mar 04",
-      "found_at": "2025-06-17T02:41:35.954513"
+      "found_at": "2025-06-17T03:42:01.258703"
     }
   ]
 }
