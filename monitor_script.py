@@ -7,6 +7,7 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from datetime import datetime
 import re
+import pytz
 
 class InternshipMonitor:
     def __init__(self):
@@ -184,6 +185,11 @@ class InternshipMonitor:
     
     def create_email_html(self, internships):
         """Create HTML email content"""
+        # Get current time in EST timezone
+        est = pytz.timezone('US/Eastern')
+        current_time = datetime.now(est)
+        formatted_time = current_time.strftime('%a %B %d, %Y %I:%M %p %Z')
+        
         html = f"""
         <html>
         <head>
@@ -204,7 +210,7 @@ class InternshipMonitor:
             <div class="header">
                 <h2>🎉 New Summer 2026 Internships Alert!</h2>
                 <p>Found {len(internships)} new internship opening(s).</p>
-                <p><strong>Time:</strong> {datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')}</p>
+                <p><strong>Time:</strong> {formatted_time}</p>
             </div>
         """
         
