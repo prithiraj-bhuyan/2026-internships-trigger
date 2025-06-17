@@ -45,6 +45,8 @@ class InternshipMonitor:
         table_section = content[table_start:table_end]
         lines = table_section.split('\n')
         
+        current_company = ""  # Track the current company for continuation rows
+        
         for line in lines[2:]:  # Skip header and separator
             line = line.strip()
             if not line or line.startswith('|---') or '🔒' in line:
@@ -59,8 +61,19 @@ class InternshipMonitor:
                 application_link = parts[4].strip()
                 date_posted = parts[5].strip()
                 
-                # Skip empty rows and continuation rows (↳)
-                if not company or company == '↳':
+                # Skip completely empty rows
+                if not role or not location or not application_link:
+                    continue
+                
+                # Handle continuation rows (↳, L,, etc.)
+                if not company or company in ['↳', 'L,', 'L', '']:
+                    company = current_company
+                else:
+                    # Update current company for future continuation rows
+                    current_company = company
+                
+                # Skip if we still don't have a company name
+                if not company:
                     continue
                 
                 # Clean up company and role names (remove markdown formatting)
@@ -75,6 +88,7 @@ class InternshipMonitor:
                 apply_url = url_match.group(1) if url_match else ""
                 
                 # Create unique identifier using more stable data
+                # Include role in ID to distinguish between different positions at same company
                 internship_id = hashlib.md5(f"{company.lower()}{role.lower()}{location.lower()}".encode()).hexdigest()
                 
                 internship = {
