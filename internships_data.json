@@ -1,7 +1,16 @@
 {
-  "last_updated": "2026-05-22T23:56:15.736909",
-  "total_count": 58,
+  "last_updated": "2026-05-23T02:10:10.792812",
+  "total_count": 48,
   "internships": [
+    {
+      "id": "b1157f7c3255c81f8f99c79ed4565502",
+      "company": "Voloridge Investment Management",
+      "role": "Quantitative Developer Intern",
+      "location": "Jupiter, FL",
+      "apply_url": "https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027?s=lif&jr_id=69eaa8e4dc35f7132c4ab803&utm_source=github-vansh-ouckah",
+      "date_posted": "May 22",
+      "found_at": "2026-05-23T02:10:09.703351"
+    },
     {
       "id": "b221eaa544cec2e840fdae121b2ff65c",
       "company": "Susquehanna",
@@ -9,7 +18,7 @@
       "location": "Bala Cynwyd, PA",
       "apply_url": "https://careers.sig.com/jobs/10837?lang=en-us&mode=apply&iis=LinkedIn&jr_id=69f3d11158b23a2329da8088&utm_source=github-vansh-ouckah",
       "date_posted": "May 22",
-      "found_at": "2026-05-22T23:56:15.736249"
+      "found_at": "2026-05-23T02:10:09.703391"
     },
     {
       "id": "5d836ef09cf162f4a21feae409514635",
@@ -18,7 +27,7 @@
       "location": "New York, NY",
       "apply_url": "https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/New-York/Intern--Software-Engineer---Pixel-Serving_JR012201?utm_source=github-vansh-ouckah",
       "date_posted": "May 22",
-      "found_at": "2026-05-22T23:56:15.736268"
+      "found_at": "2026-05-23T02:10:09.703400"
     },
     {
       "id": "1c4a1d81f0ccdda4276c85fe7e1b2f3d",
@@ -27,7 +36,7 @@
       "location": "Chantilly, VA",
       "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183707?utm_source=github-vansh-ouckah",
       "date_posted": "May 22",
-      "found_at": "2026-05-22T23:56:15.736278"
+      "found_at": "2026-05-23T02:10:09.703408"
     },
     {
       "id": "1c4a1d81f0ccdda4276c85fe7e1b2f3d",
@@ -36,7 +45,7 @@
       "location": "Chantilly, VA",
       "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183721?utm_source=github-vansh-ouckah",
       "date_posted": "May 22",
-      "found_at": "2026-05-22T23:56:15.736290"
+      "found_at": "2026-05-23T02:10:09.703419"
     },
     {
       "id": "1c4a1d81f0ccdda4276c85fe7e1b2f3d",
@@ -45,7 +54,7 @@
       "location": "Chantilly, VA",
       "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183714?utm_source=github-vansh-ouckah",
       "date_posted": "May 22",
-      "found_at": "2026-05-22T23:56:15.736298"
+      "found_at": "2026-05-23T02:10:09.703426"
     },
     {
       "id": "ec94565ef4d9b1f62aa7c82ad51dd82a",
@@ -54,7 +63,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://jobs.ashbyhq.com/Etched/aa17bfa2-2922-4aa7-820d-76064f2551a8?utm_source=github-vansh-ouckah",
       "date_posted": "May 22",
-      "found_at": "2026-05-22T23:56:15.736306"
+      "found_at": "2026-05-23T02:10:09.703433"
     },
     {
       "id": "92f9b10d233e14f36d7582aa18ca3fb1",
@@ -63,7 +72,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://jobs.ashbyhq.com/Etched/8134a9bf-9624-48dd-98be-0bf1c3cb1f55?utm_source=github-vansh-ouckah",
       "date_posted": "May 22",
-      "found_at": "2026-05-22T23:56:15.736313"
+      "found_at": "2026-05-23T02:10:09.703446"
     },
     {
       "id": "741a1af238aac0f929cbc53707592b8d",
@@ -72,7 +81,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://jobs.ashbyhq.com/Etched/80926a71-0a62-4bf8-a877-b6d96df279b7?utm_source=github-vansh-ouckah",
       "date_posted": "May 22",
-      "found_at": "2026-05-22T23:56:15.736325"
+      "found_at": "2026-05-23T02:10:09.703454"
     },
     {
       "id": "83543f2ef4a2f1377929ecf48303ec83",
@@ -81,7 +90,16 @@
       "location": "San Jose, CA",
       "apply_url": "https://jobs.ashbyhq.com/Etched/2d7039e2-190e-4039-b5a9-fff9efa7cc8e?utm_source=github-vansh-ouckah",
       "date_posted": "May 22",
-      "found_at": "2026-05-22T23:56:15.736334"
+      "found_at": "2026-05-23T02:10:09.703461"
+    },
+    {
+      "id": "cff5459a02758cd324ec3723962527cb",
+      "company": "Aquatic Capital",
+      "role": "Software Engineer Intern",
+      "location": "Chicago, IL",
+      "apply_url": "https://job-boards.greenhouse.io/embed/job_app?for=aquaticcapitalmanagement&jr_id=6a06fd77152f493123c4b595&token=8489233002&utm_source=github-vansh-ouckah",
+      "date_posted": "May 22",
+      "found_at": "2026-05-23T02:10:09.703467"
     },
     {
       "id": "7dc537b3d03df9421d189572a156fddd",
@@ -90,7 +108,7 @@
       "location": "United States",
       "apply_url": "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships?utm_source=github-vansh-ouckah",
       "date_posted": "May 22",
-      "found_at": "2026-05-22T23:56:15.736341"
+      "found_at": "2026-05-23T02:10:09.703473"
     },
     {
       "id": "5a06682ff96e27600fe1a47e9dab5748",
@@ -99,7 +117,7 @@
       "location": "United States",
       "apply_url": "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships?utm_source=github-vansh-ouckah",
       "date_posted": "May 22",
-      "found_at": "2026-05-22T23:56:15.736349"
+      "found_at": "2026-05-23T02:10:09.703480"
     },
     {
       "id": "d0dcf1b5cfc6be1bbbf6e930fa5847ca",
@@ -108,7 +126,7 @@
       "location": "San Mateo, CA",
       "apply_url": "https://www.workatastartup.com/jobs/95003?utm_source=github-vansh-ouckah",
       "date_posted": "May 19",
-      "found_at": "2026-05-22T23:56:15.736361"
+      "found_at": "2026-05-23T02:10:09.703491"
     },
     {
       "id": "cfb2c913c831958d1f5ccc1f2d658e62",
@@ -117,7 +135,7 @@
       "location": "Lehi, UT",
       "apply_url": "https://job-boards.greenhouse.io/podium81/jobs/7939921?utm_source=github-vansh-ouckah",
       "date_posted": "May 19",
-      "found_at": "2026-05-22T23:56:15.736367"
+      "found_at": "2026-05-23T02:10:09.703497"
     },
     {
       "id": "a16a338f667adc24df5d5cfcc6f72851",
@@ -126,7 +144,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://www.workatastartup.com/jobs/94993?utm_source=github-vansh-ouckah",
       "date_posted": "May 19",
-      "found_at": "2026-05-22T23:56:15.736375"
+      "found_at": "2026-05-23T02:10:09.703505"
     },
     {
       "id": "944903993b529f53d063af6c3dd0ee86",
@@ -135,7 +153,7 @@
       "location": "San Francisco, CA</br>New York, NY",
       "apply_url": "https://www.workatastartup.com/jobs/94620?utm_source=github-vansh-ouckah",
       "date_posted": "May 14",
-      "found_at": "2026-05-22T23:56:15.736383"
+      "found_at": "2026-05-23T02:10:09.703513"
     },
     {
       "id": "03df87310f157d55c23557377ee2150f",
@@ -144,7 +162,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://www.workatastartup.com/jobs/94631?utm_source=github-vansh-ouckah",
       "date_posted": "May 14",
-      "found_at": "2026-05-22T23:56:15.736390"
+      "found_at": "2026-05-23T02:10:09.703520"
     },
     {
       "id": "ed7d2db4022860379f5f93bbfc794261",
@@ -153,16 +171,7 @@
       "location": "San Francisco, CA</br>Remote",
       "apply_url": "https://www.workatastartup.com/jobs/94647?utm_source=github-vansh-ouckah",
       "date_posted": "May 14",
-      "found_at": "2026-05-22T23:56:15.736398"
-    },
-    {
-      "id": "08a49a23b400c8424406508f4bb8e4dd",
-      "company": "Granite Construction",
-      "role": "Summer 2026 Engineer Intern",
-      "location": "Nampa, ID",
-      "apply_url": "https://granite.wd1.myworkdayjobs.com/careers/job/Nampa-Idaho/Summer-2026-Engineer-Intern--McCall---Pocatello--ID-_R0000007323?utm_source=github-vansh-ouckah",
-      "date_posted": "May 14",
-      "found_at": "2026-05-22T23:56:15.736405"
+      "found_at": "2026-05-23T02:10:09.703528"
     },
     {
       "id": "834ccc9723cf8cbcf4c8f2506233b769",
@@ -171,7 +180,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://www.workatastartup.com/jobs/94634?utm_source=github-vansh-ouckah",
       "date_posted": "May 14",
-      "found_at": "2026-05-22T23:56:15.736413"
+      "found_at": "2026-05-23T02:10:09.703536"
     },
     {
       "id": "2e1794801ad8f18462d9e4e7c627ea6a",
@@ -180,7 +189,7 @@
       "location": "Foster City, CA",
       "apply_url": "https://jobs.lever.co/zoox/22bece12-95a5-4ad7-a4e4-6c43178153d2?utm_source=github-vansh-ouckah",
       "date_posted": "May 12",
-      "found_at": "2026-05-22T23:56:15.736419"
+      "found_at": "2026-05-23T02:10:09.703542"
     },
     {
       "id": "01357b661ed0269856a35a70f4ab4cef",
@@ -189,16 +198,7 @@
       "location": "Dallas, TX",
       "apply_url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86808?utm_source=github-vansh-ouckah",
       "date_posted": "May 12",
-      "found_at": "2026-05-22T23:56:15.736425"
-    },
-    {
-      "id": "b31e5cb10bbc5628aa320c7e0a4ef569",
-      "company": "Member Solutions",
-      "role": "Software Engineering Intern",
-      "location": "Remote",
-      "apply_url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/Remote---USA/Software-Engineering-Intern_R52141-1?utm_source=github-vansh-ouckah",
-      "date_posted": "May 12",
-      "found_at": "2026-05-22T23:56:15.736431"
+      "found_at": "2026-05-23T02:10:09.703548"
     },
     {
       "id": "e53a6415f78ef3fc2c103cbade444c5e",
@@ -207,7 +207,7 @@
       "location": "Los Angeles",
       "apply_url": "https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11?utm_source=github-vansh-ouckah",
       "date_posted": "May 11",
-      "found_at": "2026-05-22T23:56:15.736438"
+      "found_at": "2026-05-23T02:10:09.703555"
     },
     {
       "id": "908583857288911f8617c66cd2ce7b9d",
@@ -216,7 +216,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857828101?utm_source=github-vansh-ouckah",
       "date_posted": "May 09",
-      "found_at": "2026-05-22T23:56:15.736444"
+      "found_at": "2026-05-23T02:10:09.703560"
     },
     {
       "id": "ecddaccbfd84c7c8ad45d624dd692512",
@@ -225,7 +225,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857832101?utm_source=github-vansh-ouckah",
       "date_posted": "May 09",
-      "found_at": "2026-05-22T23:56:15.736451"
+      "found_at": "2026-05-23T02:10:09.703567"
     },
     {
       "id": "a3699b4bfdb3436f7e3d4efe6eb27cd5",
@@ -234,7 +234,7 @@
       "location": "<details><summary>**5 locations**</summary>San Francisco, CA</br>Palo Alto, CA</br>New York, NY</br>Seattle, WA</br>Burlington, MA</details>",
       "apply_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1?utm_source=github-vansh-ouckah",
       "date_posted": "May 09",
-      "found_at": "2026-05-22T23:56:15.736458"
+      "found_at": "2026-05-23T02:10:09.703574"
     },
     {
       "id": "3c8add27ccdd993a4b301b8e391db961",
@@ -243,7 +243,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://www.workatastartup.com/jobs/93642?utm_source=github-vansh-ouckah",
       "date_posted": "May 09",
-      "found_at": "2026-05-22T23:56:15.736466"
+      "found_at": "2026-05-23T02:10:09.703581"
     },
     {
       "id": "dcb47ba1d2dbfd43e6a768ad1f1edada",
@@ -252,7 +252,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://www.workatastartup.com/jobs/94206?utm_source=github-vansh-ouckah",
       "date_posted": "May 09",
-      "found_at": "2026-05-22T23:56:15.736473"
+      "found_at": "2026-05-23T02:10:09.703588"
     },
     {
       "id": "0f00eb639a395102a08e03443c60f2e7",
@@ -261,7 +261,7 @@
       "location": "New York, NY",
       "apply_url": "https://www.workatastartup.com/jobs/94211?utm_source=github-vansh-ouckah",
       "date_posted": "May 09",
-      "found_at": "2026-05-22T23:56:15.736479"
+      "found_at": "2026-05-23T02:10:09.703593"
     },
     {
       "id": "684130287ee8c3a76827c8f85802048d",
@@ -270,7 +270,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://www.workatastartup.com/jobs/94400?utm_source=github-vansh-ouckah",
       "date_posted": "May 09",
-      "found_at": "2026-05-22T23:56:15.736486"
+      "found_at": "2026-05-23T02:10:09.703600"
     },
     {
       "id": "8c3f93c5913ce2ea358b848c8ded7a75",
@@ -279,7 +279,7 @@
       "location": "Sunnyvale, CA</br>Redmond, WA</br>Northridge, CA",
       "apply_url": "https://www.amazon.jobs/en/jobs/3144153/software-development-engineer-internship-amazon-leo-summer-2026-us?no_int_redir=1&utm_source=github-vansh-ouckah",
       "date_posted": "May 09",
-      "found_at": "2026-05-22T23:56:15.736498"
+      "found_at": "2026-05-23T02:10:09.703611"
     },
     {
       "id": "7142a998c50a256284f23593f216b966",
@@ -288,34 +288,7 @@
       "location": "<details><summary>**8 locations**</summary>Sunnyvale, CA</br>North Reading, MA</br>Westboro, MA</br>Nashville, TN</br>Austin, TX</br>Arlington, VA</br>Bellevue, WA</br>Seattle, WA</details>",
       "apply_url": "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1&utm_source=github-vansh-ouckah",
       "date_posted": "May 09",
-      "found_at": "2026-05-22T23:56:15.736525"
-    },
-    {
-      "id": "819a9a24c8a15445306dafcd36fd3246",
-      "company": "Fiserv",
-      "role": "Application Development Intern \ud83d\udec2",
-      "location": "Alpharetta, GA",
-      "apply_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Alpharetta-Georgia/Technology---Summer-Intern_R-10388735?utm_source=github-vansh-ouckah",
-      "date_posted": "Apr 29",
-      "found_at": "2026-05-22T23:56:15.736537"
-    },
-    {
-      "id": "e035639be43b2e609441750f2ec8b10a",
-      "company": "Fiserv",
-      "role": "Data Engineer Intern",
-      "location": "Alpharetta, GA",
-      "apply_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Alpharetta-Georgia/Summer-Intern---Data-Engineer_R-10393654?utm_source=github-vansh-ouckah",
-      "date_posted": "Apr 29",
-      "found_at": "2026-05-22T23:56:15.736545"
-    },
-    {
-      "id": "0f8ac8de213bed03211f07573859f801",
-      "company": "KBR",
-      "role": "Reverse Engineer Intern \ud83c\uddfa\ud83c\uddf8",
-      "location": "Beavercreek Township, OH",
-      "apply_url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/National-Security-Solutions--NSS----Reverse-Engineer-Intern_R2122629?utm_source=github-vansh-ouckah",
-      "date_posted": "Apr 28",
-      "found_at": "2026-05-22T23:56:15.736553"
+      "found_at": "2026-05-23T02:10:09.703618"
     },
     {
       "id": "3dd74b87f3d48c9fd48bb8160239418f",
@@ -324,16 +297,7 @@
       "location": "Houston, TX</br>San Francisco, CA",
       "apply_url": "https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2?utm_source=github-vansh-ouckah",
       "date_posted": "Apr 28",
-      "found_at": "2026-05-22T23:56:15.736559"
-    },
-    {
-      "id": "b01b17f3b6242e7fd526a8f0a75fccc0",
-      "company": "AssetMark",
-      "role": "QA Engineering Intern \ud83d\udec2",
-      "location": "Charlotte, NC",
-      "apply_url": "https://assetmark.wd5.myworkdayjobs.com/AssetMark_Careers/job/Charlotte-NC/QA-Engineering-Intern_Req-003753?utm_source=github-vansh-ouckah",
-      "date_posted": "Apr 28",
-      "found_at": "2026-05-22T23:56:15.736566"
+      "found_at": "2026-05-23T02:10:09.703624"
     },
     {
       "id": "881ebbf104c8dfca307d5129d4a36de0",
@@ -342,52 +306,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://lifeattiktok.com/search/7631599293708126517?utm_source=github-vansh-ouckah",
       "date_posted": "Apr 24",
-      "found_at": "2026-05-22T23:56:15.736573"
-    },
-    {
-      "id": "f8c4f06f5ae011daaf0b4231c4d02fb4",
-      "company": "Thales",
-      "role": "Software Engineer Intern",
-      "location": "Cincinnati, OH",
-      "apply_url": "https://thales.wd3.myworkdayjobs.com/en-US/careers/job/Cincinnati/Software-Engineer-Intern_R0325488-1?utm_source=github-vansh-ouckah",
-      "date_posted": "Apr 24",
-      "found_at": "2026-05-22T23:56:15.736578"
-    },
-    {
-      "id": "f8b3943984543e88beda92cc6f194293",
-      "company": "ICF",
-      "role": "Appian Developer Intern",
-      "location": "Remote",
-      "apply_url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Nationwide-Remote-Office-US99/XMLNAME-2026-Summer-Intern--Appian-Developer_R2601122?utm_source=github-vansh-ouckah",
-      "date_posted": "Apr 24",
-      "found_at": "2026-05-22T23:56:15.736584"
-    },
-    {
-      "id": "fd6f0c8712cbd5535ccccd1ab0341764",
-      "company": "Cadence",
-      "role": "Software Engineer Intern, Circuit Simulation Infrastructure",
-      "location": "San Jose, CA",
-      "apply_url": "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/SAN-JOSE/Software-Engineering-Intern---Circuit-Simulation-infrastructure_R51758-1?utm_source=github-vansh-ouckah",
-      "date_posted": "Apr 24",
-      "found_at": "2026-05-22T23:56:15.736591"
-    },
-    {
-      "id": "7d50baee1963588e77028c19b87fad5e",
-      "company": "Cadence",
-      "role": "Software Engineering Intern",
-      "location": "San Jose, CA",
-      "apply_url": "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/SAN-JOSE/Software-Engineering-Intern_R54365-2?utm_source=github-vansh-ouckah",
-      "date_posted": "Apr 24",
-      "found_at": "2026-05-22T23:56:15.736599"
-    },
-    {
-      "id": "caab4a07275fc9879310e43e32ab285f",
-      "company": "AssetMark",
-      "role": "Software Engineering Intern \ud83d\udec2",
-      "location": "Austin, TX",
-      "apply_url": "https://assetmark.wd5.myworkdayjobs.com/en-US/assetmark_careers/job/Austin-TX/Software-Engineering-Intern_Req-003804?utm_source=github-vansh-ouckah",
-      "date_posted": "Apr 24",
-      "found_at": "2026-05-22T23:56:15.736609"
+      "found_at": "2026-05-23T02:10:09.703631"
     },
     {
       "id": "d632428fb8eacd3ef997a54ed2a2fe14",
@@ -396,7 +315,7 @@
       "location": "Bensenville, IL",
       "apply_url": "https://apply.workable.com/al-warren-oil-company-inc/j/A4487B349D/?utm_source=github-vansh-ouckah",
       "date_posted": "Apr 24",
-      "found_at": "2026-05-22T23:56:15.736616"
+      "found_at": "2026-05-23T02:10:09.703637"
     },
     {
       "id": "7fde7f215e7e9afbddabd4f7d07ca44f",
@@ -405,7 +324,7 @@
       "location": "Coral Gables, FL",
       "apply_url": "https://career41.sapsf.com/career?career_ns=job_listing&company=hcollp&career_job_req_id=3507&utm_source=github-vansh-ouckah",
       "date_posted": "Apr 22",
-      "found_at": "2026-05-22T23:56:15.736622"
+      "found_at": "2026-05-23T02:10:09.703642"
     },
     {
       "id": "ed9a0e1a3f536fcdb7fbf09ab6279f7f",
@@ -414,7 +333,7 @@
       "location": "Cayman</br>Denver</br>New York",
       "apply_url": "https://jobs.ashbyhq.com/ether.fi/6dcb712c-8fe5-4725-ad6a-0e9771af22cb?utm_source=github-vansh-ouckah",
       "date_posted": "Apr 22",
-      "found_at": "2026-05-22T23:56:15.736628"
+      "found_at": "2026-05-23T02:10:09.703648"
     },
     {
       "id": "23711f21e01245f19661b18672b7851c",
@@ -423,7 +342,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job&utm_source=github-vansh-ouckah",
       "date_posted": "Apr 20",
-      "found_at": "2026-05-22T23:56:15.736633"
+      "found_at": "2026-05-23T02:10:09.703654"
     },
     {
       "id": "ef22b965a2df3d520d2a253a1ef1cb98",
@@ -432,7 +351,7 @@
       "location": "Irvine, CA",
       "apply_url": "https://careers.skyworksinc.com/job/Irvine-Analog-IC-Design-SummerFall-Co-Op-(June-&apos;26-Dec-&apos;26)-CA-92602/76295-en_US/?feedId=177100&utm_source=github-vansh-ouckah",
       "date_posted": "Apr 20",
-      "found_at": "2026-05-22T23:56:15.736639"
+      "found_at": "2026-05-23T02:10:09.703660"
     },
     {
       "id": "19e91ddf043bda9e30766cf403e6a493",
@@ -441,7 +360,7 @@
       "location": "Redwood City, CA",
       "apply_url": "https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa?utm_source=github-vansh-ouckah",
       "date_posted": "Apr 20",
-      "found_at": "2026-05-22T23:56:15.736647"
+      "found_at": "2026-05-23T02:10:09.703667"
     },
     {
       "id": "18d12979f64acf68c31737fb82cc748d",
@@ -450,7 +369,7 @@
       "location": "New York, NY",
       "apply_url": "https://careers.ice.com/jobs/12830?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply&jr_id=69e67bb27820c036924d0af9&utm_source=github-vansh-ouckah",
       "date_posted": "Apr 20",
-      "found_at": "2026-05-22T23:56:15.736653"
+      "found_at": "2026-05-23T02:10:09.703673"
     },
     {
       "id": "819a9a24c8a15445306dafcd36fd3246",
@@ -459,7 +378,7 @@
       "location": "Alpharetta, GA",
       "apply_url": "https://careers.fiserv.com/us/en/job/FFFYJUSR10390264EXTERNALENUS/Application-Development-Summer-Intern?jr_id=69e6ab177820c036924d1dc6&utm_source=github-vansh-ouckah",
       "date_posted": "Apr 20",
-      "found_at": "2026-05-22T23:56:15.736660"
+      "found_at": "2026-05-23T02:10:09.703680"
     },
     {
       "id": "7bcb42d496d4f067a38417a7faa2d7ca",
@@ -468,7 +387,7 @@
       "location": "Columbus, OH",
       "apply_url": "https://careers.fiserv.com/us/en/job/FFFYJUSR10390344EXTERNALENUS/Technology-Summer-Intern?jr_id=69e6ab5e3aa0c4796439589b&utm_source=github-vansh-ouckah",
       "date_posted": "Apr 20",
-      "found_at": "2026-05-22T23:56:15.736668"
+      "found_at": "2026-05-23T02:10:09.703687"
     },
     {
       "id": "ea0d073bfa193ab62a7703059a89fab1",
@@ -477,7 +396,7 @@
       "location": "Los Angeles, CA</br>Seattle, WA",
       "apply_url": "https://accenture.wd103.myworkdayjobs.com/en-GB/AvanadeCareers/job/Los-Angeles-6181-W-Centinela-Ave-Corp/Intern--Software-Engineering---June-2026_R00319370?jr_id=69e6a556f8fa2f3ec32a3173&utm_source=github-vansh-ouckah",
       "date_posted": "Apr 20",
-      "found_at": "2026-05-22T23:56:15.736674"
+      "found_at": "2026-05-23T02:10:09.703692"
     },
     {
       "id": "a0dd0c2a96cbec601308b7c0dcf2f5c0",
@@ -486,7 +405,7 @@
       "location": "New York, NY",
       "apply_url": "https://jobs.disneycareers.com/job/new-york/abc-news-product-management-and-engineering-intern-summer-fall-2026/391/93958488896?utm_source=github-vansh-ouckah",
       "date_posted": "Apr 20",
-      "found_at": "2026-05-22T23:56:15.736680"
+      "found_at": "2026-05-23T02:10:09.703698"
     },
     {
       "id": "ed149db701d8cbaa0745b9ba172f38af",
@@ -495,7 +414,7 @@
       "location": "<details><summary>**5 locations**</summary>New York, NY</br>San Francisco, CA</br>Chicago, IL</br>West Palm Beach, FL</br>Miami, FL</details>",
       "apply_url": "https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081&utm_source=github-vansh-ouckah",
       "date_posted": "Apr 19",
-      "found_at": "2026-05-22T23:56:15.736686"
+      "found_at": "2026-05-23T02:10:09.703704"
     },
     {
       "id": "fb3e24cbd6a3cf4ffc22ed1cca171d52",
@@ -504,7 +423,7 @@
       "location": "New York, NY",
       "apply_url": "https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295&utm_source=github-vansh-ouckah",
       "date_posted": "Apr 19",
-      "found_at": "2026-05-22T23:56:15.736693"
+      "found_at": "2026-05-23T02:10:09.703710"
     },
     {
       "id": "db827b58fe3765a0eeb4bfba1992c5a9",
@@ -513,16 +432,7 @@
       "location": "New York, NY",
       "apply_url": "https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293&utm_source=github-vansh-ouckah",
       "date_posted": "Apr 19",
-      "found_at": "2026-05-22T23:56:15.736699"
-    },
-    {
-      "id": "c009400dd9f8e8f44cbb759ef2cd515d",
-      "company": "ABC Fitness",
-      "role": "Software Engineer Intern \ud83d\udec2",
-      "location": "Frisco, TX",
-      "apply_url": "https://abcfinancial.wd5.myworkdayjobs.com/abcfinancialservices/job/Dallas-TX/Software-Engineer---Intern_REQ-1246?utm_source=github-vansh-ouckah",
-      "date_posted": "Apr 19",
-      "found_at": "2026-05-22T23:56:15.736706"
+      "found_at": "2026-05-23T02:10:09.703716"
     }
   ]
 }
