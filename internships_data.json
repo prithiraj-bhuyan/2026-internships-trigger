@@ -1,15 +1,402 @@
 {
-  "last_updated": "2026-07-24T07:24:27.085242",
-  "total_count": 64,
+  "last_updated": "2026-07-24T09:40:59.192578",
+  "total_count": 100,
   "internships": [
     {
-      "id": "a6bde5bc4ae78ab8b569260a6ccee9da",
-      "company": "Rakuten International",
+      "id": "73016e648511edbef27f2b09aafc20ac",
+      "company": "Walleye Capital",
+      "role": "Investment Data Science Intern",
+      "location": "New York, NY",
+      "apply_url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302729"
+    },
+    {
+      "id": "4a9c629fa65a93c01be525e21c5d0280",
+      "company": "Walleye Capital",
+      "role": "Equity Volatility Quant Researcher Intern",
+      "location": "Miami, FL",
+      "apply_url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302750"
+    },
+    {
+      "id": "68eab6f81531f5e240ab5b0bae8023ea",
+      "company": "Walleye Capital",
+      "role": "Technology Intern",
+      "location": "New York, NY",
+      "apply_url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302760"
+    },
+    {
+      "id": "2e68aa61817dc491e0b3d492726f4932",
+      "company": "Walleye Capital",
+      "role": "Risk Technology Analyst Intern",
+      "location": "New York, NY",
+      "apply_url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679224006?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302768"
+    },
+    {
+      "id": "9c9fe521dfadfb75056fa122cb897033",
+      "company": "Schweitzer Engineering Laboratories",
       "role": "Software Engineer Intern",
-      "location": "San Mateo, California",
-      "apply_url": "https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/San-Mateo-California/Intern---Software-Engineer--AI-User-Experience_1033171?utm_source=github-vansh-ouckah",
-      "date_posted": "Jul 09",
-      "found_at": "2026-07-24T07:24:27.084680"
+      "location": "Boise, ID",
+      "apply_url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-22321?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302776"
+    },
+    {
+      "id": "51525baff2135664cd87314d1a72a6f0",
+      "company": "Radix Trading",
+      "role": "Quantitative Technologist Intern, C++",
+      "location": "Chicago, IL",
+      "apply_url": "https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302784"
+    },
+    {
+      "id": "8bce213b07730e231c1382f63d0afcc1",
+      "company": "Palantir Technologies",
+      "role": "Software Engineer Intern, Production Infrastructure",
+      "location": "Seattle, WA",
+      "apply_url": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302791"
+    },
+    {
+      "id": "261690305158b5f4c2ccfde2fb3de8c1",
+      "company": "Palantir Technologies",
+      "role": "Software Engineer Intern, Infrastructure",
+      "location": "New York, NY",
+      "apply_url": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302804"
+    },
+    {
+      "id": "04ef742f718737b6a33954fc5a3941a3",
+      "company": "Palantir Technologies",
+      "role": "Software Engineer Intern",
+      "location": "New York, NY",
+      "apply_url": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302812"
+    },
+    {
+      "id": "8bb237b2c1a4cb35407a214be34a02c7",
+      "company": "Palantir Technologies",
+      "role": "Software Engineer Intern",
+      "location": "Washington, D.C.",
+      "apply_url": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302818"
+    },
+    {
+      "id": "43116a38b77962082797704415539c26",
+      "company": "Palantir Technologies",
+      "role": "Software Engineer Intern",
+      "location": "Palo Alto, CA",
+      "apply_url": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302825"
+    },
+    {
+      "id": "18c7f82422200e525d8dee565b4caf05",
+      "company": "Old Mission",
+      "role": "Software Engineer Intern",
+      "location": "Chicago, IL",
+      "apply_url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796180003&utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302831"
+    },
+    {
+      "id": "024e1342750a7a57ad89208c868cd5b5",
+      "company": "Jane Street",
+      "role": "Software Engineer Intern",
+      "location": "New York, NY",
+      "apply_url": "https://www.janestreet.com/join-jane-street/position/8599644002/?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302836"
+    },
+    {
+      "id": "b8c39e3dd965acb4fe2ec7340f2dd64d",
+      "company": "Jane Street",
+      "role": "Windows Engineer Intern",
+      "location": "New York, NY",
+      "apply_url": "https://www.janestreet.com/join-jane-street/position/8628843002/?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302842"
+    },
+    {
+      "id": "a15f8f3508b7ae650a2952ad8dd8f130",
+      "company": "Jane Street",
+      "role": "Trading Desk Operations Engineer Intern",
+      "location": "New York, NY",
+      "apply_url": "https://www.janestreet.com/join-jane-street/position/8621450002/?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302848"
+    },
+    {
+      "id": "47808751f376d49ced0f0f020a61da5e",
+      "company": "Jane Street",
+      "role": "Tools and Compilers Research and Development Intern",
+      "location": "New York, NY",
+      "apply_url": "https://www.janestreet.com/join-jane-street/position/5869205002/?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302854"
+    },
+    {
+      "id": "f740d1c33b8b6a5b37aa367ef392a3a6",
+      "company": "Jane Street",
+      "role": "Sales and Trading Intern",
+      "location": "New York, NY",
+      "apply_url": "https://www.janestreet.com/join-jane-street/position/8347385002/?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302859"
+    },
+    {
+      "id": "3bfaed641ffa298648cee21f18537703",
+      "company": "Jane Street",
+      "role": "Network Engineer Intern",
+      "location": "New York, NY",
+      "apply_url": "https://www.janestreet.com/join-jane-street/position/8620793002/?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302864"
+    },
+    {
+      "id": "a2e29fed23d3d85244bb6b6e261d113b",
+      "company": "Jane Street",
+      "role": "Linux Engineer Intern",
+      "location": "New York, NY",
+      "apply_url": "https://www.janestreet.com/join-jane-street/position/8626260002/?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302870"
+    },
+    {
+      "id": "02bebefeddba20052ec0bb4f1beaffc9",
+      "company": "Jane Street",
+      "role": "Hardware Engineer (FPGA/ASIC) Intern",
+      "location": "New York, NY",
+      "apply_url": "https://www.janestreet.com/join-jane-street/position/8624440002/?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302875"
+    },
+    {
+      "id": "5def3a878e16a67ab27b85df9eeb38da",
+      "company": "Jane Street",
+      "role": "Fundamental Research Analyst Intern",
+      "location": "New York, NY",
+      "apply_url": "https://www.janestreet.com/join-jane-street/position/8347286002/?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302881"
+    },
+    {
+      "id": "3c579f3b2d6010a69848825ce17b0ba8",
+      "company": "Jane Street",
+      "role": "Data Engineer Intern",
+      "location": "New York, NY",
+      "apply_url": "https://www.janestreet.com/join-jane-street/position/8631973002/?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302886"
+    },
+    {
+      "id": "82ea16bd90a3a8f8e44d868015faf768",
+      "company": "Jane Street",
+      "role": "Cybersecurity Analyst Intern",
+      "location": "New York, NY",
+      "apply_url": "https://www.janestreet.com/join-jane-street/position/8632723002/?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302891"
+    },
+    {
+      "id": "8fd488e5e10d88318990c3151a5687b6",
+      "company": "Jane Street",
+      "role": "Machine Learning Researcher Intern",
+      "location": "New York, NY",
+      "apply_url": "https://www.janestreet.com/join-jane-street/position/8384490002/?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302897"
+    },
+    {
+      "id": "5f9998ff4ac7a33f94f353d0d0c9220a",
+      "company": "Jane Street",
+      "role": "Machine Learning Engineer Intern",
+      "location": "New York, NY",
+      "apply_url": "https://www.janestreet.com/join-jane-street/position/8611307002/?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302902"
+    },
+    {
+      "id": "74fd814eb90bfcac70570964c0cfd44f",
+      "company": "Jane Street",
+      "role": "Quantitative Researcher Intern",
+      "location": "New York, NY",
+      "apply_url": "https://www.janestreet.com/join-jane-street/position/8498547002/?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302908"
+    },
+    {
+      "id": "65e57115bb7d0e30b3631a973d500616",
+      "company": "Jane Street",
+      "role": "Quantitative Trader Intern",
+      "location": "New York, NY",
+      "apply_url": "https://www.janestreet.com/join-jane-street/position/8617344002/?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302913"
+    },
+    {
+      "id": "7f39571398d9bb745830a85b1c396daa",
+      "company": "IMC",
+      "role": "Hardware Engineer Intern",
+      "location": "Chicago, IL",
+      "apply_url": "https://www.imc.com/us/careers/jobs/4823945101?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302919"
+    },
+    {
+      "id": "4127be668512f1137cd244500849ee5f",
+      "company": "IMC",
+      "role": "Quantitative Research Intern",
+      "location": "Chicago, IL",
+      "apply_url": "https://www.imc.com/us/careers/jobs/4907399101?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302924"
+    },
+    {
+      "id": "cef95fd4c8613526cfb6e47b0249b65c",
+      "company": "IMC",
+      "role": "Quantitative Research Intern (PHD)",
+      "location": "Chicago",
+      "apply_url": "https://www.imc.com/us/careers/jobs/4907400101?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302930"
+    },
+    {
+      "id": "a7b212e80a85b1529d0d0ba192b43ff1",
+      "company": "Hudson River Trading",
+      "role": "Intern",
+      "location": "New York, NY",
+      "apply_url": "https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027/?gh_src=&utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302936"
+    },
+    {
+      "id": "44afd96f510c655aa03207c64975d53e",
+      "company": "Hudson River Trading",
+      "role": "Software Engineer Intern",
+      "location": "Austin, TX</br>Chicago, IL</br>New York, NY",
+      "apply_url": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=&utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302942"
+    },
+    {
+      "id": "db4e1b797c815a01d03664fed564a612",
+      "company": "Google",
+      "role": "Software Engineering Intern",
+      "location": "<details><summary>**30 locations**</summary>Mountain View, CA</br>Atlanta, GA</br>Austin, TX</br>Boulder, CO</br>Cambridge, MA</br>Bellevue, WA</br>Chicago, IL</br>Houston, TX</br>Irvine, CA</br>Kirkland, WA</br>Los Angeles, CA</br>Madison, WI</br>New York, NY</br>Palo Alto, CA</br>Portland, OR</br>Pittsburgh, PA</br>Raleigh, NC</br>Durham, NC</br>Reston, VA</br>Redmond, WA</br>Redwood City, CA</br>San Diego, CA</br>Goleta, CA</br>San Bruno, CA</br>Seattle, WA</br>San Francisco, CA</br>San Jose, CA</br>Santa Cruz, CA</br>South San Francisco, CA</br>Sunnyvale, CA</details>",
+      "apply_url": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302951"
+    },
+    {
+      "id": "923204311e7fa4b96e76958156abc4fe",
+      "company": "Five Rings",
+      "role": "Software Developer Intern \ud83c\uddfa\ud83c\uddf8",
+      "location": "New York, NY",
+      "apply_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302964"
+    },
+    {
+      "id": "a46315b572d02ca9e5030a91e1932ea6",
+      "company": "Deepgram",
+      "role": "Software Engineering Intern",
+      "location": "Remote</br>US",
+      "apply_url": "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302970"
+    },
+    {
+      "id": "8d97a4153414710d58e115ac76eebc99",
+      "company": "Copart",
+      "role": "Software Engineering Intern",
+      "location": "Dallas, TX",
+      "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302976"
+    },
+    {
+      "id": "21f826c2acad62340119c8f3c7965fc4",
+      "company": "Akuna Capital",
+      "role": "Quantitative Research Intern \ud83c\uddfa\ud83c\uddf8",
+      "location": "Chicago",
+      "apply_url": "https://akunacapital.com/careers/job/8036614/?gh_jid=8036614&utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302983"
+    },
+    {
+      "id": "7bf248cf31fea0ae5b3f37572cb1c6cc",
+      "company": "Akuna Capital",
+      "role": "Quantitative Development & Strategy Intern \ud83c\uddfa\ud83c\uddf8",
+      "location": "Chicago",
+      "apply_url": "https://akunacapital.com/careers/job/8021481/?gh_jid=8021481&utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302991"
+    },
+    {
+      "id": "c5934287613f5307ae0fbe948c91432a",
+      "company": "Akuna Capital",
+      "role": "Software Engineer Intern, C# .NET Desktop",
+      "location": "Chicago, IL",
+      "apply_url": "https://akunacapital.com/careers/job/8018886/?gh_jid=8018886&utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.302997"
+    },
+    {
+      "id": "ac8f1e680ca1292a8593279d7d623f23",
+      "company": "Akuna Capital",
+      "role": "Software Engineer Intern, Full Stack Web \ud83c\uddfa\ud83c\uddf8",
+      "location": "Chicago, IL",
+      "apply_url": "https://akunacapital.com/careers/job/8018893/?gh_jid=8018893&utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.303004"
+    },
+    {
+      "id": "7e38150750b629b0b94875abb67b94bf",
+      "company": "Akuna Capital",
+      "role": "Python Software Engineer Intern \ud83c\uddfa\ud83c\uddf8",
+      "location": "Chicago, IL",
+      "apply_url": "https://akunacapital.com/careers/job/8018853/?gh_jid=8018853&utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.303011"
+    },
+    {
+      "id": "f11820ae4c9ad41ed4c87acdf306db06",
+      "company": "Akuna Capital",
+      "role": "Hardware Engineer Intern \ud83c\uddfa\ud83c\uddf8",
+      "location": "Chicago, IL",
+      "apply_url": "https://akunacapital.com/careers/job/8018880/?gh_jid=8018880&utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.303017"
+    },
+    {
+      "id": "9f88220e8bbe2c90e96bb8ee43dc5616",
+      "company": "Akuna Capital",
+      "role": "Platform Engineer Intern \ud83c\uddfa\ud83c\uddf8",
+      "location": "Chicago, IL",
+      "apply_url": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856&utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.303023"
+    },
+    {
+      "id": "1de975dbe8fe97e1799b13004b630f59",
+      "company": "Akuna Capital",
+      "role": "Software Engineer Intern, C++ \ud83c\uddfa\ud83c\uddf8",
+      "location": "Chicago, IL",
+      "apply_url": "https://akunacapital.com/careers/job/8018847/?gh_jid=8018847&utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "found_at": "2026-07-24T09:40:58.303029"
     },
     {
       "id": "c10f534d503ef3ecf8f8f875b6f96fb9",
@@ -18,7 +405,7 @@
       "location": "Chicago, IL",
       "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=8003019&utm_source=github-vansh-ouckah",
       "date_posted": "Jul 09",
-      "found_at": "2026-07-24T07:24:27.084699"
+      "found_at": "2026-07-24T09:40:58.303035"
     },
     {
       "id": "6efd710dbfb88fb2fa6cb86db09fead0",
@@ -27,7 +414,7 @@
       "location": "Chicago, IL",
       "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=8007788&utm_source=github-vansh-ouckah",
       "date_posted": "Jul 09",
-      "found_at": "2026-07-24T07:24:27.084706"
+      "found_at": "2026-07-24T09:40:58.303040"
     },
     {
       "id": "c3010bb79716985ac5bfed5d8b231cd9",
@@ -36,7 +423,7 @@
       "location": "Chicago, IL",
       "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=8002989&utm_source=github-vansh-ouckah",
       "date_posted": "Jul 09",
-      "found_at": "2026-07-24T07:24:27.084717"
+      "found_at": "2026-07-24T09:40:58.303046"
     },
     {
       "id": "fefed7ef7618321061a2c5e3aacad134",
@@ -45,7 +432,7 @@
       "location": "Chicago, IL</br>New York, NY",
       "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=7848371&utm_source=github-vansh-ouckah",
       "date_posted": "Jul 09",
-      "found_at": "2026-07-24T07:24:27.084723"
+      "found_at": "2026-07-24T09:40:58.303051"
     },
     {
       "id": "fa9421ba8f4a4fa08dad4f519a63cc76",
@@ -54,7 +441,7 @@
       "location": "Chicago, IL</br>New York, NY",
       "apply_url": "https://tower-research.com/open-positions/?gh_jid=8044334&utm_source=github-vansh-ouckah",
       "date_posted": "Jul 07",
-      "found_at": "2026-07-24T07:24:27.084729"
+      "found_at": "2026-07-24T09:40:58.303057"
     },
     {
       "id": "079547affd3c5c8d4d6d06437f7e68eb",
@@ -63,7 +450,7 @@
       "location": "Bala Cynwyd, PA",
       "apply_url": "https://careers.sig.com/intern-co-op-technology/jobs/10838?lang=en-us&utm_source=github-vansh-ouckah",
       "date_posted": "Jul 07",
-      "found_at": "2026-07-24T07:24:27.084734"
+      "found_at": "2026-07-24T09:40:58.303063"
     },
     {
       "id": "b96eabfddf2d965609817663e93c105c",
@@ -72,7 +459,7 @@
       "location": "Chicago, IL",
       "apply_url": "https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/?utm_source=github-vansh-ouckah",
       "date_posted": "Jul 07",
-      "found_at": "2026-07-24T07:24:27.084745"
+      "found_at": "2026-07-24T09:40:58.303068"
     },
     {
       "id": "786ed175c42620cda58368540d02cf5f",
@@ -81,7 +468,7 @@
       "location": "Austin, TX",
       "apply_url": "https://www.optiver.com/join-us/jobs/technology/austin/software-engineer-intern-summer-2027-austin/?utm_source=github-vansh-ouckah",
       "date_posted": "Jul 07",
-      "found_at": "2026-07-24T07:24:27.084751"
+      "found_at": "2026-07-24T09:40:58.303074"
     },
     {
       "id": "d6252b66ea48399ab8263484a0dbb936",
@@ -90,7 +477,7 @@
       "location": "Chicago, IL",
       "apply_url": "https://www.imc.com/us/careers/jobs/4823924101?utm_source=github-vansh-ouckah",
       "date_posted": "Jul 07",
-      "found_at": "2026-07-24T07:24:27.084757"
+      "found_at": "2026-07-24T09:40:58.303079"
     },
     {
       "id": "cd3d60ea4e473052dd29c30aa7904c20",
@@ -99,7 +486,7 @@
       "location": "New York, NY",
       "apply_url": "https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894?utm_source=github-vansh-ouckah",
       "date_posted": "Jul 07",
-      "found_at": "2026-07-24T07:24:27.084762"
+      "found_at": "2026-07-24T09:40:58.303085"
     },
     {
       "id": "7b30c40a1d1b9d354c85a489881e66d9",
@@ -108,7 +495,7 @@
       "location": "<details><summary>**4 locations**</summary>New York, NY</br>Greenwich, CT</br>Miami, FL</br>Houston, TX</details>",
       "apply_url": "https://www.citadel.com/careers/details/software-engineer-intern-us/?utm_source=github-vansh-ouckah",
       "date_posted": "Jul 07",
-      "found_at": "2026-07-24T07:24:27.084767"
+      "found_at": "2026-07-24T09:40:58.303091"
     },
     {
       "id": "adb904a936aa427b32e07492c6ecf047",
@@ -117,16 +504,7 @@
       "location": "Mclean, VA",
       "apply_url": "https://www.capitalonecareers.com/job/mclean/data-analyst-intern-summer-2027/31238/97421687472?utm_source=github-vansh-ouckah",
       "date_posted": "Jul 07",
-      "found_at": "2026-07-24T07:24:27.084771"
-    },
-    {
-      "id": "f5489b8b98568af72140df50548d1bb2",
-      "company": "Capital One",
-      "role": "Product Development Internship Program",
-      "location": "Mclean, VA</br>Plano, TX",
-      "apply_url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Development-Internship-Program---Summer-2027_R246020-1?utm_source=github-vansh-ouckah",
-      "date_posted": "Jul 07",
-      "found_at": "2026-07-24T07:24:27.084776"
+      "found_at": "2026-07-24T09:40:58.303097"
     },
     {
       "id": "2fa48355d66dde07baa6ee10703d1e1b",
@@ -135,7 +513,7 @@
       "location": "Chicago, IL",
       "apply_url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002?utm_source=github-vansh-ouckah",
       "date_posted": "Jul 07",
-      "found_at": "2026-07-24T07:24:27.084781"
+      "found_at": "2026-07-24T09:40:58.303102"
     },
     {
       "id": "5584bdcccea4801a64bcb868dc50e96d",
@@ -144,7 +522,7 @@
       "location": "<details><summary>**6 locations**</summary>Atlanta, GA</br>Boston, MA</br>Costa Mesa, CA</br>Irvine, CA</br>Reston, VA</br>Seattle, WA</details>",
       "apply_url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007&utm_source=github-vansh-ouckah",
       "date_posted": "Jul 07",
-      "found_at": "2026-07-24T07:24:27.084786"
+      "found_at": "2026-07-24T09:40:58.303108"
     },
     {
       "id": "b1157f7c3255c81f8f99c79ed4565502",
@@ -153,7 +531,7 @@
       "location": "Jupiter, FL",
       "apply_url": "https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027?s=lif&jr_id=69eaa8e4dc35f7132c4ab803&utm_source=github-vansh-ouckah",
       "date_posted": "May 22",
-      "found_at": "2026-07-24T07:24:27.084791"
+      "found_at": "2026-07-24T09:40:58.303114"
     },
     {
       "id": "b221eaa544cec2e840fdae121b2ff65c",
@@ -162,7 +540,7 @@
       "location": "Bala Cynwyd, PA",
       "apply_url": "https://careers.sig.com/jobs/10837?lang=en-us&mode=apply&iis=LinkedIn&jr_id=69f3d11158b23a2329da8088&utm_source=github-vansh-ouckah",
       "date_posted": "May 22",
-      "found_at": "2026-07-24T07:24:27.084796"
+      "found_at": "2026-07-24T09:40:58.303120"
     },
     {
       "id": "c90a7e8acd4e04fd5602792a617088ef",
@@ -171,43 +549,7 @@
       "location": "Kent, WA",
       "apply_url": "https://www.stokespace.com/careers/current-openings/?gh_jid=5987663004&jr_id=69fae0acd21cf86d1e3cd79c&utm_source=github-vansh-ouckah",
       "date_posted": "May 22",
-      "found_at": "2026-07-24T07:24:27.084801"
-    },
-    {
-      "id": "5d836ef09cf162f4a21feae409514635",
-      "company": "LiveRamp",
-      "role": "Software Engineer Intern, Pixel Serving",
-      "location": "New York, NY",
-      "apply_url": "https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/New-York/Intern--Software-Engineer---Pixel-Serving_JR012201?utm_source=github-vansh-ouckah",
-      "date_posted": "May 22",
-      "found_at": "2026-07-24T07:24:27.084805"
-    },
-    {
-      "id": "1c4a1d81f0ccdda4276c85fe7e1b2f3d",
-      "company": "Kudu Dynamics",
-      "role": "Software Engineer Intern",
-      "location": "Chantilly, VA",
-      "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183707?utm_source=github-vansh-ouckah",
-      "date_posted": "May 22",
-      "found_at": "2026-07-24T07:24:27.084810"
-    },
-    {
-      "id": "1c4a1d81f0ccdda4276c85fe7e1b2f3d",
-      "company": "Kudu Dynamics",
-      "role": "Software Engineer Intern",
-      "location": "Chantilly, VA",
-      "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183721?utm_source=github-vansh-ouckah",
-      "date_posted": "May 22",
-      "found_at": "2026-07-24T07:24:27.084814"
-    },
-    {
-      "id": "1c4a1d81f0ccdda4276c85fe7e1b2f3d",
-      "company": "Kudu Dynamics",
-      "role": "Software Engineer Intern",
-      "location": "Chantilly, VA",
-      "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183714?utm_source=github-vansh-ouckah",
-      "date_posted": "May 22",
-      "found_at": "2026-07-24T07:24:27.084818"
+      "found_at": "2026-07-24T09:40:58.303126"
     },
     {
       "id": "ec94565ef4d9b1f62aa7c82ad51dd82a",
@@ -216,7 +558,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://jobs.ashbyhq.com/Etched/aa17bfa2-2922-4aa7-820d-76064f2551a8?utm_source=github-vansh-ouckah",
       "date_posted": "May 22",
-      "found_at": "2026-07-24T07:24:27.084823"
+      "found_at": "2026-07-24T09:40:58.303131"
     },
     {
       "id": "92f9b10d233e14f36d7582aa18ca3fb1",
@@ -225,7 +567,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://jobs.ashbyhq.com/Etched/8134a9bf-9624-48dd-98be-0bf1c3cb1f55?utm_source=github-vansh-ouckah",
       "date_posted": "May 22",
-      "found_at": "2026-07-24T07:24:27.084827"
+      "found_at": "2026-07-24T09:40:58.303137"
     },
     {
       "id": "741a1af238aac0f929cbc53707592b8d",
@@ -234,7 +576,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://jobs.ashbyhq.com/Etched/80926a71-0a62-4bf8-a877-b6d96df279b7?utm_source=github-vansh-ouckah",
       "date_posted": "May 22",
-      "found_at": "2026-07-24T07:24:27.084832"
+      "found_at": "2026-07-24T09:40:58.303142"
     },
     {
       "id": "83543f2ef4a2f1377929ecf48303ec83",
@@ -243,7 +585,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://jobs.ashbyhq.com/Etched/2d7039e2-190e-4039-b5a9-fff9efa7cc8e?utm_source=github-vansh-ouckah",
       "date_posted": "May 22",
-      "found_at": "2026-07-24T07:24:27.084836"
+      "found_at": "2026-07-24T09:40:58.303148"
     },
     {
       "id": "a074eb842e7a7167ede11b1fd90ac1dd",
@@ -252,7 +594,7 @@
       "location": "New York, NY",
       "apply_url": "https://job-boards.greenhouse.io/embed/job_app?for=point72&jr_id=6a07069024dcb03739f1ec72&token=7297613002&utm_source=github-vansh-ouckah",
       "date_posted": "May 22",
-      "found_at": "2026-07-24T07:24:27.084841"
+      "found_at": "2026-07-24T09:40:58.303154"
     },
     {
       "id": "cff5459a02758cd324ec3723962527cb",
@@ -261,7 +603,7 @@
       "location": "Chicago, IL",
       "apply_url": "https://job-boards.greenhouse.io/embed/job_app?for=aquaticcapitalmanagement&jr_id=6a06fd77152f493123c4b595&token=8489233002&utm_source=github-vansh-ouckah",
       "date_posted": "May 22",
-      "found_at": "2026-07-24T07:24:27.084845"
+      "found_at": "2026-07-24T09:40:58.303159"
     },
     {
       "id": "7dc537b3d03df9421d189572a156fddd",
@@ -270,7 +612,7 @@
       "location": "United States",
       "apply_url": "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships?utm_source=github-vansh-ouckah",
       "date_posted": "May 22",
-      "found_at": "2026-07-24T07:24:27.084850"
+      "found_at": "2026-07-24T09:40:58.303165"
     },
     {
       "id": "5a06682ff96e27600fe1a47e9dab5748",
@@ -279,7 +621,7 @@
       "location": "United States",
       "apply_url": "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships?utm_source=github-vansh-ouckah",
       "date_posted": "May 22",
-      "found_at": "2026-07-24T07:24:27.084871"
+      "found_at": "2026-07-24T09:40:58.303171"
     },
     {
       "id": "d0dcf1b5cfc6be1bbbf6e930fa5847ca",
@@ -288,16 +630,7 @@
       "location": "San Mateo, CA",
       "apply_url": "https://www.workatastartup.com/jobs/95003?utm_source=github-vansh-ouckah",
       "date_posted": "May 19",
-      "found_at": "2026-07-24T07:24:27.084883"
-    },
-    {
-      "id": "cfb2c913c831958d1f5ccc1f2d658e62",
-      "company": "Podium",
-      "role": "Software Engineering Intern",
-      "location": "Lehi, UT",
-      "apply_url": "https://job-boards.greenhouse.io/podium81/jobs/7939921?utm_source=github-vansh-ouckah",
-      "date_posted": "May 19",
-      "found_at": "2026-07-24T07:24:27.084887"
+      "found_at": "2026-07-24T09:40:58.303178"
     },
     {
       "id": "a16a338f667adc24df5d5cfcc6f72851",
@@ -306,7 +639,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://www.workatastartup.com/jobs/94993?utm_source=github-vansh-ouckah",
       "date_posted": "May 19",
-      "found_at": "2026-07-24T07:24:27.084893"
+      "found_at": "2026-07-24T09:40:58.303184"
     },
     {
       "id": "944903993b529f53d063af6c3dd0ee86",
@@ -315,7 +648,7 @@
       "location": "San Francisco, CA</br>New York, NY",
       "apply_url": "https://www.workatastartup.com/jobs/94620?utm_source=github-vansh-ouckah",
       "date_posted": "May 14",
-      "found_at": "2026-07-24T07:24:27.084899"
+      "found_at": "2026-07-24T09:40:58.303190"
     },
     {
       "id": "03df87310f157d55c23557377ee2150f",
@@ -324,7 +657,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://www.workatastartup.com/jobs/94631?utm_source=github-vansh-ouckah",
       "date_posted": "May 14",
-      "found_at": "2026-07-24T07:24:27.084905"
+      "found_at": "2026-07-24T09:40:58.303197"
     },
     {
       "id": "ed7d2db4022860379f5f93bbfc794261",
@@ -333,7 +666,7 @@
       "location": "San Francisco, CA</br>Remote",
       "apply_url": "https://www.workatastartup.com/jobs/94647?utm_source=github-vansh-ouckah",
       "date_posted": "May 14",
-      "found_at": "2026-07-24T07:24:27.084910"
+      "found_at": "2026-07-24T09:40:58.303204"
     },
     {
       "id": "834ccc9723cf8cbcf4c8f2506233b769",
@@ -342,7 +675,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://www.workatastartup.com/jobs/94634?utm_source=github-vansh-ouckah",
       "date_posted": "May 14",
-      "found_at": "2026-07-24T07:24:27.084916"
+      "found_at": "2026-07-24T09:40:58.303211"
     },
     {
       "id": "01357b661ed0269856a35a70f4ab4cef",
@@ -351,7 +684,7 @@
       "location": "Dallas, TX",
       "apply_url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86808?utm_source=github-vansh-ouckah",
       "date_posted": "May 12",
-      "found_at": "2026-07-24T07:24:27.084921"
+      "found_at": "2026-07-24T09:40:58.303217"
     },
     {
       "id": "e53a6415f78ef3fc2c103cbade444c5e",
@@ -360,7 +693,7 @@
       "location": "Los Angeles",
       "apply_url": "https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11?utm_source=github-vansh-ouckah",
       "date_posted": "May 11",
-      "found_at": "2026-07-24T07:24:27.084926"
+      "found_at": "2026-07-24T09:40:58.303237"
     },
     {
       "id": "908583857288911f8617c66cd2ce7b9d",
@@ -369,7 +702,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857828101?utm_source=github-vansh-ouckah",
       "date_posted": "May 09",
-      "found_at": "2026-07-24T07:24:27.084931"
+      "found_at": "2026-07-24T09:40:58.303244"
     },
     {
       "id": "ecddaccbfd84c7c8ad45d624dd692512",
@@ -378,16 +711,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857832101?utm_source=github-vansh-ouckah",
       "date_posted": "May 09",
-      "found_at": "2026-07-24T07:24:27.084936"
-    },
-    {
-      "id": "a3699b4bfdb3436f7e3d4efe6eb27cd5",
-      "company": "Salesforce",
-      "role": "Software Engineer Intern(Futureforce Summer 2027)",
-      "location": "<details><summary>**5 locations**</summary>San Francisco, CA</br>Palo Alto, CA</br>New York, NY</br>Seattle, WA</br>Burlington, MA</details>",
-      "apply_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1?utm_source=github-vansh-ouckah",
-      "date_posted": "May 09",
-      "found_at": "2026-07-24T07:24:27.084941"
+      "found_at": "2026-07-24T09:40:58.303250"
     },
     {
       "id": "3c8add27ccdd993a4b301b8e391db961",
@@ -396,7 +720,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://www.workatastartup.com/jobs/93642?utm_source=github-vansh-ouckah",
       "date_posted": "May 09",
-      "found_at": "2026-07-24T07:24:27.084947"
+      "found_at": "2026-07-24T09:40:58.303256"
     },
     {
       "id": "dcb47ba1d2dbfd43e6a768ad1f1edada",
@@ -405,7 +729,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://www.workatastartup.com/jobs/94206?utm_source=github-vansh-ouckah",
       "date_posted": "May 09",
-      "found_at": "2026-07-24T07:24:27.084951"
+      "found_at": "2026-07-24T09:40:58.303263"
     },
     {
       "id": "0f00eb639a395102a08e03443c60f2e7",
@@ -414,7 +738,7 @@
       "location": "New York, NY",
       "apply_url": "https://www.workatastartup.com/jobs/94211?utm_source=github-vansh-ouckah",
       "date_posted": "May 09",
-      "found_at": "2026-07-24T07:24:27.084956"
+      "found_at": "2026-07-24T09:40:58.303269"
     },
     {
       "id": "684130287ee8c3a76827c8f85802048d",
@@ -423,7 +747,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://www.workatastartup.com/jobs/94400?utm_source=github-vansh-ouckah",
       "date_posted": "May 09",
-      "found_at": "2026-07-24T07:24:27.084961"
+      "found_at": "2026-07-24T09:40:58.303275"
     },
     {
       "id": "7142a998c50a256284f23593f216b966",
@@ -432,7 +756,7 @@
       "location": "<details><summary>**8 locations**</summary>Sunnyvale, CA</br>North Reading, MA</br>Westboro, MA</br>Nashville, TN</br>Austin, TX</br>Arlington, VA</br>Bellevue, WA</br>Seattle, WA</details>",
       "apply_url": "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1&utm_source=github-vansh-ouckah",
       "date_posted": "May 09",
-      "found_at": "2026-07-24T07:24:27.084967"
+      "found_at": "2026-07-24T09:40:58.303281"
     },
     {
       "id": "3dd74b87f3d48c9fd48bb8160239418f",
@@ -441,7 +765,7 @@
       "location": "Houston, TX</br>San Francisco, CA",
       "apply_url": "https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2?utm_source=github-vansh-ouckah",
       "date_posted": "Apr 28",
-      "found_at": "2026-07-24T07:24:27.084971"
+      "found_at": "2026-07-24T09:40:58.303287"
     },
     {
       "id": "881ebbf104c8dfca307d5129d4a36de0",
@@ -450,7 +774,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://lifeattiktok.com/search/7631599293708126517?utm_source=github-vansh-ouckah",
       "date_posted": "Apr 24",
-      "found_at": "2026-07-24T07:24:27.084976"
+      "found_at": "2026-07-24T09:40:58.303293"
     },
     {
       "id": "d632428fb8eacd3ef997a54ed2a2fe14",
@@ -459,7 +783,7 @@
       "location": "Bensenville, IL",
       "apply_url": "https://apply.workable.com/al-warren-oil-company-inc/j/A4487B349D/?utm_source=github-vansh-ouckah",
       "date_posted": "Apr 24",
-      "found_at": "2026-07-24T07:24:27.084981"
+      "found_at": "2026-07-24T09:40:58.303298"
     },
     {
       "id": "7fde7f215e7e9afbddabd4f7d07ca44f",
@@ -468,7 +792,7 @@
       "location": "Coral Gables, FL",
       "apply_url": "https://career41.sapsf.com/career?career_ns=job_listing&company=hcollp&career_job_req_id=3507&utm_source=github-vansh-ouckah",
       "date_posted": "Apr 22",
-      "found_at": "2026-07-24T07:24:27.084985"
+      "found_at": "2026-07-24T09:40:58.303304"
     },
     {
       "id": "ed9a0e1a3f536fcdb7fbf09ab6279f7f",
@@ -477,7 +801,7 @@
       "location": "Cayman</br>Denver</br>New York",
       "apply_url": "https://jobs.ashbyhq.com/ether.fi/6dcb712c-8fe5-4725-ad6a-0e9771af22cb?utm_source=github-vansh-ouckah",
       "date_posted": "Apr 22",
-      "found_at": "2026-07-24T07:24:27.084990"
+      "found_at": "2026-07-24T09:40:58.303309"
     },
     {
       "id": "23711f21e01245f19661b18672b7851c",
@@ -486,7 +810,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job&utm_source=github-vansh-ouckah",
       "date_posted": "Apr 20",
-      "found_at": "2026-07-24T07:24:27.084994"
+      "found_at": "2026-07-24T09:40:58.303315"
     },
     {
       "id": "ef22b965a2df3d520d2a253a1ef1cb98",
@@ -495,7 +819,7 @@
       "location": "Irvine, CA",
       "apply_url": "https://careers.skyworksinc.com/job/Irvine-Analog-IC-Design-SummerFall-Co-Op-(June-&apos;26-Dec-&apos;26)-CA-92602/76295-en_US/?feedId=177100&utm_source=github-vansh-ouckah",
       "date_posted": "Apr 20",
-      "found_at": "2026-07-24T07:24:27.084999"
+      "found_at": "2026-07-24T09:40:58.303320"
     },
     {
       "id": "19e91ddf043bda9e30766cf403e6a493",
@@ -504,7 +828,7 @@
       "location": "Redwood City, CA",
       "apply_url": "https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa?utm_source=github-vansh-ouckah",
       "date_posted": "Apr 20",
-      "found_at": "2026-07-24T07:24:27.085004"
+      "found_at": "2026-07-24T09:40:58.303327"
     },
     {
       "id": "18d12979f64acf68c31737fb82cc748d",
@@ -513,7 +837,7 @@
       "location": "New York, NY",
       "apply_url": "https://careers.ice.com/jobs/12830?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply&jr_id=69e67bb27820c036924d0af9&utm_source=github-vansh-ouckah",
       "date_posted": "Apr 20",
-      "found_at": "2026-07-24T07:24:27.085009"
+      "found_at": "2026-07-24T09:40:58.303333"
     },
     {
       "id": "819a9a24c8a15445306dafcd36fd3246",
@@ -522,7 +846,7 @@
       "location": "Alpharetta, GA",
       "apply_url": "https://careers.fiserv.com/us/en/job/FFFYJUSR10390264EXTERNALENUS/Application-Development-Summer-Intern?jr_id=69e6ab177820c036924d1dc6&utm_source=github-vansh-ouckah",
       "date_posted": "Apr 20",
-      "found_at": "2026-07-24T07:24:27.085014"
+      "found_at": "2026-07-24T09:40:58.303340"
     },
     {
       "id": "7bcb42d496d4f067a38417a7faa2d7ca",
@@ -531,7 +855,7 @@
       "location": "Columbus, OH",
       "apply_url": "https://careers.fiserv.com/us/en/job/FFFYJUSR10390344EXTERNALENUS/Technology-Summer-Intern?jr_id=69e6ab5e3aa0c4796439589b&utm_source=github-vansh-ouckah",
       "date_posted": "Apr 20",
-      "found_at": "2026-07-24T07:24:27.085019"
+      "found_at": "2026-07-24T09:40:58.303346"
     },
     {
       "id": "ea0d073bfa193ab62a7703059a89fab1",
@@ -540,7 +864,7 @@
       "location": "Los Angeles, CA</br>Seattle, WA",
       "apply_url": "https://accenture.wd103.myworkdayjobs.com/en-GB/AvanadeCareers/job/Los-Angeles-6181-W-Centinela-Ave-Corp/Intern--Software-Engineering---June-2026_R00319370?jr_id=69e6a556f8fa2f3ec32a3173&utm_source=github-vansh-ouckah",
       "date_posted": "Apr 20",
-      "found_at": "2026-07-24T07:24:27.085024"
+      "found_at": "2026-07-24T09:40:58.303352"
     },
     {
       "id": "a0dd0c2a96cbec601308b7c0dcf2f5c0",
@@ -549,7 +873,7 @@
       "location": "New York, NY",
       "apply_url": "https://jobs.disneycareers.com/job/new-york/abc-news-product-management-and-engineering-intern-summer-fall-2026/391/93958488896?utm_source=github-vansh-ouckah",
       "date_posted": "Apr 20",
-      "found_at": "2026-07-24T07:24:27.085028"
+      "found_at": "2026-07-24T09:40:58.303358"
     },
     {
       "id": "ed149db701d8cbaa0745b9ba172f38af",
@@ -558,7 +882,7 @@
       "location": "<details><summary>**5 locations**</summary>New York, NY</br>San Francisco, CA</br>Chicago, IL</br>West Palm Beach, FL</br>Miami, FL</details>",
       "apply_url": "https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081&utm_source=github-vansh-ouckah",
       "date_posted": "Apr 19",
-      "found_at": "2026-07-24T07:24:27.085034"
+      "found_at": "2026-07-24T09:40:58.303364"
     },
     {
       "id": "fb3e24cbd6a3cf4ffc22ed1cca171d52",
@@ -567,7 +891,7 @@
       "location": "New York, NY",
       "apply_url": "https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295&utm_source=github-vansh-ouckah",
       "date_posted": "Apr 19",
-      "found_at": "2026-07-24T07:24:27.085038"
+      "found_at": "2026-07-24T09:40:58.303370"
     },
     {
       "id": "db827b58fe3765a0eeb4bfba1992c5a9",
@@ -576,7 +900,7 @@
       "location": "New York, NY",
       "apply_url": "https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293&utm_source=github-vansh-ouckah",
       "date_posted": "Apr 19",
-      "found_at": "2026-07-24T07:24:27.085046"
+      "found_at": "2026-07-24T09:40:58.303375"
     }
   ]
 }
