@@ -11,7 +11,7 @@ import pytz
 
 class InternshipMonitor:
     def __init__(self):
-        self.github_url = "https://raw.githubusercontent.com/vanshb03/Summer2026-Internships/main/README.md"
+        self.github_url = "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/main/README.md"
         self.data_file = "internships_data.json"
         
         # Email configuration
@@ -159,7 +159,7 @@ class InternshipMonitor:
             return False
         
         try:
-            subject = f"🚨 {len(new_internships)} New Summer 2026 Internship(s) Available!"
+            subject = f"🚨 {len(new_internships)} New Grad Role(s) Available!"
             html_body = self.create_email_html(new_internships)
             
             msg = MIMEMultipart('alternative')
@@ -208,8 +208,8 @@ class InternshipMonitor:
         </head>
         <body>
             <div class="header">
-                <h2>🎉 New Summer 2026 Internships Alert!</h2>
-                <p>Found {len(internships)} new internship opening(s).</p>
+                <h2>🎉 New Grad Roles Alert!</h2>
+                <p>Found {len(internships)} new role opening(s).</p>
                 <p><strong>Time:</strong> {formatted_time}</p>
             </div>
         """
@@ -227,7 +227,7 @@ class InternshipMonitor:
         
         html += """
             <div style="margin-top: 30px; font-size: 12px; color: #7f8c8d;">
-                <p>Repository: <a href="https://github.com/vanshb03/Summer2026-Internships">Summer2026-Internships</a></p>
+                <p>Repository: <a href="https://github.com/vanshb03/New-Grad-2027">New-Grad-2027</a></p>
             </div>
         </body>
         </html>

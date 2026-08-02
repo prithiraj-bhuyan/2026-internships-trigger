@@ -1,7 +1,7 @@
-# 2026 Internships Trigger
+# New Grad 2027 Roles Trigger
 
 ## Overview
-This project monitors and tracks new Summer 2026 internship opportunities by scraping a public GitHub repository's README file, parsing the internship listings, and sending email alerts for new postings. It also maintains a local JSON database of all internships found.
+This project monitors and tracks new grad (2027) job opportunities by scraping a public GitHub repository's README file (vanshb03/New-Grad-2027), parsing the role listings, and sending email alerts for new postings. It also maintains a local JSON database of all roles found.
 
 ## Main Components
 
