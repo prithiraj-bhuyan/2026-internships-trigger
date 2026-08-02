@@ -12,12 +12,12 @@ This project monitors and tracks new grad (2027) job opportunities by scraping a
   - Parses internship listings (company, role, location, application link, date posted).
   - Compares with previously saved data to detect new internships.
   - Sends email notifications for new internships using SMTP (Gmail).
-  - Saves the current internship data to `internships_data.json`.
+  - Saves the current internship data to `newgrad_data.json`.
 - **Configuration:**
   - Requires environment variables for email credentials: `EMAIL_USER`, `EMAIL_PASSWORD`, `NOTIFY_EMAIL`.
   - Uses `pytz` for timezone-aware timestamps in notifications.
 
-### 2. internships_data.json
+### 2. newgrad_data.json
 - **Purpose:** Stores all internship listings found, with metadata.
 - **Structure:**
   - `last_updated`: ISO timestamp of last update.

@@ -12,7 +12,7 @@ import pytz
 class InternshipMonitor:
     def __init__(self):
         self.github_url = "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/main/README.md"
-        self.data_file = "internships_data.json"
+        self.data_file = "newgrad_data.json"
         
         # Email configuration
         self.smtp_server = "smtp.gmail.com"

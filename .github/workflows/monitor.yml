@@ -45,6 +45,6 @@ jobs:
     
     - name: Commit and push if data file changed
       run: |
-        git add internships_data.json
-        git diff --staged --quiet || git commit -m "Update internships tracking data [skip ci]"
+        git add newgrad_data.json
+        git diff --staged --quiet || git commit -m "Update new grad tracking data [skip ci]"
         git push
