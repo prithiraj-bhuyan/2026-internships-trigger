@@ -1,7 +1,97 @@
 {
-  "last_updated": "2026-10-24T02:20:03.161733",
+  "last_updated": "2026-10-24T07:27:58.524295",
   "total_count": 297,
   "internships": [
+    {
+      "id": "30cd3876526ea35b8c1fcf3b2cde07f3",
+      "company": "ServiceNow",
+      "role": "Associate Software Engineer",
+      "location": "Santa Clara, CA",
+      "apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000157570319?utm_source=vansh",
+      "date_posted": "Oct 24",
+      "found_at": "2026-10-24T07:27:56.380737"
+    },
+    {
+      "id": "0505a6bfcd92911bd0f363235475c9f9",
+      "company": "Intel",
+      "role": "Software Engineer, CAD/EDA Tools (Master's)",
+      "location": "Hillsboro, OR",
+      "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Software-Engineer_JR0288234-1?utm_source=vansh",
+      "date_posted": "Oct 24",
+      "found_at": "2026-10-24T07:27:56.380756"
+    },
+    {
+      "id": "c1a5b98828b56a30e9aad0980a48ff3f",
+      "company": "Citi",
+      "role": "New Grad 2027: Technology, Production Support Analyst",
+      "location": "New York, NY",
+      "apply_url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Technology--Production-Support--Full-Time-Analyst--New-York-or-New-Jersey---USA--2027_261004420-1?utm_source=vansh",
+      "date_posted": "Oct 24",
+      "found_at": "2026-10-24T07:27:56.380764"
+    },
+    {
+      "id": "0ab4436bd7e3c4ae84099cbb0d24110b",
+      "company": "Citi",
+      "role": "New Grad 2027: Technology Analyst, Application Development",
+      "location": "Tampa, FL",
+      "apply_url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2027_261004424?utm_source=vansh",
+      "date_posted": "Oct 24",
+      "found_at": "2026-10-24T07:27:56.380771"
+    },
+    {
+      "id": "0f35ac458cd66f63654dbb6dd4b0a3cc",
+      "company": "Citi",
+      "role": "New Grad 2027: Technology Cyber Security",
+      "location": "Irving, TX",
+      "apply_url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology--Cyber-Security--Full-Time-Analyst--Irving-2027-_26999831?utm_source=vansh",
+      "date_posted": "Oct 24",
+      "found_at": "2026-10-24T07:27:56.380778"
+    },
+    {
+      "id": "e69adbae80d20b35e822a512fadd0ab4",
+      "company": "Citi",
+      "role": "New Grad 2027: Software Developer, Application Development",
+      "location": "Jacksonville, FL",
+      "apply_url": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2027_261004412?utm_source=vansh",
+      "date_posted": "Oct 24",
+      "found_at": "2026-10-24T07:27:56.380784"
+    },
+    {
+      "id": "2d7fa55ef2090d34b6457097c027d5a4",
+      "company": "Citi",
+      "role": "New Grad 2027: Technology Analyst, Application Development",
+      "location": "Irving, TX",
+      "apply_url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology--Application-Development--Full-Time-Analyst--Irving---USA--2027_261004387?utm_source=vansh",
+      "date_posted": "Oct 24",
+      "found_at": "2026-10-24T07:27:56.380789"
+    },
+    {
+      "id": "3f98971e7e37bf68549f9bd116d51f3a",
+      "company": "Citi",
+      "role": "New Grad 2027: Application Development Analyst",
+      "location": "Jersey City, NJ",
+      "apply_url": "https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Technology--Application-Development--Full-Time-Analyst--New-York-or-New-Jersey---USA--2027_261004399-1?utm_source=vansh",
+      "date_posted": "Oct 24",
+      "found_at": "2026-10-24T07:27:56.380800"
+    },
+    {
+      "id": "b34ded424ded3643d75f57decebcae62",
+      "company": "Booz Allen",
+      "role": "New Grad 2027: Data Scientist \ud83c\uddfa\ud83c\uddf8",
+      "location": "<details><summary>**11 locations**</summary>Honolulu, HI</br>Annapolis Junction, MD</br>Colorado Springs, CO</br>Arlington, VA</br>Rome, NY</br>Panama City, FL</br>Charleston, SC</br>Atlanta, GA</br>Huntsville, AL</br>San Diego, CA</br>El Segundo, CA</details>",
+      "apply_url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/Arlington-VA/University---Data-Scientist_R0252257?utm_source=vansh",
+      "date_posted": "Oct 24",
+      "found_at": "2026-10-24T07:27:56.380815"
+    },
+    {
+      "id": "2f05c607acc4c9d45a475664c2a09d8b",
+      "company": "Boeing",
+      "role": "Entry-Level Software Engineer \ud83c\uddfa\ud83c\uddf8",
+      "location": "Maryland Heights, MO",
+      "apply_url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526418-1?utm_source=vansh",
+      "date_posted": "Oct 24",
+      "found_at": "2026-10-24T07:27:56.380823"
+    },
     {
       "id": "b2b230397a9061ace55e29e02cb8c6b6",
       "company": "Rendezvous Robotics",
@@ -9,7 +99,7 @@
       "location": "Golden, CO",
       "apply_url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4464270009?utm_source=vansh",
       "date_posted": "Oct 23",
-      "found_at": "2026-10-24T02:20:03.159522"
+      "found_at": "2026-10-24T07:27:56.380829"
     },
     {
       "id": "af8df40561fe114a95e05779a958b5e2",
@@ -18,7 +108,7 @@
       "location": "Remote",
       "apply_url": "https://careers-peraton.icims.com/jobs/172571/junior-data-engineer-%28etl-gis%29/job?utm_source=vansh",
       "date_posted": "Oct 23",
-      "found_at": "2026-10-24T02:20:03.159546"
+      "found_at": "2026-10-24T07:27:56.380836"
     },
     {
       "id": "e4282ba97485e167c96068df6238f492",
@@ -27,16 +117,7 @@
       "location": "New York, NY",
       "apply_url": "https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7/apply?utm_source=vansh",
       "date_posted": "Oct 23",
-      "found_at": "2026-10-24T02:20:03.159553"
-    },
-    {
-      "id": "045369b1480855a84473982599883fec",
-      "company": "Guidehouse",
-      "role": "New Grad 2027: Technical Associate Application Developer",
-      "location": "Chicago, IL",
-      "apply_url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---IL-Chicago/Technical-Associate-Application-Developer---Campus-2027_45783?utm_source=vansh",
-      "date_posted": "Oct 23",
-      "found_at": "2026-10-24T02:20:03.159559"
+      "found_at": "2026-10-24T07:27:56.380841"
     },
     {
       "id": "39fc1abc5ee5c60b15f5033ee3f4eaf7",
@@ -45,7 +126,7 @@
       "location": "Omaha, NE",
       "apply_url": "https://firstnational.wd12.myworkdayjobs.com/en-US/fnbocareers/job/Omaha---FN-Tower/Associate-I--Cloud-Engineer--Omaha--NE-_R-20261874?utm_source=vansh",
       "date_posted": "Oct 23",
-      "found_at": "2026-10-24T02:20:03.159564"
+      "found_at": "2026-10-24T07:27:56.380846"
     },
     {
       "id": "93efcdddeffdb6705c1b4ad1ff375c7f",
@@ -54,7 +135,7 @@
       "location": "<details><summary>**11 locations**</summary>Honolulu, HI</br>Annapolis Junction, MD</br>Colorado Springs, CO</br>McLean, VA</br>Rome, NY</br>Panama City, FL</br>Charleston, SC</br>Atlanta, GA</br>Huntsville, AL</br>San Diego, CA</br>El Segundo, CA</details>",
       "apply_url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0252280?utm_source=vansh",
       "date_posted": "Oct 23",
-      "found_at": "2026-10-24T02:20:03.159571"
+      "found_at": "2026-10-24T07:27:56.380854"
     },
     {
       "id": "6d5f98b221d3ebaf40110b2802f2bd5b",
@@ -63,7 +144,7 @@
       "location": "<details><summary>**11 locations**</summary>Honolulu, HI</br>Annapolis Junction, MD</br>Colorado Springs, CO</br>McLean, VA</br>Rome, NY</br>Panama City, FL</br>Charleston, SC</br>Atlanta, GA</br>Huntsville, AL</br>San Diego, CA</br>El Segundo, CA</details>",
       "apply_url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Data-Scientist_R0252282?utm_source=vansh",
       "date_posted": "Oct 23",
-      "found_at": "2026-10-24T02:20:03.159577"
+      "found_at": "2026-10-24T07:27:56.380861"
     },
     {
       "id": "2053ee16cce2f77df4d7e2529f8932a5",
@@ -72,25 +153,7 @@
       "location": "<details><summary>**11 locations**</summary>Honolulu, HI</br>Annapolis Junction, MD</br>Colorado Springs, CO</br>McLean, VA</br>Rome, NY</br>Panama City, FL</br>Charleston, SC</br>Atlanta, GA</br>Huntsville, AL</br>San Diego, CA</br>El Segundo, CA</details>",
       "apply_url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Systems-Engineer_R0252284?utm_source=vansh",
       "date_posted": "Oct 23",
-      "found_at": "2026-10-24T02:20:03.159587"
-    },
-    {
-      "id": "46e5bde1de84c0cb58a745fdbcd96a0b",
-      "company": "Boeing",
-      "role": "Software Engineer \ud83c\uddfa\ud83c\uddf8",
-      "location": "Maryland Heights, MO</br>Hazelwood, MO",
-      "apply_url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526321-1?utm_source=vansh",
-      "date_posted": "Oct 23",
-      "found_at": "2026-10-24T02:20:03.159594"
-    },
-    {
-      "id": "b16e71c5d6b38fd0b505f888f9aaf6bc",
-      "company": "Autostore",
-      "role": "Software Engineer",
-      "location": "Atlanta, GA",
-      "apply_url": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Software-Engineer_JR102735-1?utm_source=vansh",
-      "date_posted": "Oct 23",
-      "found_at": "2026-10-24T02:20:03.159598"
+      "found_at": "2026-10-24T07:27:56.380867"
     },
     {
       "id": "c0a2e2136e6e6323f73d727999497b9b",
@@ -99,7 +162,7 @@
       "location": "Gloucester, MA",
       "apply_url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/GloucesterMA/XMLNAME-2027-Software-Engineer-New-College-Grad--Bachelor-s----Gloucester--MA_R2625914?utm_source=vansh",
       "date_posted": "Oct 23",
-      "found_at": "2026-10-24T02:20:03.159603"
+      "found_at": "2026-10-24T07:27:56.380873"
     },
     {
       "id": "0e3a9493d9147662a6e68971c1d6a457",
@@ -108,7 +171,7 @@
       "location": "Chandler, AZ",
       "apply_url": "https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2627911?utm_source=vansh",
       "date_posted": "Oct 23",
-      "found_at": "2026-10-24T02:20:03.159607"
+      "found_at": "2026-10-24T07:27:56.380878"
     },
     {
       "id": "20fddd8e6386407f62bc6b1a7c19a6fe",
@@ -117,7 +180,7 @@
       "location": "Seattle, WA</br>Austin, TX</br>Cupertino, CA",
       "apply_url": "https://amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027?utm_source=vansh",
       "date_posted": "Oct 23",
-      "found_at": "2026-10-24T02:20:03.159611"
+      "found_at": "2026-10-24T07:27:56.380883"
     },
     {
       "id": "c093fa4d7cab73eaef9e25d225a43f16",
@@ -126,7 +189,7 @@
       "location": "South San Francisco, CA",
       "apply_url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5255784007?utm_source=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159615"
+      "found_at": "2026-10-24T07:27:56.380889"
     },
     {
       "id": "60e5091f6675cdef00576a52a03540d6",
@@ -135,7 +198,7 @@
       "location": "Des Moines, IA",
       "apply_url": "https://jobs.smartrecruiters.com/WellmarkInc/744000156421724?utm_source=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159619"
+      "found_at": "2026-10-24T07:27:56.380894"
     },
     {
       "id": "0d2c87a7fc90530edaa605e6fe374dda",
@@ -144,7 +207,7 @@
       "location": "Raleigh, NC",
       "apply_url": "https://verily.wd1.myworkdayjobs.com/en-US/verily_careers/job/Raleigh-North-Carolina/ATLAS-Software-Engineer_REQ-330?utm_source=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159623"
+      "found_at": "2026-10-24T07:27:56.380899"
     },
     {
       "id": "1705fade2e6a4bbad9b1ebbbbec7912c",
@@ -153,7 +216,7 @@
       "location": "Newton, NJ",
       "apply_url": "https://apply.workable.com/thorlabs/j/B3CD05F790/apply?utm_source=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159627"
+      "found_at": "2026-10-24T07:27:56.380903"
     },
     {
       "id": "c53648db1c4c706a0aee64b9df83bb9e",
@@ -162,7 +225,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://job-boards.greenhouse.io/scopely/jobs/5456049008?gh_jid=5456049008&utm_source=vansh&ref=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159630"
+      "found_at": "2026-10-24T07:27:56.380908"
     },
     {
       "id": "c79d7df991d8817a2de34b0b5fffbcb0",
@@ -171,7 +234,7 @@
       "location": "Point Mugu NAWC, CA",
       "apply_url": "https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618210?utm_source=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159634"
+      "found_at": "2026-10-24T07:27:56.380913"
     },
     {
       "id": "a1e3a2685e3ab3f11a2a1cee2ff41862",
@@ -180,16 +243,7 @@
       "location": "Mountain View, CA",
       "apply_url": "https://jobs.ashbyhq.com/rhoda-ai/36a82229-5cab-48a7-99b6-ec9007c5b460/application?embed=true&utm_source=vansh&ref=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159638"
-    },
-    {
-      "id": "e5e738869516dea8577302d5fd469293",
-      "company": "ResMed",
-      "role": "Associate Android Developer",
-      "location": "San Diego, CA",
-      "apply_url": "https://resmed.wd3.myworkdayjobs.com/en-US/resmed_external_careers/job/San-Diego-CA-United-States/Associate-Android-Developer_JR_053888-1?utm_source=vansh",
-      "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159641"
+      "found_at": "2026-10-24T07:27:56.380918"
     },
     {
       "id": "e56f8d23087cef52c3eba3d7107dd299",
@@ -198,7 +252,7 @@
       "location": "Cedar Rapids, IA",
       "apply_url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineer-I--Onsite-_01872684?utm_source=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159645"
+      "found_at": "2026-10-24T07:27:56.380923"
     },
     {
       "id": "74fcbcb59b545ef4a8312ca9bc8a0146",
@@ -207,7 +261,7 @@
       "location": "New York, NY",
       "apply_url": "https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac?utm_source=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159649"
+      "found_at": "2026-10-24T07:27:56.380927"
     },
     {
       "id": "3ed56cfa68cf1cb9c92c1a31cc9f5b48",
@@ -216,7 +270,7 @@
       "location": "Oshkosh, WI",
       "apply_url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Engineer---Software_R50645?utm_source=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159652"
+      "found_at": "2026-10-24T07:27:56.380932"
     },
     {
       "id": "a3f1f2d338708216acc1fac5d6574821",
@@ -225,7 +279,7 @@
       "location": "Santa Clara, CA",
       "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Agent-Performance-Modeling---New-College-Grad-2026_JR2028350?utm_source=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159656"
+      "found_at": "2026-10-24T07:27:56.380938"
     },
     {
       "id": "f16670ef147bc5e0884311a0eb5900a5",
@@ -234,7 +288,7 @@
       "location": "Santa Clara, CA",
       "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/High-Performance-LLM-Training-Engineer---New-College-Grad-2027_JR2028237?utm_source=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159660"
+      "found_at": "2026-10-24T07:27:56.380943"
     },
     {
       "id": "384867e014fef27d099bd3f699d1bd61",
@@ -243,7 +297,7 @@
       "location": "Houston, TX</br>Princeton, NJ",
       "apply_url": "https://careers.nrgenergy.com/nrg/job/Houston-Data-Science-Analyst-Agentic-AI-Developer-TX-77010/1441481900/?ats=successfactors&utm_source=vansh&ref=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159663"
+      "found_at": "2026-10-24T07:27:56.380949"
     },
     {
       "id": "29a384e53a432097aca0adee46715d91",
@@ -252,25 +306,7 @@
       "location": "Linthicum, MD",
       "apply_url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499?utm_source=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159668"
-    },
-    {
-      "id": "bc1e9df230cf690af53fb00b349ae709",
-      "company": "Motorola Solutions",
-      "role": "Embedded Software Engineer",
-      "location": "Allen, TX",
-      "apply_url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Embedded-Software-Engineer_R68965-1?utm_source=vansh",
-      "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159672"
-    },
-    {
-      "id": "fbeddae8e9d66d9733d9560400d58db5",
-      "company": "Motorola Solutions",
-      "role": "Junior Software QA Engineer",
-      "location": "Remote",
-      "apply_url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Brazil-Remote-Work/Junior-Software-QA-Engineer_R69183?utm_source=vansh",
-      "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159676"
+      "found_at": "2026-10-24T07:27:56.380957"
     },
     {
       "id": "34b018d9fac61a54f9ad258e9d983d51",
@@ -279,7 +315,7 @@
       "location": "O'Fallon, MO",
       "apply_url": "https://mastercard.wd1.myworkdayjobs.com/en-US/corporatecareers/job/OFallon-Missouri/Software-Engineer-I_R-292618-1?utm_source=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159679"
+      "found_at": "2026-10-24T07:27:56.380962"
     },
     {
       "id": "0ebe79525573f764c276d08d25f2f2f3",
@@ -288,16 +324,7 @@
       "location": "Colorado Springs, CO",
       "apply_url": "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineer-CO-80916/1441835200/?ats=successfactors&utm_source=vansh&ref=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159683"
-    },
-    {
-      "id": "6e116309cb5866f56d7d69bbf0a9bcd8",
-      "company": "KLA",
-      "role": "Software Engineer 1",
-      "location": "Remote",
-      "apply_url": "https://kla.wd1.myworkdayjobs.com/search/job/USA-NY-Remote-US03K/Engr--Software-1_2642693-1?utm_source=vansh",
-      "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159689"
+      "found_at": "2026-10-24T07:27:56.380967"
     },
     {
       "id": "1657981775f467d85ef7d0c13429b2a2",
@@ -306,7 +333,7 @@
       "location": "Laurel, MD",
       "apply_url": "https://careers.jhuapl.edu/jobs/60116?icims=1&utm_source=vansh&ref=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159693"
+      "found_at": "2026-10-24T07:27:56.380976"
     },
     {
       "id": "8c01750462ea6cdfaef7f0d0830b1f2b",
@@ -315,7 +342,7 @@
       "location": "Laurel, MD",
       "apply_url": "https://careers.jhuapl.edu/jobs/60586?icims=1&utm_source=vansh&ref=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159698"
+      "found_at": "2026-10-24T07:27:56.380995"
     },
     {
       "id": "f51a6f70954f92420d8b515008618c74",
@@ -324,7 +351,7 @@
       "location": "Richardson, TX",
       "apply_url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineer--2027-New-College-Graduate-_JR-2604163?utm_source=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159701"
+      "found_at": "2026-10-24T07:27:56.381000"
     },
     {
       "id": "741e39c020e3647b88e87752a602681c",
@@ -333,7 +360,7 @@
       "location": "Santa Clara, CA</br>Richardson, TX",
       "apply_url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/AI-Software-Engineer--2027-New-College-Graduate-_JR-2604055?utm_source=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159705"
+      "found_at": "2026-10-24T07:27:56.381005"
     },
     {
       "id": "7a57629b30942435caaf0712602fd0c0",
@@ -342,7 +369,7 @@
       "location": "Orlando, FL",
       "apply_url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-I/216357?utm_source=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159709"
+      "found_at": "2026-10-24T07:27:56.381010"
     },
     {
       "id": "bce91b98999be81a95b87e8d60283b17",
@@ -351,25 +378,7 @@
       "location": "Remote",
       "apply_url": "https://collegeboard.wd1.myworkdayjobs.com/en-US/cbcareers/job/Remote---USA/Software-Engineer-I--New-Grad-_REQ002974-1?utm_source=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159712"
-    },
-    {
-      "id": "68e36f8266b4a6893fa2da73ec5f0e9b",
-      "company": "Citi",
-      "role": "Angular Developer / Frontend Engineer",
-      "location": "Irving, TX",
-      "apply_url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Angular-Developer---Frontend-Engineer--Entry-Level-_26999296?utm_source=vansh",
-      "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159716"
-    },
-    {
-      "id": "e85ee3bce79ebc8dd8d657846897f72d",
-      "company": "Cisco",
-      "role": "Attack Surface Management Security Engineer I",
-      "location": "Research Triangle Park, NC",
-      "apply_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Attack-Surface-Management-Security-Engineer-I--Full-Time----United-States_2029031?utm_source=vansh",
-      "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159720"
+      "found_at": "2026-10-24T07:27:56.381014"
     },
     {
       "id": "6adc22acf00d2193167be57de8531aa7",
@@ -378,7 +387,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://jobs.ashbyhq.com/brainco/4c9f8f00-0caf-4927-80da-02a3e53cb0cd/application?utm_source=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159723"
+      "found_at": "2026-10-24T07:27:56.381019"
     },
     {
       "id": "277e78949d13c75865115e2325a93756",
@@ -387,7 +396,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://jobs.ashbyhq.com/brainco/32c4e1c9-ccd1-4dca-a68b-31ad1b868030/application?utm_source=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159727"
+      "found_at": "2026-10-24T07:27:56.381024"
     },
     {
       "id": "b17ab1362221d4468623148d3a2ba3a7",
@@ -396,7 +405,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://jobs.ashbyhq.com/brainco/c1788246-305f-4e4f-8b03-8444c76a466e/application?utm_source=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159730"
+      "found_at": "2026-10-24T07:27:56.381028"
     },
     {
       "id": "b68379d85228a7897f028f8aa00b892d",
@@ -405,7 +414,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://jobs.ashbyhq.com/brainco/4d39773e-f4c3-49c1-87c3-812a9804fb15/application?utm_source=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159733"
+      "found_at": "2026-10-24T07:27:56.381033"
     },
     {
       "id": "212ddfe6abbf3e4ac422af2e01ce0833",
@@ -414,7 +423,7 @@
       "location": "Berkeley, MO",
       "apply_url": "https://boeing.wd1.myworkdayjobs.com/en-US/tap2/job/USA---Berkeley-MO/Associate-Flight-Test-Data-Processing-Software-Engineer_JR2026524420-2?utm_source=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159738"
+      "found_at": "2026-10-24T07:27:56.381041"
     },
     {
       "id": "fc4dc254c1f73796dc8fd9d4f2752396",
@@ -423,7 +432,7 @@
       "location": "Santa Clara, CA",
       "apply_url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer--Bachelors-Degree--New-College-Grad--Santa-Clara-_R2630683?utm_source=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159741"
+      "found_at": "2026-10-24T07:27:56.381046"
     },
     {
       "id": "118545867f91cd3cc61e6d85825f920a",
@@ -432,7 +441,7 @@
       "location": "Santa Clara, CA",
       "apply_url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Algorithm-Developer--Masters-Degree--New-College-Grad--Santa-Clara-_R2631780?utm_source=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159745"
+      "found_at": "2026-10-24T07:27:56.381050"
     },
     {
       "id": "5826107229346fd0d2ba9d8efabf96ef",
@@ -441,7 +450,7 @@
       "location": "Santa Clara, CA",
       "apply_url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Business-Intelligence-Analyst-I--New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626650?utm_source=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159749"
+      "found_at": "2026-10-24T07:27:56.381055"
     },
     {
       "id": "6ffbf8a36a79bab87877b937d50e8ffa",
@@ -450,7 +459,7 @@
       "location": "<details><summary>**9 locations**</summary>Madison, WI</br>Boston, MA</br>Seattle, WA</br>Austin, TX</br>Detroit, MI</br>Santa Clara, CA</br>Arlington, VA</br>Minneapolis, MN</br>Denver, CO</details>",
       "apply_url": "https://amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us?utm_source=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159752"
+      "found_at": "2026-10-24T07:27:56.381060"
     },
     {
       "id": "9c6245e1ad1d3f1bd0089f8ac5d4d8a6",
@@ -459,7 +468,7 @@
       "location": "Conway, AR",
       "apply_url": "https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/Conway/Associate-Solution-Developer_JR014611?utm_source=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159756"
+      "found_at": "2026-10-24T07:27:56.381065"
     },
     {
       "id": "131f24e2ca189fb4cee1b596703f8deb",
@@ -468,7 +477,7 @@
       "location": "Chicago, IL</br>New York, NY",
       "apply_url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005?utm_source=vansh",
       "date_posted": "Aug 01",
-      "found_at": "2026-10-24T02:20:03.159759"
+      "found_at": "2026-10-24T07:27:56.381070"
     },
     {
       "id": "e67d44d96a1f19c27ea77247c2d31500",
@@ -477,7 +486,7 @@
       "location": "Chicago, IL",
       "apply_url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708724005?utm_source=vansh",
       "date_posted": "Aug 01",
-      "found_at": "2026-10-24T02:20:03.159763"
+      "found_at": "2026-10-24T07:27:56.381075"
     },
     {
       "id": "a1d69be0832c89d347aaf0bf117c088e",
@@ -486,7 +495,7 @@
       "location": "State College, PA",
       "apply_url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/DevSecOps-Research-Computing-Software-Engineer_REQ_0000079351-2?utm_source=vansh",
       "date_posted": "Jul 31",
-      "found_at": "2026-10-24T02:20:03.159767"
+      "found_at": "2026-10-24T07:27:56.381080"
     },
     {
       "id": "ffe2349aa52547f00896b2b18e32ba85",
@@ -495,7 +504,7 @@
       "location": "Durham, NC",
       "apply_url": "https://careers.duke.edu/job/Durham-Analytics-Engineer-NC-27710/1414289400/?ats=successfactors&utm_source=vansh&ref=vansh",
       "date_posted": "Jul 31",
-      "found_at": "2026-10-24T02:20:03.159770"
+      "found_at": "2026-10-24T07:27:56.381085"
     },
     {
       "id": "10831525658c441bf52d1aa14ebeb8fa",
@@ -504,7 +513,7 @@
       "location": "Seattle, WA",
       "apply_url": "https://jobs.lever.co/artera-2/eae88c70-fbf5-4525-890c-d3f9377418b0?utm_source=vansh",
       "date_posted": "Jul 31",
-      "found_at": "2026-10-24T02:20:03.159774"
+      "found_at": "2026-10-24T07:27:56.381090"
     },
     {
       "id": "8d53575d261cd15c5f022e11efc1fa5b",
@@ -513,16 +522,7 @@
       "location": "San Diego, CA",
       "apply_url": "https://jobs.apple.com/en-us/details/200657382?utm_source=vansh",
       "date_posted": "Jul 31",
-      "found_at": "2026-10-24T02:20:03.159777"
-    },
-    {
-      "id": "d75e795462aea0872d543825374b7057",
-      "company": "Amerisure",
-      "role": "Software Engineer 1",
-      "location": "Southfield, MI",
-      "apply_url": "https://osv-amerisure.wd5.myworkdayjobs.com/Amerisure/job/Farmington-Hills-MI/Software-Engineer-I_JR-002063?utm_source=vansh",
-      "date_posted": "Jul 31",
-      "found_at": "2026-10-24T02:20:03.159781"
+      "found_at": "2026-10-24T07:27:56.381095"
     },
     {
       "id": "5e10a2dc694b4321c5b858bc834f069d",
@@ -531,7 +531,7 @@
       "location": "Annapolis Junction, MD",
       "apply_url": "https://phh.tbe.taleo.net/phh01/ats/careers/v2/viewRequisition?org=BASESOLU&cws=37&rid=330&src=LinkedIn&jr_id=69c44ae133eecf3107948246&utm_source=vansh&ref=vansh",
       "date_posted": "Mar 25",
-      "found_at": "2026-10-24T02:20:03.159785"
+      "found_at": "2026-10-24T07:27:56.381101"
     },
     {
       "id": "0d286249e5cbb74615bdd1b22ed08385",
@@ -540,7 +540,7 @@
       "location": "Austin, TX",
       "apply_url": "https://www.tesla.com/careers/search/job/262209?utm_source=vansh",
       "date_posted": "Feb 15",
-      "found_at": "2026-10-24T02:20:03.159788"
+      "found_at": "2026-10-24T07:27:56.381105"
     },
     {
       "id": "8844770c5aab9a86474da73f75ff269c",
@@ -549,7 +549,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/262739?utm_source=vansh",
       "date_posted": "Feb 15",
-      "found_at": "2026-10-24T02:20:03.159802"
+      "found_at": "2026-10-24T07:27:56.381110"
     },
     {
       "id": "c322ce786dd10c88e9392080fcd1d527",
@@ -558,7 +558,7 @@
       "location": "Fremont, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/262815?utm_source=vansh",
       "date_posted": "Feb 15",
-      "found_at": "2026-10-24T02:20:03.159805"
+      "found_at": "2026-10-24T07:27:56.381115"
     },
     {
       "id": "c4c823642a219a8cf0be486ad4d17688",
@@ -567,7 +567,7 @@
       "location": "Cupertino, CA",
       "apply_url": "https://jobs.apple.com/en-us/details/200636915-0836/junior-ui-compositing-engineer?utm_source=vansh",
       "date_posted": "Feb 15",
-      "found_at": "2026-10-24T02:20:03.159809"
+      "found_at": "2026-10-24T07:27:56.381120"
     },
     {
       "id": "74e2b3c886f4db6a94e489d7cd11117a",
@@ -576,7 +576,7 @@
       "location": "Sunnyvale, CA",
       "apply_url": "https://jobs.apple.com/en-us/details/200646547-3956/software-engineer-customer-systems-is-t-early-career?utm_source=vansh",
       "date_posted": "Feb 15",
-      "found_at": "2026-10-24T02:20:03.159812"
+      "found_at": "2026-10-24T07:27:56.381124"
     },
     {
       "id": "b1a20ea385921bc21d0bb8e7735c986f",
@@ -585,7 +585,7 @@
       "location": "Seattle, WA",
       "apply_url": "https://www.amazon.jobs/en/jobs/3177934/software-development-engineer-2026-us?utm_source=vansh",
       "date_posted": "Feb 15",
-      "found_at": "2026-10-24T02:20:03.159815"
+      "found_at": "2026-10-24T07:27:56.381129"
     },
     {
       "id": "1d0dd093d858b0f42745b0795f92f4d0",
@@ -594,7 +594,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/252155?utm_source=vansh",
       "date_posted": "Feb 01",
-      "found_at": "2026-10-24T02:20:03.159819"
+      "found_at": "2026-10-24T07:27:56.381134"
     },
     {
       "id": "e2872eea2328baf20918a09961edfa4f",
@@ -603,7 +603,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/261393?utm_source=vansh",
       "date_posted": "Feb 01",
-      "found_at": "2026-10-24T02:20:03.159822"
+      "found_at": "2026-10-24T07:27:56.381139"
     },
     {
       "id": "8b0d15e4df7430fa19fa46ca35d3bb89",
@@ -612,7 +612,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/261137?utm_source=vansh",
       "date_posted": "Feb 01",
-      "found_at": "2026-10-24T02:20:03.159826"
+      "found_at": "2026-10-24T07:27:56.381143"
     },
     {
       "id": "f8b079c15468876bd71a2bf4837b7496",
@@ -621,7 +621,7 @@
       "location": "Fremont, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/257746?utm_source=vansh",
       "date_posted": "Feb 01",
-      "found_at": "2026-10-24T02:20:03.159829"
+      "found_at": "2026-10-24T07:27:56.381147"
     },
     {
       "id": "f366c001c889891bfdc34584447df986",
@@ -630,7 +630,7 @@
       "location": "Austin, TX",
       "apply_url": "https://jobs.apple.com/en-us/details/200643885-0157/software-engineer-is-t-early-career-opportunities?utm_source=vansh",
       "date_posted": "Feb 01",
-      "found_at": "2026-10-24T02:20:03.159832"
+      "found_at": "2026-10-24T07:27:56.381152"
     },
     {
       "id": "430d7b455b1968f8400ee4bec15e1f53",
@@ -639,7 +639,7 @@
       "location": "Sunnyvale, CA",
       "apply_url": "https://jobs.apple.com/en-us/details/200643886-3956/software-engineer-is-t-early-career-opportunities?team=SFTWR&utm_source=vansh&ref=vansh",
       "date_posted": "Feb 01",
-      "found_at": "2026-10-24T02:20:03.159835"
+      "found_at": "2026-10-24T07:27:56.381156"
     },
     {
       "id": "d1cabf029dfc165ad97d4504c2ce843b",
@@ -648,7 +648,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/259300?utm_source=vansh",
       "date_posted": "Jan 09",
-      "found_at": "2026-10-24T02:20:03.159838"
+      "found_at": "2026-10-24T07:27:56.381161"
     },
     {
       "id": "66ad06f15af87c9b847ae06ad16519e9",
@@ -657,7 +657,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/233307?utm_source=vansh",
       "date_posted": "Jan 09",
-      "found_at": "2026-10-24T02:20:03.159842"
+      "found_at": "2026-10-24T07:27:56.381165"
     },
     {
       "id": "083ccb94493bd8af84d13853868cb7c7",
@@ -666,7 +666,7 @@
       "location": "Palo Alto, California",
       "apply_url": "https://www.tesla.com/careers/search/job/259427?utm_source=vansh",
       "date_posted": "Jan 09",
-      "found_at": "2026-10-24T02:20:03.159845"
+      "found_at": "2026-10-24T07:27:56.381170"
     },
     {
       "id": "0d9f69635fc226d82689fc3a7ed0688c",
@@ -675,7 +675,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/259410?utm_source=vansh",
       "date_posted": "Jan 09",
-      "found_at": "2026-10-24T02:20:03.159849"
+      "found_at": "2026-10-24T07:27:56.381175"
     },
     {
       "id": "1d2112d5869f0620234efa8b567cfdb6",
@@ -684,7 +684,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/259428?utm_source=vansh",
       "date_posted": "Jan 09",
-      "found_at": "2026-10-24T02:20:03.159852"
+      "found_at": "2026-10-24T07:27:56.381179"
     },
     {
       "id": "e751325503744517010c499213fb0d08",
@@ -693,7 +693,7 @@
       "location": "Raleigh, NC",
       "apply_url": "https://www.ixl.com/company/careers?gh_jid=8364780002&utm_source=vansh&ref=vansh",
       "date_posted": "Jan 09",
-      "found_at": "2026-10-24T02:20:03.159856"
+      "found_at": "2026-10-24T07:27:56.381184"
     },
     {
       "id": "f77ce5b3201e8654780d2ac437adf797",
@@ -702,7 +702,7 @@
       "location": "Fremont, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/259057?utm_source=vansh",
       "date_posted": "Jan 07",
-      "found_at": "2026-10-24T02:20:03.159859"
+      "found_at": "2026-10-24T07:27:56.381190"
     },
     {
       "id": "e2a9e7a888a4a7976724d996e30afc1d",
@@ -711,7 +711,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/259019?utm_source=vansh",
       "date_posted": "Jan 07",
-      "found_at": "2026-10-24T02:20:03.159863"
+      "found_at": "2026-10-24T07:27:56.381194"
     },
     {
       "id": "466a17a71f7d0923cb2915971c2c5f3f",
@@ -720,7 +720,7 @@
       "location": "East Setauket, NY",
       "apply_url": "https://www.rentec.com/Careers.action?jobs=true&selectedPosition=realtimeTradingProgrammer&utm_source=vansh&ref=vansh",
       "date_posted": "Jan 07",
-      "found_at": "2026-10-24T02:20:03.159868"
+      "found_at": "2026-10-24T07:27:56.381200"
     },
     {
       "id": "4997fa97c86a4dbe3d2142d26416d10e",
@@ -729,7 +729,7 @@
       "location": "East Setauket, NY",
       "apply_url": "https://www.rentec.com/Careers.action?jobs=true&selectedPosition=researchScientist&utm_source=vansh&ref=vansh",
       "date_posted": "Jan 07",
-      "found_at": "2026-10-24T02:20:03.159872"
+      "found_at": "2026-10-24T07:27:56.381206"
     },
     {
       "id": "32012aaa50638e6d9ee6a05f3606ba86",
@@ -738,7 +738,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://joinbytedance.com/search/7527678842316998919?utm_source=vansh",
       "date_posted": "Jan 01",
-      "found_at": "2026-10-24T02:20:03.159875"
+      "found_at": "2026-10-24T07:27:56.381210"
     },
     {
       "id": "b148784d944ecd2723b4f328fa1065ef",
@@ -747,7 +747,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://joinbytedance.com/search/7532657573800659218?utm_source=vansh",
       "date_posted": "Jan 01",
-      "found_at": "2026-10-24T02:20:03.159879"
+      "found_at": "2026-10-24T07:27:56.381215"
     },
     {
       "id": "76fd5eb14e0c2f10708fde4f46f2fda3",
@@ -756,7 +756,7 @@
       "location": "New York, NY",
       "apply_url": "https://www.workatastartup.com/jobs/85422?utm_source=vansh",
       "date_posted": "Nov 30",
-      "found_at": "2026-10-24T02:20:03.159883"
+      "found_at": "2026-10-24T07:27:56.381220"
     },
     {
       "id": "f6c0220b32f8d328128c89ec7c5107a9",
@@ -765,7 +765,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/256730?utm_source=vansh",
       "date_posted": "Nov 30",
-      "found_at": "2026-10-24T02:20:03.159886"
+      "found_at": "2026-10-24T07:27:56.381225"
     },
     {
       "id": "29a4308f2bb96af6a7ecbc0fc7c5fd93",
@@ -774,7 +774,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/256595?utm_source=vansh",
       "date_posted": "Nov 30",
-      "found_at": "2026-10-24T02:20:03.159890"
+      "found_at": "2026-10-24T07:27:56.381230"
     },
     {
       "id": "33ba607cce1b5112c41b39e7f91c8aae",
@@ -783,7 +783,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/256719?utm_source=vansh",
       "date_posted": "Nov 30",
-      "found_at": "2026-10-24T02:20:03.159893"
+      "found_at": "2026-10-24T07:27:56.381234"
     },
     {
       "id": "6a950483b2f398ecb3deb70ba8229e8a",
@@ -792,7 +792,7 @@
       "location": "Seattle, WA",
       "apply_url": "https://joinbytedance.com/search/7542674819873081608?utm_source=vansh",
       "date_posted": "Nov 30",
-      "found_at": "2026-10-24T02:20:03.159897"
+      "found_at": "2026-10-24T07:27:56.381239"
     },
     {
       "id": "0e07e4fc28e869d7990ae2032afd1b09",
@@ -801,7 +801,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/227179?utm_source=vansh",
       "date_posted": "Nov 18",
-      "found_at": "2026-10-24T02:20:03.159900"
+      "found_at": "2026-10-24T07:27:56.381244"
     },
     {
       "id": "65b6c9f5c6ba8e3e5013c705ab740905",
@@ -810,7 +810,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://www.workatastartup.com/jobs/85445?utm_source=vansh",
       "date_posted": "Nov 18",
-      "found_at": "2026-10-24T02:20:03.159904"
+      "found_at": "2026-10-24T07:27:56.381248"
     },
     {
       "id": "33a492071010af8dc445a5d3e1adc3ef",
@@ -819,7 +819,7 @@
       "location": "Remote",
       "apply_url": "https://lumenalta.com/jobs/full-stack-engineer-storyblok-expert-full-stack-engineer-storyblok-expert-188?utm_source=vansh",
       "date_posted": "Nov 18",
-      "found_at": "2026-10-24T02:20:03.159907"
+      "found_at": "2026-10-24T07:27:56.381253"
     },
     {
       "id": "73658f4ef7a58247d7d482f3b143a836",
@@ -828,7 +828,7 @@
       "location": "Sunnyvale, CA",
       "apply_url": "https://jobs.apple.com/en-us/details/200627852-3956/software-engineer-is-t-early-career?utm_source=vansh",
       "date_posted": "Nov 18",
-      "found_at": "2026-10-24T02:20:03.159910"
+      "found_at": "2026-10-24T07:27:56.381257"
     },
     {
       "id": "f71ce9b6766c3053135e97919a173854",
@@ -837,7 +837,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/255342?utm_source=vansh",
       "date_posted": "Nov 10",
-      "found_at": "2026-10-24T02:20:03.159914"
+      "found_at": "2026-10-24T07:27:56.381262"
     },
     {
       "id": "1eaa7409b2eccf179ba1bb41509ebb84",
@@ -846,7 +846,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/255357?utm_source=vansh",
       "date_posted": "Nov 10",
-      "found_at": "2026-10-24T02:20:03.159918"
+      "found_at": "2026-10-24T07:27:56.381267"
     },
     {
       "id": "c73f6066c3d7214145716bc1aae34e3b",
@@ -855,7 +855,7 @@
       "location": "East Liberty, OH",
       "apply_url": "https://www.tesla.com/careers/search/job/255247?utm_source=vansh",
       "date_posted": "Nov 10",
-      "found_at": "2026-10-24T02:20:03.159921"
+      "found_at": "2026-10-24T07:27:56.381272"
     },
     {
       "id": "74541d39b50cc9e1c199a5cbe5a8f1f6",
@@ -864,7 +864,7 @@
       "location": "San Diego, CA",
       "apply_url": "https://careers.qualcomm.com/careers/job/446715361809?utm_source=vansh",
       "date_posted": "Nov 10",
-      "found_at": "2026-10-24T02:20:03.159925"
+      "found_at": "2026-10-24T07:27:56.381277"
     },
     {
       "id": "b80df16ea521c8b01d4fec0fdd6eafb6",
@@ -873,7 +873,7 @@
       "location": "Cupertino, CA",
       "apply_url": "https://jobs.apple.com/en-us/details/200630837-0836/aiml-resident-siri-agent-modeling?utm_source=vansh",
       "date_posted": "Nov 10",
-      "found_at": "2026-10-24T02:20:03.159928"
+      "found_at": "2026-10-24T07:27:56.381281"
     },
     {
       "id": "9a0822f8a36b39188684aa3da1e8f208",
@@ -882,7 +882,7 @@
       "location": "Santa Clara, CA",
       "apply_url": "https://jobs.apple.com/en-us/details/200630834-3760/aiml-resident-robot-learning?utm_source=vansh",
       "date_posted": "Nov 10",
-      "found_at": "2026-10-24T02:20:03.159932"
+      "found_at": "2026-10-24T07:27:56.381285"
     },
     {
       "id": "ce95badfc7c5d3672915a139b68d31ed",
@@ -891,7 +891,7 @@
       "location": "Seattle, WA</br>Cupertino, CA",
       "apply_url": "https://jobs.apple.com/en-us/details/200630794-3337/aiml-resident-data-operations-capacity-planning-analytics?utm_source=vansh",
       "date_posted": "Nov 10",
-      "found_at": "2026-10-24T02:20:03.159935"
+      "found_at": "2026-10-24T07:27:56.381290"
     },
     {
       "id": "9e62e083cee0c41327a39de98688cbfb",
@@ -900,7 +900,7 @@
       "location": "Seattle, WA</br>Santa Clara, CA",
       "apply_url": "https://jobs.apple.com/en-us/details/200630798-3337/aiml-resident-knowledge-answer-quality-richness?utm_source=vansh",
       "date_posted": "Nov 10",
-      "found_at": "2026-10-24T02:20:03.159939"
+      "found_at": "2026-10-24T07:27:56.381295"
     },
     {
       "id": "e5bce177309d2cd0c9ae85c77701ee6e",
@@ -909,7 +909,7 @@
       "location": "Cupertino, CA",
       "apply_url": "https://jobs.apple.com/en-us/details/200630840-0836/aiml-resident-input-experience-nlp?utm_source=vansh",
       "date_posted": "Nov 10",
-      "found_at": "2026-10-24T02:20:03.159942"
+      "found_at": "2026-10-24T07:27:56.381300"
     },
     {
       "id": "ed78ba335fd816364ed138669386221f",
@@ -918,7 +918,7 @@
       "location": "Seattle, WA",
       "apply_url": "https://jobs.apple.com/en-us/details/200630783-3337/aiml-resident-machine-learning-research?utm_source=vansh",
       "date_posted": "Nov 10",
-      "found_at": "2026-10-24T02:20:03.159946"
+      "found_at": "2026-10-24T07:27:56.381305"
     },
     {
       "id": "0bd6cc73f968154b20c0d88a12a08f2a",
@@ -927,7 +927,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://www.workatastartup.com/jobs/84801?utm_source=vansh",
       "date_posted": "Nov 10",
-      "found_at": "2026-10-24T02:20:03.159949"
+      "found_at": "2026-10-24T07:27:56.381309"
     },
     {
       "id": "bbf925a1137f7504c50ab98b44e26bc1",
@@ -936,7 +936,7 @@
       "location": "Remote",
       "apply_url": "https://job-boards.greenhouse.io/warp/jobs/4324888004?utm_source=vansh",
       "date_posted": "Nov 05",
-      "found_at": "2026-10-24T02:20:03.159952"
+      "found_at": "2026-10-24T07:27:56.381314"
     },
     {
       "id": "1415ca793dd5e2780e4672170b9c9baa",
@@ -945,7 +945,7 @@
       "location": "Chicago, IL",
       "apply_url": "https://www.valkyrietrading.com/careers/junior-derivatives-trader-new-grad-entry-level/?utm_source=vansh",
       "date_posted": "Nov 05",
-      "found_at": "2026-10-24T02:20:03.159957"
+      "found_at": "2026-10-24T07:27:56.381319"
     },
     {
       "id": "0c5b45d23ec2167efab9461fd9e9a4ea",
@@ -954,7 +954,7 @@
       "location": "Chicago, IL",
       "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=7362357&utm_source=vansh&ref=vansh",
       "date_posted": "Nov 05",
-      "found_at": "2026-10-24T02:20:03.159960"
+      "found_at": "2026-10-24T07:27:56.381324"
     },
     {
       "id": "d3a745f0121720d20d3712bbf12349d4",
@@ -963,7 +963,7 @@
       "location": "San Francisco, CA</br>New York, NY",
       "apply_url": "https://job-boards.greenhouse.io/figma/jobs/5691911004?utm_source=vansh",
       "date_posted": "Nov 05",
-      "found_at": "2026-10-24T02:20:03.159964"
+      "found_at": "2026-10-24T07:27:56.381329"
     },
     {
       "id": "e774cba4b325afa4b00855d97d439890",
@@ -972,7 +972,7 @@
       "location": "Fremont, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/249570?utm_source=vansh",
       "date_posted": "Nov 01",
-      "found_at": "2026-10-24T02:20:03.159967"
+      "found_at": "2026-10-24T07:27:56.381334"
     },
     {
       "id": "7c54bf8896b67384f8c0c61117b1483b",
@@ -981,7 +981,7 @@
       "location": "New York, NY",
       "apply_url": "https://www.metacareers.com/jobs/2578176955882259?utm_source=vansh",
       "date_posted": "Nov 01",
-      "found_at": "2026-10-24T02:20:03.159971"
+      "found_at": "2026-10-24T07:27:56.381338"
     },
     {
       "id": "3c16543bd607ffa8711a5d7fea71c383",
@@ -990,7 +990,7 @@
       "location": "Remote",
       "apply_url": "https://jobs.ashbyhq.com/clipboard/b83ea62e-f143-4673-a741-3e98e7e083bd?utm_source=vansh",
       "date_posted": "Nov 01",
-      "found_at": "2026-10-24T02:20:03.159974"
+      "found_at": "2026-10-24T07:27:56.381343"
     },
     {
       "id": "bace85cf9e056166ae567d7a14b5d32f",
@@ -999,7 +999,7 @@
       "location": "Dallas, TX",
       "apply_url": "https://about.nextdoor.com/careers-list/?gh_jid=7264954&utm_source=vansh&ref=vansh",
       "date_posted": "Oct 30",
-      "found_at": "2026-10-24T02:20:03.159978"
+      "found_at": "2026-10-24T07:27:56.381348"
     },
     {
       "id": "3f3e17f6dcfd2f257eaed87b5682f042",
@@ -1008,7 +1008,7 @@
       "location": "New York, NY",
       "apply_url": "https://www.spotandtango.com/careers?gh_jid=4620638005&utm_source=vansh&ref=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159981"
+      "found_at": "2026-10-24T07:27:56.381353"
     },
     {
       "id": "ac02acbb9a9a86290b8b94f79555d91f",
@@ -1017,7 +1017,7 @@
       "location": "Patuxent River, MD",
       "apply_url": "https://www.smxtech.com/careers/?gh_jid=7498313003&utm_source=vansh&ref=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159985"
+      "found_at": "2026-10-24T07:27:56.381368"
     },
     {
       "id": "6df4202d1cbd5152ff14f2446efce673",
@@ -1026,7 +1026,7 @@
       "location": "Austin, TX</br>Atlanta, GA",
       "apply_url": "https://revionics.com/about/careers/open-jobs?gh_jid=7172125&utm_source=vansh&ref=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159989"
+      "found_at": "2026-10-24T07:27:56.381373"
     },
     {
       "id": "34462550b8b0e189980239e3ea773810",
@@ -1035,7 +1035,7 @@
       "location": "New York, NY",
       "apply_url": "https://www.workatastartup.com/jobs/83842?utm_source=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159992"
+      "found_at": "2026-10-24T07:27:56.381377"
     },
     {
       "id": "d7cb4523ac99496e9cf6285517880910",
@@ -1044,7 +1044,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://www.workatastartup.com/jobs/83750?utm_source=vansh",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-24T02:20:03.159996"
+      "found_at": "2026-10-24T07:27:56.381383"
     },
     {
       "id": "28fea49ab809597db7a53929f55f53f3",
@@ -1053,7 +1053,7 @@
       "location": "New York, NY</br>Chicago, IL",
       "apply_url": "https://www.boerboeltrading.com/jobs.html?gh_jid=5670371004&utm_source=vansh&ref=vansh",
       "date_posted": "Oct 20",
-      "found_at": "2026-10-24T02:20:03.159999"
+      "found_at": "2026-10-24T07:27:56.381387"
     },
     {
       "id": "f344e3a6fdf982e292ea8c90349aba68",
@@ -1062,7 +1062,7 @@
       "location": "New York, NY</br>Chicago, IL",
       "apply_url": "https://www.boerboeltrading.com/jobs.html?gh_jid=5681668004&utm_source=vansh&ref=vansh",
       "date_posted": "Oct 20",
-      "found_at": "2026-10-24T02:20:03.160003"
+      "found_at": "2026-10-24T07:27:56.381392"
     },
     {
       "id": "2d65ce163fdfde368a6b7512da608371",
@@ -1071,7 +1071,7 @@
       "location": "Austin, TX",
       "apply_url": "https://jobs.apple.com/en-us/details/200626967-0157/is-t-early-career-engineering-program-manager-opportunities?utm_source=vansh",
       "date_posted": "Oct 20",
-      "found_at": "2026-10-24T02:20:03.160006"
+      "found_at": "2026-10-24T07:27:56.381397"
     },
     {
       "id": "8092a5c69c2ff6d33f2d009263464e1c",
@@ -1080,7 +1080,7 @@
       "location": "Cupertino, CA",
       "apply_url": "https://jobs.apple.com/en-us/details/200626941-0836/software-engineer-xcode-intelligence-experience?utm_source=vansh",
       "date_posted": "Oct 20",
-      "found_at": "2026-10-24T02:20:03.160010"
+      "found_at": "2026-10-24T07:27:56.381401"
     },
     {
       "id": "4d87c340ab558c3a03ed85f820879669",
@@ -1089,7 +1089,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/253636?utm_source=vansh",
       "date_posted": "Oct 18",
-      "found_at": "2026-10-24T02:20:03.160013"
+      "found_at": "2026-10-24T07:27:56.381406"
     },
     {
       "id": "f0394f75eb8ea85adc715562dd473550",
@@ -1098,7 +1098,7 @@
       "location": "Fremont, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/253673?utm_source=vansh",
       "date_posted": "Oct 18",
-      "found_at": "2026-10-24T02:20:03.160017"
+      "found_at": "2026-10-24T07:27:56.381410"
     },
     {
       "id": "73dad13d19abe5b18ef289b22b454ac4",
@@ -1107,7 +1107,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/253715?utm_source=vansh",
       "date_posted": "Oct 18",
-      "found_at": "2026-10-24T02:20:03.160020"
+      "found_at": "2026-10-24T07:27:56.381415"
     },
     {
       "id": "35b705a6ed22f8b58ef9501df5ad6564",
@@ -1116,7 +1116,7 @@
       "location": "Fremont, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/253464?utm_source=vansh",
       "date_posted": "Oct 16",
-      "found_at": "2026-10-24T02:20:03.160023"
+      "found_at": "2026-10-24T07:27:56.381420"
     },
     {
       "id": "fa7c30f3415444b7a6c4a4e21b6e0167",
@@ -1125,7 +1125,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://www.workatastartup.com/jobs/83503?utm_source=vansh",
       "date_posted": "Oct 16",
-      "found_at": "2026-10-24T02:20:03.160027"
+      "found_at": "2026-10-24T07:27:56.381425"
     },
     {
       "id": "0f8d3eebbb4671c5272778e182edac46",
@@ -1134,7 +1134,7 @@
       "location": "Austin, TX</br>Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/253222?utm_source=vansh",
       "date_posted": "Oct 14",
-      "found_at": "2026-10-24T02:20:03.160031"
+      "found_at": "2026-10-24T07:27:56.381430"
     },
     {
       "id": "3624d76aba84837fdc2ccba91e2e8d81",
@@ -1143,7 +1143,7 @@
       "location": "Austin, TX</br>Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/253221?utm_source=vansh",
       "date_posted": "Oct 14",
-      "found_at": "2026-10-24T02:20:03.160035"
+      "found_at": "2026-10-24T07:27:56.381435"
     },
     {
       "id": "5f3fd0c113a6b37b99e9e9d8e5301b1b",
@@ -1152,7 +1152,7 @@
       "location": "Dallas, TX",
       "apply_url": "https://uneekor.bamboohr.com/careers/119?utm_source=vansh",
       "date_posted": "Oct 11",
-      "found_at": "2026-10-24T02:20:03.160038"
+      "found_at": "2026-10-24T07:27:56.381439"
     },
     {
       "id": "30872af5eae01b8402083364029cd8f6",
@@ -1161,7 +1161,7 @@
       "location": "Foster City, CA",
       "apply_url": "https://www.quinstreet.com/careers/?gh_jid=7316288&utm_source=vansh&ref=vansh",
       "date_posted": "Oct 11",
-      "found_at": "2026-10-24T02:20:03.160042"
+      "found_at": "2026-10-24T07:27:56.381444"
     },
     {
       "id": "8d384c421a84306f6018fea85eaffb2d",
@@ -1170,7 +1170,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://joinbytedance.com/search/7540061337369954567?utm_source=vansh",
       "date_posted": "Oct 10",
-      "found_at": "2026-10-24T02:20:03.160046"
+      "found_at": "2026-10-24T07:27:56.381449"
     },
     {
       "id": "4bb369e4c980170729b8974c58811429",
@@ -1179,7 +1179,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/252915?utm_source=vansh",
       "date_posted": "Oct 09",
-      "found_at": "2026-10-24T02:20:03.160049"
+      "found_at": "2026-10-24T07:27:56.381453"
     },
     {
       "id": "ca43ba908e6ed22281ef793cf9781f43",
@@ -1188,7 +1188,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/252946?utm_source=vansh",
       "date_posted": "Oct 09",
-      "found_at": "2026-10-24T02:20:03.160052"
+      "found_at": "2026-10-24T07:27:56.381458"
     },
     {
       "id": "601254da66a2b26b090fad7c6dfe2596",
@@ -1197,7 +1197,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/252374?utm_source=vansh",
       "date_posted": "Oct 06",
-      "found_at": "2026-10-24T02:20:03.160056"
+      "found_at": "2026-10-24T07:27:56.381463"
     },
     {
       "id": "bdf9a8d781a256557f8e84dfd39c13a7",
@@ -1206,7 +1206,7 @@
       "location": "<details><summary>**5 locations**</summary>New York, NY</br>San Francisco, CA</br>Los Angeles, CA</br>Seattle, WA</br>Sunnyvale, CA</details>",
       "apply_url": "https://careersatdoordash.com/jobs/software-engineer-i-entry-level-graduation-date-fall-2025-summer-2026/7263610/?utm_source=vansh",
       "date_posted": "Oct 06",
-      "found_at": "2026-10-24T02:20:03.160060"
+      "found_at": "2026-10-24T07:27:56.381468"
     },
     {
       "id": "a98a680db1b1cab8ad252a1f7bd63a87",
@@ -1215,7 +1215,7 @@
       "location": "Fort Mill, SC",
       "apply_url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/116510?utm_source=vansh",
       "date_posted": "Sep 30",
-      "found_at": "2026-10-24T02:20:03.160064"
+      "found_at": "2026-10-24T07:27:56.381473"
     },
     {
       "id": "dd5f12141964c258eb91f4375628789d",
@@ -1224,7 +1224,7 @@
       "location": "Clearwater, FL",
       "apply_url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119931?utm_source=vansh",
       "date_posted": "Sep 30",
-      "found_at": "2026-10-24T02:20:03.160068"
+      "found_at": "2026-10-24T07:27:56.381478"
     },
     {
       "id": "66a62d4492b4d182a701363444f5c924",
@@ -1233,7 +1233,7 @@
       "location": "San Francisco, CA</br>New York, NY",
       "apply_url": "https://app.ripplematch.com/v2/public/job/2ddc776c?utm_source=vansh",
       "date_posted": "Sep 25",
-      "found_at": "2026-10-24T02:20:03.160072"
+      "found_at": "2026-10-24T07:27:56.381484"
     },
     {
       "id": "2840ee9b8afcf01cb386e0d29b2491ea",
@@ -1242,7 +1242,7 @@
       "location": "Cupertino, CA",
       "apply_url": "https://jobs.apple.com/en-us/details/200622152-0836/camera-framework-engineer-photo-capture?utm_source=vansh",
       "date_posted": "Sep 20",
-      "found_at": "2026-10-24T02:20:03.160075"
+      "found_at": "2026-10-24T07:27:56.381488"
     },
     {
       "id": "51a2fec2a24acbd0ba2e5f9e56b6f791",
@@ -1251,7 +1251,7 @@
       "location": "Pittsburgh, PA",
       "apply_url": "https://careers.duolingo.com/jobs/8155283002?utm_source=vansh",
       "date_posted": "Sep 15",
-      "found_at": "2026-10-24T02:20:03.160078"
+      "found_at": "2026-10-24T07:27:56.381493"
     },
     {
       "id": "b6b7365fca1d9bf368b5bb004021de7b",
@@ -1260,7 +1260,7 @@
       "location": "Pittsburgh, PA",
       "apply_url": "https://careers.duolingo.com/jobs/8162849002?utm_source=vansh",
       "date_posted": "Sep 15",
-      "found_at": "2026-10-24T02:20:03.160082"
+      "found_at": "2026-10-24T07:27:56.381497"
     },
     {
       "id": "b6a03b811755a3e6b0d560631a2a98c3",
@@ -1269,7 +1269,7 @@
       "location": "Annapolis Junction, MD",
       "apply_url": "https:/.workable.com/thorlabs/j/E79FA34ED4?utm_source=vansh",
       "date_posted": "Sep 12",
-      "found_at": "2026-10-24T02:20:03.160085"
+      "found_at": "2026-10-24T07:27:56.381502"
     },
     {
       "id": "53d66ebcef570a72f5443c52d776f02c",
@@ -1278,7 +1278,7 @@
       "location": "Fremont, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/250710?utm_source=vansh",
       "date_posted": "Sep 11",
-      "found_at": "2026-10-24T02:20:03.160088"
+      "found_at": "2026-10-24T07:27:56.381506"
     },
     {
       "id": "0b89a941a806c26166852ea62cfd37df",
@@ -1287,7 +1287,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/250792?utm_source=vansh",
       "date_posted": "Sep 11",
-      "found_at": "2026-10-24T02:20:03.160092"
+      "found_at": "2026-10-24T07:27:56.381511"
     },
     {
       "id": "7e2326750af2821c4712bd2afdc022cb",
@@ -1296,7 +1296,7 @@
       "location": "Chicago, IL",
       "apply_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?jobId=560273&utm_source=vansh&ref=vansh",
       "date_posted": "Sep 11",
-      "found_at": "2026-10-24T02:20:03.160096"
+      "found_at": "2026-10-24T07:27:56.381516"
     },
     {
       "id": "6908fbe8964b9b4faac5ca567ed52576",
@@ -1305,7 +1305,7 @@
       "location": "Los Angeles, CA",
       "apply_url": "https://d3.com/careers#jobs-listing?utm_source=vansh",
       "date_posted": "Sep 11",
-      "found_at": "2026-10-24T02:20:03.160099"
+      "found_at": "2026-10-24T07:27:56.381520"
     },
     {
       "id": "9563e22d05fc08646f6e7628b4017fd6",
@@ -1314,7 +1314,7 @@
       "location": "San Diego, CA",
       "apply_url": "https://jobs.apple.com/en-us/details/200620177-3543/wi-fi-software-systems-performance-engineer?utm_source=vansh",
       "date_posted": "Sep 10",
-      "found_at": "2026-10-24T02:20:03.160103"
+      "found_at": "2026-10-24T07:27:56.381525"
     },
     {
       "id": "baf63b2ba9add7e70a25afd912ce0a3b",
@@ -1323,7 +1323,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/250277?utm_source=vansh",
       "date_posted": "Sep 08",
-      "found_at": "2026-10-24T02:20:03.160106"
+      "found_at": "2026-10-24T07:27:56.381529"
     },
     {
       "id": "fadcd65310fb51073c10fd0526205222",
@@ -1332,7 +1332,7 @@
       "location": "Austin, TX",
       "apply_url": "https://www.tesla.com/careers/search/job/250195?utm_source=vansh",
       "date_posted": "Sep 08",
-      "found_at": "2026-10-24T02:20:03.160109"
+      "found_at": "2026-10-24T07:27:56.381534"
     },
     {
       "id": "017f5af8b5b2c318359adf9b4754362d",
@@ -1341,7 +1341,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/225545?utm_source=vansh",
       "date_posted": "Sep 08",
-      "found_at": "2026-10-24T02:20:03.160113"
+      "found_at": "2026-10-24T07:27:56.381538"
     },
     {
       "id": "d94e8a21d0294e49faaa60fb3561052f",
@@ -1350,7 +1350,7 @@
       "location": "Berkeley, CA",
       "apply_url": "https:/.workable.com/eluvio/j/A349A0D2AF?utm_source=vansh",
       "date_posted": "Sep 08",
-      "found_at": "2026-10-24T02:20:03.160117"
+      "found_at": "2026-10-24T07:27:56.381543"
     },
     {
       "id": "b120f32c260682656ccb5dbad758a836",
@@ -1359,7 +1359,7 @@
       "location": "Remote in USA",
       "apply_url": "https://divergehealth.org/jobs/?gh_jid=4840575007&utm_source=vansh&ref=vansh",
       "date_posted": "Sep 08",
-      "found_at": "2026-10-24T02:20:03.160120"
+      "found_at": "2026-10-24T07:27:56.381548"
     },
     {
       "id": "1ccff6e8ecc2277279e1888a3f66cef5",
@@ -1368,7 +1368,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://www.workatastartup.com/jobs/81273?utm_source=vansh",
       "date_posted": "Sep 08",
-      "found_at": "2026-10-24T02:20:03.160123"
+      "found_at": "2026-10-24T07:27:56.381552"
     },
     {
       "id": "4405a983b05087392fbd5ad34a6a9195",
@@ -1377,7 +1377,7 @@
       "location": "Austin, TX",
       "apply_url": "https://joinbytedance.com/search/7534966101852539144?utm_source=vansh",
       "date_posted": "Sep 08",
-      "found_at": "2026-10-24T02:20:03.160127"
+      "found_at": "2026-10-24T07:27:56.381557"
     },
     {
       "id": "decbfd04acf48d5a290dfd3169a70963",
@@ -1386,7 +1386,7 @@
       "location": "Tampa, FL</br>Jackson Township, NJ</br>Dallas, TX",
       "apply_url": "https:/.workable.com/qodeworld/j/5E96914ADB?utm_source=vansh",
       "date_posted": "Sep 05",
-      "found_at": "2026-10-24T02:20:03.160130"
+      "found_at": "2026-10-24T07:27:56.381561"
     },
     {
       "id": "0c556079dc640f91c0d21da50bd40419",
@@ -1395,7 +1395,7 @@
       "location": "Reston, VA",
       "apply_url": "https://www.metrostar.com/job-post/?gh_jid=6667276003&utm_source=vansh&ref=vansh",
       "date_posted": "Sep 05",
-      "found_at": "2026-10-24T02:20:03.160134"
+      "found_at": "2026-10-24T07:27:56.381567"
     },
     {
       "id": "5cd67a5f4c3f15093798600c492f79a4",
@@ -1404,7 +1404,7 @@
       "location": "Seattle, WA</br>SF",
       "apply_url": "https://stripe.com/jobs/search?gh_jid=7210112&utm_source=vansh&ref=vansh",
       "date_posted": "Sep 03",
-      "found_at": "2026-10-24T02:20:03.160138"
+      "found_at": "2026-10-24T07:27:56.381571"
     },
     {
       "id": "80420d2a06ba33851fa7221122fa6c50",
@@ -1413,7 +1413,7 @@
       "location": "Oakland, CA</br>NYC",
       "apply_url": "https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd/application?utm_source=vansh",
       "date_posted": "Sep 03",
-      "found_at": "2026-10-24T02:20:03.160141"
+      "found_at": "2026-10-24T07:27:56.381576"
     },
     {
       "id": "48326c6845555e8d81671a580e830588",
@@ -1422,7 +1422,7 @@
       "location": "<details><summary>**14 locations**</summary>Sandy Springs, GA</br>Poughkeepsie, NY</br>Lowell, MA</br>Rochester, MN</br>Tucson, AZ</br>Research Triangle Park, NC</br>Durham, NC</br>Hopewell Junction, NY</br>San Jose, CA</br>Dallas, TX</br>Houston, TX</br>Austin, TX</br>Herndon, VA</br>New York, NY</details>",
       "apply_url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56285&utm_source=vansh&ref=vansh",
       "date_posted": "Sep 03",
-      "found_at": "2026-10-24T02:20:03.160145"
+      "found_at": "2026-10-24T07:27:56.381581"
     },
     {
       "id": "3d2e85d83db263f08e50de859d9b15df",
@@ -1431,7 +1431,7 @@
       "location": "Mountain View, CA",
       "apply_url": "https://www.commure.com/careers-detail?ashby_jid=00dbfa4a-986c-4c98-a966-47874d1ff0f8&utm_source=vansh&ref=vansh",
       "date_posted": "Sep 03",
-      "found_at": "2026-10-24T02:20:03.160149"
+      "found_at": "2026-10-24T07:27:56.381586"
     },
     {
       "id": "b2bfa1768b58c780643985634618862a",
@@ -1440,7 +1440,7 @@
       "location": "Fremont, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/249335?utm_source=vansh",
       "date_posted": "Aug 28",
-      "found_at": "2026-10-24T02:20:03.160152"
+      "found_at": "2026-10-24T07:27:56.381591"
     },
     {
       "id": "a99069a9ac1a9783cfa5869c5b6bed49",
@@ -1449,7 +1449,7 @@
       "location": "Fremont, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/249467?utm_source=vansh",
       "date_posted": "Aug 28",
-      "found_at": "2026-10-24T02:20:03.160156"
+      "found_at": "2026-10-24T07:27:56.381595"
     },
     {
       "id": "14d0a264fd332f3a6eeadcfba746b6e6",
@@ -1458,7 +1458,7 @@
       "location": "AUSTIN, Texas",
       "apply_url": "https://www.tesla.com/careers/search/job/249481?utm_source=vansh",
       "date_posted": "Aug 28",
-      "found_at": "2026-10-24T02:20:03.160160"
+      "found_at": "2026-10-24T07:27:56.381600"
     },
     {
       "id": "36b2c74db718dd8167f0e556cc1348f5",
@@ -1467,7 +1467,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/248966?utm_source=vansh",
       "date_posted": "Aug 28",
-      "found_at": "2026-10-24T02:20:03.160163"
+      "found_at": "2026-10-24T07:27:56.381604"
     },
     {
       "id": "787ffe08578abf5a9370be3f89f0bd96",
@@ -1476,7 +1476,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://joinbytedance.com/search/7542657938525538578?utm_source=vansh",
       "date_posted": "Aug 28",
-      "found_at": "2026-10-24T02:20:03.160167"
+      "found_at": "2026-10-24T07:27:56.381609"
     },
     {
       "id": "8d718146582d4bfade6a4acc4855af4e",
@@ -1485,7 +1485,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://joinbytedance.com/search/7540808448918079752?utm_source=vansh",
       "date_posted": "Aug 28",
-      "found_at": "2026-10-24T02:20:03.160170"
+      "found_at": "2026-10-24T07:27:56.381614"
     },
     {
       "id": "63f14c73a444f00dc208f0b848227a87",
@@ -1494,7 +1494,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/249027?utm_source=vansh",
       "date_posted": "Aug 23",
-      "found_at": "2026-10-24T02:20:03.160174"
+      "found_at": "2026-10-24T07:27:56.381618"
     },
     {
       "id": "aeb77b9228320d0b75f7ff1a8aa95d2b",
@@ -1503,7 +1503,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/249182?utm_source=vansh",
       "date_posted": "Aug 23",
-      "found_at": "2026-10-24T02:20:03.160177"
+      "found_at": "2026-10-24T07:27:56.381623"
     },
     {
       "id": "12f8f3355868a3e0235b282142d24b30",
@@ -1512,7 +1512,7 @@
       "location": "<details><summary>**5 locations**</summary>San Jose, CA</br>Chicago, IL</br>Omaha, NE</br>Scottsdale, AZ</br>Austin, TX</details>",
       "apply_url": "https://paypal.eightfold.ai/careers/job/274908747686?utm_source=vansh",
       "date_posted": "Aug 23",
-      "found_at": "2026-10-24T02:20:03.160181"
+      "found_at": "2026-10-24T07:27:56.381628"
     },
     {
       "id": "22c0c43f2b71c39344746d59b3149470",
@@ -1521,7 +1521,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/248353?utm_source=vansh",
       "date_posted": "Aug 22",
-      "found_at": "2026-10-24T02:20:03.160184"
+      "found_at": "2026-10-24T07:27:56.381632"
     },
     {
       "id": "8ecf02f4210ecceb182f531b8ca23bf5",
@@ -1530,7 +1530,7 @@
       "location": "Fremont, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/247062?utm_source=vansh",
       "date_posted": "Aug 22",
-      "found_at": "2026-10-24T02:20:03.160187"
+      "found_at": "2026-10-24T07:27:56.381636"
     },
     {
       "id": "665b512d6f32680a47dcc117b5e6119d",
@@ -1539,7 +1539,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/249133?utm_source=vansh",
       "date_posted": "Aug 22",
-      "found_at": "2026-10-24T02:20:03.160191"
+      "found_at": "2026-10-24T07:27:56.381641"
     },
     {
       "id": "7a7899deffcde71e8f43bdb9ed0c1e29",
@@ -1548,7 +1548,7 @@
       "location": "Sunnyvale, CA",
       "apply_url": "https://jobs.apple.com/en-us/details/200615794-3956/accessibility-engineer-is-t-early-career?utm_source=vansh",
       "date_posted": "Aug 22",
-      "found_at": "2026-10-24T02:20:03.160194"
+      "found_at": "2026-10-24T07:27:56.381646"
     },
     {
       "id": "a797cfed8934c12a7e0a400117f2ccdc",
@@ -1557,7 +1557,7 @@
       "location": "SPARKS, Nevada",
       "apply_url": "https://www.tesla.com/careers/search/job/242064?utm_source=vansh",
       "date_posted": "Aug 20",
-      "found_at": "2026-10-24T02:20:03.160197"
+      "found_at": "2026-10-24T07:27:56.381650"
     },
     {
       "id": "efaf5e6c516e4e4d5d85df27b3187544",
@@ -1566,7 +1566,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/248886?utm_source=vansh",
       "date_posted": "Aug 20",
-      "found_at": "2026-10-24T02:20:03.160201"
+      "found_at": "2026-10-24T07:27:56.381655"
     },
     {
       "id": "28617524cf1a25e30781b137c27407c2",
@@ -1575,7 +1575,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://joinbytedance.com/search/7536272435440716040?utm_source=vansh",
       "date_posted": "Aug 19",
-      "found_at": "2026-10-24T02:20:03.160204"
+      "found_at": "2026-10-24T07:27:56.381660"
     },
     {
       "id": "c18489c4ddfe8806f8f603bce4832396",
@@ -1584,7 +1584,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://joinbytedance.com/search/7265752342699837757?utm_source=vansh",
       "date_posted": "Aug 19",
-      "found_at": "2026-10-24T02:20:03.160208"
+      "found_at": "2026-10-24T07:27:56.381665"
     },
     {
       "id": "7793c44a5c9140560fa6eedb9522502d",
@@ -1593,7 +1593,7 @@
       "location": "NJ",
       "apply_url": "https:/.workable.com/qodeworld/j/5718A36818/?utm_source=vansh",
       "date_posted": "Aug 17",
-      "found_at": "2026-10-24T02:20:03.160211"
+      "found_at": "2026-10-24T07:27:56.381669"
     },
     {
       "id": "6b4012f0f74c2d3c596c1f3c09d3cf71",
@@ -1602,7 +1602,7 @@
       "location": "Evanston, IL",
       "apply_url": "https://l2tmediallc.applytojob.com/b2dvJrHuSV/Junior-Digital-Media-Data-Analyst?utm_source=vansh",
       "date_posted": "Aug 17",
-      "found_at": "2026-10-24T02:20:03.160215"
+      "found_at": "2026-10-24T07:27:56.381674"
     },
     {
       "id": "8d1205db20dfe6cd20d01e9f02eb199f",
@@ -1611,7 +1611,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/248409?utm_source=vansh",
       "date_posted": "Aug 16",
-      "found_at": "2026-10-24T02:20:03.160218"
+      "found_at": "2026-10-24T07:27:56.381679"
     },
     {
       "id": "b647d7a868bda05d709e9f8047b8e09d",
@@ -1620,7 +1620,7 @@
       "location": "Seattle, WA</br>Helena, MT",
       "apply_url": "https://www.sofi.com/careers/sofi-university/?utm_source=vansh",
       "date_posted": "Aug 16",
-      "found_at": "2026-10-24T02:20:03.160222"
+      "found_at": "2026-10-24T07:27:56.381683"
     },
     {
       "id": "12f8f3355868a3e0235b282142d24b30",
@@ -1629,7 +1629,7 @@
       "location": "<details><summary>**5 locations**</summary>San Jose, CA</br>Chicago, IL</br>Omaha, NE</br>Scottsdale, AZ</br>Austin, TX</details>",
       "apply_url": "https://paypal.eightfold.ai/careers/job/274908696559?utm_source=vansh",
       "date_posted": "Aug 16",
-      "found_at": "2026-10-24T02:20:03.160225"
+      "found_at": "2026-10-24T07:27:56.381688"
     },
     {
       "id": "bd02149de821e288ff0851d7870d0a4a",
@@ -1638,7 +1638,7 @@
       "location": "Remote",
       "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/3257589?utm_source=vansh",
       "date_posted": "Aug 16",
-      "found_at": "2026-10-24T02:20:03.160229"
+      "found_at": "2026-10-24T07:27:56.381693"
     },
     {
       "id": "2bc9a5135dd1035a4e92b1d513aa15cb",
@@ -1647,7 +1647,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://joinbytedance.com/search/7538120693880834322?utm_source=vansh",
       "date_posted": "Aug 16",
-      "found_at": "2026-10-24T02:20:03.160232"
+      "found_at": "2026-10-24T07:27:56.381697"
     },
     {
       "id": "51e1f05464153bd63d5137b7e7038c72",
@@ -1656,7 +1656,7 @@
       "location": "Seattle, WA",
       "apply_url": "https://joinbytedance.com/search/7538433821165259015?utm_source=vansh",
       "date_posted": "Aug 16",
-      "found_at": "2026-10-24T02:20:03.160236"
+      "found_at": "2026-10-24T07:27:56.381702"
     },
     {
       "id": "9658da32aa002a9f590f48dba57095d4",
@@ -1665,7 +1665,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://joinbytedance.com/search/7538106304578963730?utm_source=vansh",
       "date_posted": "Aug 16",
-      "found_at": "2026-10-24T02:20:03.160239"
+      "found_at": "2026-10-24T07:27:56.381707"
     },
     {
       "id": "b8d6878113b50a2d81fd941f5aeca0c2",
@@ -1674,7 +1674,7 @@
       "location": "Seattle, WA",
       "apply_url": "https://joinbytedance.com/search/7538109046751463688?utm_source=vansh",
       "date_posted": "Aug 16",
-      "found_at": "2026-10-24T02:20:03.160242"
+      "found_at": "2026-10-24T07:27:56.381711"
     },
     {
       "id": "18dd7c14d644d73aace0c49750970cd8",
@@ -1683,7 +1683,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://joinbytedance.com/search/7538114876280817927?utm_source=vansh",
       "date_posted": "Aug 16",
-      "found_at": "2026-10-24T02:20:03.160246"
+      "found_at": "2026-10-24T07:27:56.381716"
     },
     {
       "id": "7a38dad9e3f17f9d777118cd84ae4acc",
@@ -1692,7 +1692,7 @@
       "location": "Seattle",
       "apply_url": "https://joinbytedance.com/search/7535903852755814674?utm_source=vansh",
       "date_posted": "Aug 16",
-      "found_at": "2026-10-24T02:20:03.160249"
+      "found_at": "2026-10-24T07:27:56.381721"
     },
     {
       "id": "dae78e05e8ef4b5bfcc598d71e3b80cf",
@@ -1701,7 +1701,7 @@
       "location": "Falls Church, VA",
       "apply_url": "https://triafed.com/jobs/?gh_jid=4881899008&utm_source=vansh&ref=vansh",
       "date_posted": "Aug 14",
-      "found_at": "2026-10-24T02:20:03.160253"
+      "found_at": "2026-10-24T07:27:56.381726"
     },
     {
       "id": "3e6cdc4ec8b94490d368be3a37842c0b",
@@ -1710,7 +1710,7 @@
       "location": "Stamford, CT",
       "apply_url": "https:/.workable.com/trexquant/j/A634E0E3F4/?utm_source=vansh",
       "date_posted": "Aug 13",
-      "found_at": "2026-10-24T02:20:03.160256"
+      "found_at": "2026-10-24T07:27:56.381731"
     },
     {
       "id": "0a5e268d2f4627582b1369b58778ff16",
@@ -1719,7 +1719,7 @@
       "location": "Stamford, CT",
       "apply_url": "https:/.workable.com/trexquant/j/A634E0E3F4?utm_source=vansh",
       "date_posted": "Aug 13",
-      "found_at": "2026-10-24T02:20:03.160260"
+      "found_at": "2026-10-24T07:27:56.381735"
     },
     {
       "id": "3a713d91442e8c124c9ba83864137158",
@@ -1728,7 +1728,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/242474?utm_source=vansh",
       "date_posted": "Aug 13",
-      "found_at": "2026-10-24T02:20:03.160263"
+      "found_at": "2026-10-24T07:27:56.381740"
     },
     {
       "id": "9d9270d50a0e26c718791d1e12f2f807",
@@ -1737,7 +1737,7 @@
       "location": "Boulder, CO",
       "apply_url": "https:/.workable.com/scitec/j/45B1B9BA15/?utm_source=vansh",
       "date_posted": "Aug 13",
-      "found_at": "2026-10-24T02:20:03.160267"
+      "found_at": "2026-10-24T07:27:56.381745"
     },
     {
       "id": "2947532c98cb1d0e490755a86783bff1",
@@ -1746,7 +1746,7 @@
       "location": "Indianapolis, IN",
       "apply_url": "https://remodelhealth.com/resources/job/?gh_jid=4880033008&utm_source=vansh&ref=vansh",
       "date_posted": "Aug 13",
-      "found_at": "2026-10-24T02:20:03.160271"
+      "found_at": "2026-10-24T07:27:56.381750"
     },
     {
       "id": "4d9ffff66bc03e2d04d0a023aa18f153",
@@ -1755,7 +1755,7 @@
       "location": "Washington, DC",
       "apply_url": "https://jobs.smartrecruiters.com/prosidianconsulting/743999691677974?utm_source=vansh",
       "date_posted": "Aug 13",
-      "found_at": "2026-10-24T02:20:03.160274"
+      "found_at": "2026-10-24T07:27:56.381755"
     },
     {
       "id": "3942ce7a68b84a673155fec5eb8fc1c6",
@@ -1764,7 +1764,7 @@
       "location": "New York, NY",
       "apply_url": "https://www.hudsonrivertrading.com/hrt-job/algorithm-developer-quant-researcher-2026-grads/?utm_source=vansh",
       "date_posted": "Aug 13",
-      "found_at": "2026-10-24T02:20:03.160278"
+      "found_at": "2026-10-24T07:27:56.381759"
     },
     {
       "id": "67c1d5754d043f3bddfb247fc8c3c44b",
@@ -1773,7 +1773,7 @@
       "location": "Miami, FL",
       "apply_url": "https://www.citadelsecurities.com/careers/details/c-software-engineer-4/?utm_source=vansh",
       "date_posted": "Aug 13",
-      "found_at": "2026-10-24T02:20:03.160281"
+      "found_at": "2026-10-24T07:27:56.381764"
     },
     {
       "id": "1cc21e208f64fb2f364793d4e194bbd6",
@@ -1782,7 +1782,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://jobs.bytedance.com/en/position/7537121677185534216/detail?spread=BSPP2KS&utm_source=vansh&ref=vansh",
       "date_posted": "Aug 13",
-      "found_at": "2026-10-24T02:20:03.160284"
+      "found_at": "2026-10-24T07:27:56.381769"
     },
     {
       "id": "28617524cf1a25e30781b137c27407c2",
@@ -1791,7 +1791,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://jobs.bytedance.com/en/position/7536272435440716040/detail?spread=BSPP2KS&utm_source=vansh&ref=vansh",
       "date_posted": "Aug 13",
-      "found_at": "2026-10-24T02:20:03.160288"
+      "found_at": "2026-10-24T07:27:56.381773"
     },
     {
       "id": "37c7e3fde7fda9fe600f8a45dccdbce9",
@@ -1800,7 +1800,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://jobs.bytedance.com/en/position/7532538236133902599/detail?spread=BSPP2KS&utm_source=vansh&ref=vansh",
       "date_posted": "Aug 13",
-      "found_at": "2026-10-24T02:20:03.160291"
+      "found_at": "2026-10-24T07:27:56.381778"
     },
     {
       "id": "bb8e1546c704b0cd188e2780b7724fb9",
@@ -1809,7 +1809,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://jobs.bytedance.com/en/position/7535233571066349842/detail?spread=BSPP2KS&utm_source=vansh&ref=vansh",
       "date_posted": "Aug 13",
-      "found_at": "2026-10-24T02:20:03.160295"
+      "found_at": "2026-10-24T07:27:56.381783"
     },
     {
       "id": "aa2d0bc98aa74d62828f2c8f0b0a3937",
@@ -1818,7 +1818,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189/application?utm_source=vansh",
       "date_posted": "Aug 13",
-      "found_at": "2026-10-24T02:20:03.160299"
+      "found_at": "2026-10-24T07:27:56.381788"
     },
     {
       "id": "a291025d23dd1aa9fffefa36156399a1",
@@ -1827,7 +1827,7 @@
       "location": "Roseville, MN",
       "apply_url": "https://bostonscientific.eightfold.ai/careers/job/563602803047194?utm_source=vansh",
       "date_posted": "Aug 13",
-      "found_at": "2026-10-24T02:20:03.160302"
+      "found_at": "2026-10-24T07:27:56.381793"
     },
     {
       "id": "a291025d23dd1aa9fffefa36156399a1",
@@ -1836,7 +1836,7 @@
       "location": "Roseville, MN",
       "apply_url": "https://bostonscientific.eightfold.ai/careers/job/563602803067424?utm_source=vansh",
       "date_posted": "Aug 13",
-      "found_at": "2026-10-24T02:20:03.160306"
+      "found_at": "2026-10-24T07:27:56.381798"
     },
     {
       "id": "a291025d23dd1aa9fffefa36156399a1",
@@ -1845,7 +1845,7 @@
       "location": "Roseville, MN",
       "apply_url": "https://bostonscientific.eightfold.ai/careers/job/563602803102071?utm_source=vansh",
       "date_posted": "Aug 13",
-      "found_at": "2026-10-24T02:20:03.160309"
+      "found_at": "2026-10-24T07:27:56.381802"
     },
     {
       "id": "f2130a16e12383a32ba5324b21594cd2",
@@ -1854,7 +1854,7 @@
       "location": "Costa Mesa, CA",
       "apply_url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4164476007?gh_jid=4164476007&gh_src=&utm_source=vansh&ref=vansh",
       "date_posted": "Aug 13",
-      "found_at": "2026-10-24T02:20:03.160314"
+      "found_at": "2026-10-24T07:27:56.381808"
     },
     {
       "id": "77fa62306f2eb8ed4a5fceb72f7b73a0",
@@ -1863,7 +1863,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/247480?utm_source=vansh",
       "date_posted": "Aug 07",
-      "found_at": "2026-10-24T02:20:03.160317"
+      "found_at": "2026-10-24T07:27:56.381813"
     },
     {
       "id": "76e4cf7ce8e4c6af642e82847f1cd03e",
@@ -1872,7 +1872,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/247595?utm_source=vansh",
       "date_posted": "Aug 07",
-      "found_at": "2026-10-24T02:20:03.160321"
+      "found_at": "2026-10-24T07:27:56.381817"
     },
     {
       "id": "069706b3d0623488fef262369bac4399",
@@ -1881,7 +1881,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/247659?utm_source=vansh",
       "date_posted": "Aug 07",
-      "found_at": "2026-10-24T02:20:03.160324"
+      "found_at": "2026-10-24T07:27:56.381822"
     },
     {
       "id": "43377d1fb78e230b3bf0df847c7e0a8a",
@@ -1890,7 +1890,7 @@
       "location": "Hamilton, NJ",
       "apply_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf1a92f4-16eb-4267-86ca-bc956024f426&jobId=553315&utm_source=vansh&ref=vansh",
       "date_posted": "Aug 07",
-      "found_at": "2026-10-24T02:20:03.160328"
+      "found_at": "2026-10-24T07:27:56.381827"
     },
     {
       "id": "6f03f831df5af97f2f7f244ca5bfa0e4",
@@ -1899,7 +1899,7 @@
       "location": "Kennedy Space Center, FL",
       "apply_url": "https://jacobs.taleo.net/careersection/ex3/jobdetail.ftl?job=ADV000B3R&lang=en&utm_source=vansh&ref=vansh",
       "date_posted": "Aug 07",
-      "found_at": "2026-10-24T02:20:03.160331"
+      "found_at": "2026-10-24T07:27:56.381831"
     },
     {
       "id": "1a210149276b869aff0cc912dd9c6f53",
@@ -1908,7 +1908,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://jobs.bytedance.com/en/position/7534838755829696776/detail?spread=BSPP2KS&utm_source=vansh&ref=vansh",
       "date_posted": "Aug 07",
-      "found_at": "2026-10-24T02:20:03.160334"
+      "found_at": "2026-10-24T07:27:56.381836"
     },
     {
       "id": "bf517f9cf4659337f2365d6035ab0dcd",
@@ -1917,7 +1917,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://jobs.bytedance.com/en/position/7531126749275851026/detail?spread=BSPP2KS&utm_source=vansh&ref=vansh",
       "date_posted": "Aug 07",
-      "found_at": "2026-10-24T02:20:03.160338"
+      "found_at": "2026-10-24T07:27:56.381840"
     },
     {
       "id": "e05f1bfa7abc158f40ced97d096a45de",
@@ -1926,7 +1926,7 @@
       "location": "Bellevue, WA</br>Menlo Park, CA",
       "apply_url": "https://www.metacareers.com/jobs/609052015548260?utm_source=vansh",
       "date_posted": "Jul 31",
-      "found_at": "2026-10-24T02:20:03.160341"
+      "found_at": "2026-10-24T07:27:56.381845"
     },
     {
       "id": "639a4428f84fa1e87464cddc1a407491",
@@ -1935,7 +1935,7 @@
       "location": "Remote",
       "apply_url": "https://www.shopify.com/careers/infrastructure-engineers_202c9f29-47fa-4b55-8cbb-337eed7d92e2?utm_source=vansh",
       "date_posted": "Jul 30",
-      "found_at": "2026-10-24T02:20:03.160345"
+      "found_at": "2026-10-24T07:27:56.381849"
     },
     {
       "id": "8ea082885a625b826ac58f4de69fb280",
@@ -1944,7 +1944,7 @@
       "location": "Austin, TX",
       "apply_url": "https://www.hudsonrivertrading.com/hrt-job/junior-electronic-trading-support-engineer/?utm_source=vansh",
       "date_posted": "Jul 30",
-      "found_at": "2026-10-24T02:20:03.160348"
+      "found_at": "2026-10-24T07:27:56.381854"
     },
     {
       "id": "109b485f47bdc45711614b3b1006e70e",
@@ -1953,7 +1953,7 @@
       "location": "New York, NY",
       "apply_url": "https://www.hudsonrivertrading.com/hrt-job/junior-electronic-trading-support-engineer-2/?utm_source=vansh",
       "date_posted": "Jul 30",
-      "found_at": "2026-10-24T02:20:03.160351"
+      "found_at": "2026-10-24T07:27:56.381858"
     },
     {
       "id": "839d6a1826506bd25abf7ef728188aae",
@@ -1962,7 +1962,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://jobs.bytedance.com/en/position/7532618536427391240/detail?spread=BSPP2KS&utm_source=vansh&ref=vansh",
       "date_posted": "Jul 30",
-      "found_at": "2026-10-24T02:20:03.160354"
+      "found_at": "2026-10-24T07:27:56.381862"
     },
     {
       "id": "11a86e5388b6a85519035d1b492c975a",
@@ -1971,7 +1971,7 @@
       "location": "Seattle, WA",
       "apply_url": "https://jobs.bytedance.com/en/position/7527836662400026898/detail?spread=BSPP2KS&utm_source=vansh&ref=vansh",
       "date_posted": "Jul 30",
-      "found_at": "2026-10-24T02:20:03.160358"
+      "found_at": "2026-10-24T07:27:56.381867"
     },
     {
       "id": "31d48e3580d07cf870de307d8c789cd7",
@@ -1980,7 +1980,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://www.perplexity.ai/hub/associate-product-manager?utm_source=vansh",
       "date_posted": "Jul 25",
-      "found_at": "2026-10-24T02:20:03.160362"
+      "found_at": "2026-10-24T07:27:56.381872"
     },
     {
       "id": "75e84d65d2e581dd569f04bc32c86787",
@@ -1989,7 +1989,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/246199?utm_source=vansh",
       "date_posted": "Jul 24",
-      "found_at": "2026-10-24T02:20:03.160365"
+      "found_at": "2026-10-24T07:27:56.381877"
     },
     {
       "id": "d60aacb2ca19c35c281c4e9c11ebea86",
@@ -1998,7 +1998,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/246198?utm_source=vansh",
       "date_posted": "Jul 24",
-      "found_at": "2026-10-24T02:20:03.160368"
+      "found_at": "2026-10-24T07:27:56.381881"
     },
     {
       "id": "0a3d346f534f92f7f50026762e29a266",
@@ -2007,7 +2007,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/246089?utm_source=vansh",
       "date_posted": "Jul 24",
-      "found_at": "2026-10-24T02:20:03.160372"
+      "found_at": "2026-10-24T07:27:56.381886"
     },
     {
       "id": "3024197f5d04734fdfd2db42ad7a8f35",
@@ -2016,7 +2016,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/246315?utm_source=vansh",
       "date_posted": "Jul 24",
-      "found_at": "2026-10-24T02:20:03.160375"
+      "found_at": "2026-10-24T07:27:56.381890"
     },
     {
       "id": "240a6394213ad0af87c1422017329e69",
@@ -2025,7 +2025,7 @@
       "location": "Foster City, CA",
       "apply_url": "https://www.quinstreet.com/careers/?gh_jid=7100468&utm_source=vansh&ref=vansh",
       "date_posted": "Jul 24",
-      "found_at": "2026-10-24T02:20:03.160379"
+      "found_at": "2026-10-24T07:27:56.381894"
     },
     {
       "id": "1f17f99ed27ed16d7af799fe2e5651d3",
@@ -2034,7 +2034,7 @@
       "location": "San Diego, CA",
       "apply_url": "https://careers.qualcomm.com/careers/job/446706913920?utm_source=vansh",
       "date_posted": "Jul 20",
-      "found_at": "2026-10-24T02:20:03.160382"
+      "found_at": "2026-10-24T07:27:56.381899"
     },
     {
       "id": "b98c2b1d6edb701218d00a33ffd9a3df",
@@ -2043,7 +2043,7 @@
       "location": "New York, NY",
       "apply_url": "https://www.ycombinator.com/companies/porter/jobs/6QhplSz-full-stack-engineer?utm_source=vansh",
       "date_posted": "Jul 15",
-      "found_at": "2026-10-24T02:20:03.160385"
+      "found_at": "2026-10-24T07:27:56.381903"
     },
     {
       "id": "2ec3cef0cdfc9b38a3dd031ddfdb1826",
@@ -2052,7 +2052,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/237386?utm_source=vansh",
       "date_posted": "Jul 14",
-      "found_at": "2026-10-24T02:20:03.160389"
+      "found_at": "2026-10-24T07:27:56.381908"
     },
     {
       "id": "bb226e38f6ce130fd308756ffa75386a",
@@ -2061,7 +2061,7 @@
       "location": "San Diego, CA",
       "apply_url": "https://careers.qualcomm.com/careers/job/446706753287?utm_source=vansh",
       "date_posted": "Jul 14",
-      "found_at": "2026-10-24T02:20:03.160393"
+      "found_at": "2026-10-24T07:27:56.381913"
     },
     {
       "id": "306f6e916b0a6b54fed4d119b1643522",
@@ -2070,7 +2070,7 @@
       "location": "Chicago, IL",
       "apply_url": "https://www.oldmissioncapital.com/careers/?gh_jid=6602920003&utm_source=vansh&ref=vansh",
       "date_posted": "Jul 14",
-      "found_at": "2026-10-24T02:20:03.160396"
+      "found_at": "2026-10-24T07:27:56.381917"
     },
     {
       "id": "906fd6ea5b848f2ed654e6e6bc2fe797",
@@ -2079,7 +2079,7 @@
       "location": "Chicago, IL",
       "apply_url": "https://www.oldmissioncapital.com/careers/?gh_jid=6602927003&utm_source=vansh&ref=vansh",
       "date_posted": "Jul 14",
-      "found_at": "2026-10-24T02:20:03.160400"
+      "found_at": "2026-10-24T07:27:56.381922"
     },
     {
       "id": "da260b093da379586583a3b11484a3cd",
@@ -2088,7 +2088,7 @@
       "location": "Mountain View, CA",
       "apply_url": "https://www.nuro.ai/careersitem?gh_jid=7066706&utm_source=vansh&ref=vansh",
       "date_posted": "Jul 14",
-      "found_at": "2026-10-24T02:20:03.160403"
+      "found_at": "2026-10-24T07:27:56.381926"
     },
     {
       "id": "87893a5d4a531103ce21f7fbd0e5ca2f",
@@ -2097,7 +2097,7 @@
       "location": "San Francisco, CA</br>Denver, CO</br>New York, NY",
       "apply_url": "https://jobs.ashbyhq.com/candidhealth/f0e529c1-b8d8-4add-aaef-23b174053b8b?utm_source=Simplify&ref=Simplify&utm_source=vansh&ref=vansh",
       "date_posted": "Jul 14",
-      "found_at": "2026-10-24T02:20:03.160406"
+      "found_at": "2026-10-24T07:27:56.381931"
     },
     {
       "id": "fe25fa98041e01aec75f8757bfce3ef6",
@@ -2106,7 +2106,7 @@
       "location": "Austin, TX",
       "apply_url": "https://jobs.apple.com/en-us/details/200612409/is-t-early-career-engineering-program-manager-opportunities?team=SFTWR&utm_source=vansh&ref=vansh",
       "date_posted": "Jul 13",
-      "found_at": "2026-10-24T02:20:03.160410"
+      "found_at": "2026-10-24T07:27:56.381937"
     },
     {
       "id": "b12d1bb53c38d1a5774981c730caee72",
@@ -2115,7 +2115,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/245229?utm_source=vansh",
       "date_posted": "Jul 05",
-      "found_at": "2026-10-24T02:20:03.160414"
+      "found_at": "2026-10-24T07:27:56.381941"
     },
     {
       "id": "dbeddb2f1bbbe080392624de9f4bb83d",
@@ -2124,7 +2124,7 @@
       "location": "San Diego, CA",
       "apply_url": "https://careers.qualcomm.com/careers/job/446706670731?utm_source=vansh",
       "date_posted": "Jul 05",
-      "found_at": "2026-10-24T02:20:03.160417"
+      "found_at": "2026-10-24T07:27:56.381946"
     },
     {
       "id": "3c36f157b871e9ea25dbddadcccab529",
@@ -2133,7 +2133,7 @@
       "location": "Seattle, WA",
       "apply_url": "https://jobs.lever.co/palantir/4d5a144e-87ea-45e2-a68c-3fad590629af?utm_source=vansh",
       "date_posted": "Jul 05",
-      "found_at": "2026-10-24T02:20:03.160420"
+      "found_at": "2026-10-24T07:27:56.381950"
     },
     {
       "id": "f04d88f5db482908664d0d2dec89f405",
@@ -2142,7 +2142,7 @@
       "location": "New York, NY",
       "apply_url": "https://jobs.lever.co/palantir/e1a6c138-98bf-45e2-97f7-2c70371cc38a?utm_source=vansh",
       "date_posted": "Jul 05",
-      "found_at": "2026-10-24T02:20:03.160423"
+      "found_at": "2026-10-24T07:27:56.381955"
     },
     {
       "id": "f04d88f5db482908664d0d2dec89f405",
@@ -2151,7 +2151,7 @@
       "location": "New York, NY",
       "apply_url": "https://jobs.lever.co/palantir/4abf26b4-795c-420a-bf22-1ab98db268b4?utm_source=vansh",
       "date_posted": "Jul 05",
-      "found_at": "2026-10-24T02:20:03.160426"
+      "found_at": "2026-10-24T07:27:56.381959"
     },
     {
       "id": "a856f2f517a60e4a4b3985838d571b82",
@@ -2160,7 +2160,7 @@
       "location": "Washington, DC",
       "apply_url": "https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79?utm_source=vansh",
       "date_posted": "Jul 05",
-      "found_at": "2026-10-24T02:20:03.160430"
+      "found_at": "2026-10-24T07:27:56.381964"
     },
     {
       "id": "7a3ee909a066baf349574ee9b73fa051",
@@ -2169,7 +2169,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://jobs.lever.co/palantir/f362d7aa-360d-4059-ab38-f482742693b3?utm_source=vansh",
       "date_posted": "Jul 05",
-      "found_at": "2026-10-24T02:20:03.160434"
+      "found_at": "2026-10-24T07:27:56.381969"
     },
     {
       "id": "0170d3d067ed31c6b1dbeb83d90e819c",
@@ -2178,7 +2178,7 @@
       "location": "New York, NY",
       "apply_url": "https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278?utm_source=vansh",
       "date_posted": "Jul 05",
-      "found_at": "2026-10-24T02:20:03.160438"
+      "found_at": "2026-10-24T07:27:56.381974"
     },
     {
       "id": "f04d88f5db482908664d0d2dec89f405",
@@ -2187,7 +2187,7 @@
       "location": "New York, NY",
       "apply_url": "https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92?utm_source=vansh",
       "date_posted": "Jul 05",
-      "found_at": "2026-10-24T02:20:03.160441"
+      "found_at": "2026-10-24T07:27:56.381978"
     },
     {
       "id": "96865242528fbf7976dcf66048367dfc",
@@ -2196,7 +2196,7 @@
       "location": "Denver, CO",
       "apply_url": "https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29?utm_source=vansh",
       "date_posted": "Jul 05",
-      "found_at": "2026-10-24T02:20:03.160445"
+      "found_at": "2026-10-24T07:27:56.381983"
     },
     {
       "id": "fa6542247d04751afdb93bc42c2af9da",
@@ -2205,7 +2205,7 @@
       "location": "Miami, FL</br>New York, NY",
       "apply_url": "https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us/?utm_source=vansh",
       "date_posted": "Jul 05",
-      "found_at": "2026-10-24T02:20:03.160448"
+      "found_at": "2026-10-24T07:27:56.381988"
     },
     {
       "id": "4328aa2fa2956ababf1611400c88ec21",
@@ -2214,7 +2214,7 @@
       "location": "Miami, FL</br>New York, NY",
       "apply_url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-us/?utm_source=vansh",
       "date_posted": "Jul 05",
-      "found_at": "2026-10-24T02:20:03.160452"
+      "found_at": "2026-10-24T07:27:56.381992"
     },
     {
       "id": "245021f6fd2611e69852b27a24d4bfe4",
@@ -2223,7 +2223,7 @@
       "location": "Miami, FL</br>New York, NY",
       "apply_url": "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/?utm_source=vansh",
       "date_posted": "Jul 05",
-      "found_at": "2026-10-24T02:20:03.160456"
+      "found_at": "2026-10-24T07:27:56.381997"
     },
     {
       "id": "6fecbeefeb18438eb3d0a7b11bfe87fe",
@@ -2232,7 +2232,7 @@
       "location": "New York, NY",
       "apply_url": "https://bambusdev.my.site.com/s/details?jobReq=Systematic-Equities-Quantitative-Researcher---Developer_REQ6955&utm_source=vansh&ref=vansh",
       "date_posted": "Jul 05",
-      "found_at": "2026-10-24T02:20:03.160459"
+      "found_at": "2026-10-24T07:27:56.382002"
     },
     {
       "id": "181692657e1537645226deaf9db171ac",
@@ -2241,7 +2241,7 @@
       "location": "Sunnyvale, CA",
       "apply_url": "https://jobs.apple.com/en-us/details/200611794/software-engineer-is-t-early-career?team=SFTWR&utm_source=vansh&ref=vansh",
       "date_posted": "Jul 05",
-      "found_at": "2026-10-24T02:20:03.160463"
+      "found_at": "2026-10-24T07:27:56.382007"
     },
     {
       "id": "df96988e4b35e94084012e6049eaf2b0",
@@ -2250,7 +2250,7 @@
       "location": "Austin, TX",
       "apply_url": "https://jobs.apple.com/en-us/details/200611793/software-engineer-is-t-early-career?team=SFTWR&utm_source=vansh&ref=vansh",
       "date_posted": "Jul 05",
-      "found_at": "2026-10-24T02:20:03.160466"
+      "found_at": "2026-10-24T07:27:56.382011"
     },
     {
       "id": "1d0dd093d858b0f42745b0795f92f4d0",
@@ -2259,7 +2259,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/225609?utm_source=vansh",
       "date_posted": "Jun 30",
-      "found_at": "2026-10-24T02:20:03.160469"
+      "found_at": "2026-10-24T07:27:56.382015"
     },
     {
       "id": "4038eb312654f0ce896fc6175e385041",
@@ -2268,7 +2268,7 @@
       "location": "Hawthorne, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/239333?utm_source=vansh",
       "date_posted": "Jun 30",
-      "found_at": "2026-10-24T02:20:03.160473"
+      "found_at": "2026-10-24T07:27:56.382020"
     },
     {
       "id": "0278e0337d49fe390b12163aa572e3cf",
@@ -2277,7 +2277,7 @@
       "location": "San Diego, CA",
       "apply_url": "https://careers.qualcomm.com/careers/job/446706463987?utm_source=vansh",
       "date_posted": "Jun 30",
-      "found_at": "2026-10-24T02:20:03.160476"
+      "found_at": "2026-10-24T07:27:56.382024"
     },
     {
       "id": "ef7d9722ae50ecd652d5558746cf3610",
@@ -2286,7 +2286,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/244793?utm_source=vansh",
       "date_posted": "Jun 27",
-      "found_at": "2026-10-24T02:20:03.160480"
+      "found_at": "2026-10-24T07:27:56.382029"
     },
     {
       "id": "6e9bd69e082d21b2d9494387af1f3cd0",
@@ -2295,7 +2295,7 @@
       "location": "San Diego, CA",
       "apply_url": "https://careers.qualcomm.com/careers/job/446706462906?utm_source=vansh",
       "date_posted": "Jun 27",
-      "found_at": "2026-10-24T02:20:03.160483"
+      "found_at": "2026-10-24T07:27:56.382033"
     },
     {
       "id": "8d7161422d612c7c68d82b06c194f329",
@@ -2304,7 +2304,7 @@
       "location": "San Diego, CA",
       "apply_url": "https://careers.qualcomm.com/careers/job/446706411550?utm_source=vansh",
       "date_posted": "Jun 27",
-      "found_at": "2026-10-24T02:20:03.160486"
+      "found_at": "2026-10-24T07:27:56.382038"
     },
     {
       "id": "9595d37fb090df27b811488d2185a639",
@@ -2313,7 +2313,7 @@
       "location": "Menlo Park, CA",
       "apply_url": "https://www.metacareers.com/jobs/1947521902323717?utm_source=vansh",
       "date_posted": "Jun 27",
-      "found_at": "2026-10-24T02:20:03.160490"
+      "found_at": "2026-10-24T07:27:56.382042"
     },
     {
       "id": "72f8e1312e14b4c0c02ffff88d6fdea3",
@@ -2322,7 +2322,7 @@
       "location": "Miami, FL",
       "apply_url": "https://davincitrading.com/job/graduate-c-software-engineer-2/?utm_source=vansh",
       "date_posted": "Jun 21",
-      "found_at": "2026-10-24T02:20:03.160493"
+      "found_at": "2026-10-24T07:27:56.382046"
     },
     {
       "id": "89237e0993ff68da80bc0a5c098e58b4",
@@ -2331,7 +2331,7 @@
       "location": "San Diego, CA",
       "apply_url": "https://careers.qualcomm.com/careers/job/446706280712?utm_source=vansh",
       "date_posted": "Jun 17",
-      "found_at": "2026-10-24T02:20:03.160497"
+      "found_at": "2026-10-24T07:27:56.382051"
     },
     {
       "id": "2e9773a2c72b111dcffdf07946f66bad",
@@ -2340,7 +2340,7 @@
       "location": "San Diego, CA",
       "apply_url": "https://careers.qualcomm.com/careers/job/446706280852?utm_source=vansh",
       "date_posted": "Jun 17",
-      "found_at": "2026-10-24T02:20:03.160500"
+      "found_at": "2026-10-24T07:27:56.382055"
     },
     {
       "id": "af7c9cde2748f375825666945cada59e",
@@ -2349,7 +2349,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/244263?utm_source=vansh",
       "date_posted": "Jun 09",
-      "found_at": "2026-10-24T02:20:03.160503"
+      "found_at": "2026-10-24T07:27:56.382060"
     },
     {
       "id": "ed787f442beb267e773288f6d6ce1ef6",
@@ -2358,7 +2358,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/243519?utm_source=vansh",
       "date_posted": "Jun 09",
-      "found_at": "2026-10-24T02:20:03.160507"
+      "found_at": "2026-10-24T07:27:56.382064"
     },
     {
       "id": "afebc6843dfb9cd17c2f86e64a2ebd02",
@@ -2367,7 +2367,7 @@
       "location": "New York, NY",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8022809002?utm_source=vansh",
       "date_posted": "Jun 07",
-      "found_at": "2026-10-24T02:20:03.160510"
+      "found_at": "2026-10-24T07:27:56.382068"
     },
     {
       "id": "cbb8c272c7f96ee707c3c5f6b6861540",
@@ -2376,7 +2376,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://www.lumafield.com/careers/job?id=fb3e17b3-d7fe-47da-85c3-aecda001e2ed&utm_source=vansh&ref=vansh",
       "date_posted": "Jun 07",
-      "found_at": "2026-10-24T02:20:03.160514"
+      "found_at": "2026-10-24T07:27:56.382073"
     },
     {
       "id": "142dd6cde5e61681a178341bde2fbb76",
@@ -2385,7 +2385,7 @@
       "location": "New York City",
       "apply_url": "https://jobs.ashbyhq.com/n1/99a78724-a7eb-4801-9e75-cf4465950567?utm_source=vansh",
       "date_posted": "Jun 06",
-      "found_at": "2026-10-24T02:20:03.160517"
+      "found_at": "2026-10-24T07:27:56.382078"
     },
     {
       "id": "7fd61c79b85af265d17063257ee42647",
@@ -2394,7 +2394,7 @@
       "location": "New York City",
       "apply_url": "https://jobs.ashbyhq.com/n1/2213cef6-fbcd-42f7-8e0e-c6a23bfc1119?utm_source=vansh",
       "date_posted": "Jun 06",
-      "found_at": "2026-10-24T02:20:03.160520"
+      "found_at": "2026-10-24T07:27:56.382082"
     },
     {
       "id": "615592d1b59d630c4758447f127acd35",
@@ -2403,7 +2403,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/243628?utm_source=vansh",
       "date_posted": "May 30",
-      "found_at": "2026-10-24T02:20:03.160524"
+      "found_at": "2026-10-24T07:27:56.382087"
     },
     {
       "id": "85dfcfdbbe46ae9f99572b582c057b59",
@@ -2412,7 +2412,7 @@
       "location": "Mountain View, CA",
       "apply_url": "https://www.nuro.ai/careersitem?gh_jid=6932596&utm_source=vansh&ref=vansh",
       "date_posted": "May 30",
-      "found_at": "2026-10-24T02:20:03.160527"
+      "found_at": "2026-10-24T07:27:56.382092"
     },
     {
       "id": "e751325503744517010c499213fb0d08",
@@ -2421,7 +2421,7 @@
       "location": "Raleigh, NC",
       "apply_url": "https://www.ixl.com/company/careers?gh_jid=8017370002&utm_source=vansh&ref=vansh",
       "date_posted": "May 30",
-      "found_at": "2026-10-24T02:20:03.160531"
+      "found_at": "2026-10-24T07:27:56.382096"
     },
     {
       "id": "a25fe721b331c8cd49e270b7de2a026e",
@@ -2430,7 +2430,7 @@
       "location": "San Mateo, CA",
       "apply_url": "https://www.ixl.com/company/careers?gh_jid=8017366002&utm_source=vansh&ref=vansh",
       "date_posted": "May 30",
-      "found_at": "2026-10-24T02:20:03.160534"
+      "found_at": "2026-10-24T07:27:56.382101"
     },
     {
       "id": "3d791a3408c9acffb0224794a830c93a",
@@ -2439,7 +2439,7 @@
       "location": "New York, NY",
       "apply_url": "https://www.workatastartup.com/jobs/75855?utm_source=vansh",
       "date_posted": "May 30",
-      "found_at": "2026-10-24T02:20:03.160538"
+      "found_at": "2026-10-24T07:27:56.382105"
     },
     {
       "id": "e1fa8cad5df0a0ca682d0d93e4f87d7e",
@@ -2448,7 +2448,7 @@
       "location": "New York, NY",
       "apply_url": "https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013369&location=New%20York&locale=English&utm_source=vansh&ref=vansh",
       "date_posted": "May 28",
-      "found_at": "2026-10-24T02:20:03.160541"
+      "found_at": "2026-10-24T07:27:56.382110"
     },
     {
       "id": "326eae0773daa5be539f29d6530eeaf7",
@@ -2457,7 +2457,7 @@
       "location": "New York, NY",
       "apply_url": "https://www.drw.com/work-at-drw/listings/research-engineer-2930985?utm_source=vansh",
       "date_posted": "May 28",
-      "found_at": "2026-10-24T02:20:03.160544"
+      "found_at": "2026-10-24T07:27:56.382114"
     },
     {
       "id": "50ef32908a44be170d44a17e302b088a",
@@ -2466,7 +2466,7 @@
       "location": "Miami, FL",
       "apply_url": "https://www.citadelsecurities.com/careers/details/systematic-options-trader/?utm_source=vansh",
       "date_posted": "May 28",
-      "found_at": "2026-10-24T02:20:03.160547"
+      "found_at": "2026-10-24T07:27:56.382119"
     },
     {
       "id": "0eb597635ae8f60ccbe5ca76e59f12a1",
@@ -2475,7 +2475,7 @@
       "location": "San Diego, CA",
       "apply_url": "https://careers.qualcomm.com/careers/job/446705709910?utm_source=vansh",
       "date_posted": "May 23",
-      "found_at": "2026-10-24T02:20:03.160551"
+      "found_at": "2026-10-24T07:27:56.382123"
     },
     {
       "id": "3d606a1306cd626ca32dfd779d28519c",
@@ -2484,7 +2484,7 @@
       "location": "San Diego, CA",
       "apply_url": "https://careers.qualcomm.com/careers/job/446704371557?utm_source=vansh",
       "date_posted": "May 23",
-      "found_at": "2026-10-24T02:20:03.160555"
+      "found_at": "2026-10-24T07:27:56.382128"
     },
     {
       "id": "e55017b0a35630554011af7966dbf801",
@@ -2493,7 +2493,7 @@
       "location": "San Diego, CA",
       "apply_url": "https://careers.qualcomm.com/careers/job/446705739046?utm_source=vansh",
       "date_posted": "May 23",
-      "found_at": "2026-10-24T02:20:03.160558"
+      "found_at": "2026-10-24T07:27:56.382132"
     },
     {
       "id": "15983e170e81d14fb9bfa3eefeb978b8",
@@ -2502,7 +2502,7 @@
       "location": "San Diego, CA",
       "apply_url": "https://careers.qualcomm.com/careers/job/446705907067?utm_source=vansh",
       "date_posted": "May 23",
-      "found_at": "2026-10-24T02:20:03.160561"
+      "found_at": "2026-10-24T07:27:56.382137"
     },
     {
       "id": "3ed161db9c6025bdee1c1d166f8d6a7f",
@@ -2511,7 +2511,7 @@
       "location": "Moffett Field, CA",
       "apply_url": "https://bs.com/KBR_Careers/job/Moffett-Field-California/Full-Stack-Software-Engineer_R2106782?utm_source=vansh",
       "date_posted": "May 23",
-      "found_at": "2026-10-24T02:20:03.160564"
+      "found_at": "2026-10-24T07:27:56.382142"
     },
     {
       "id": "e70b252a63cc4c8c463a032026c20038",
@@ -2520,7 +2520,7 @@
       "location": "Sunnyvale, CA",
       "apply_url": "https://jobs.apple.com/en-us/details/200605754/cellular-platform-software-engineer-embedded-analytics?team=SFTWR&utm_source=vansh&ref=vansh",
       "date_posted": "May 23",
-      "found_at": "2026-10-24T02:20:03.160568"
+      "found_at": "2026-10-24T07:27:56.382146"
     },
     {
       "id": "4e1c198732f51d5942aa9836d8b8c174",
@@ -2529,7 +2529,7 @@
       "location": "San Francisco, CA</br>New York, NY",
       "apply_url": "https://www.doppel.com/jobs?ashby_jid=07905bfc-1c21-465d-a6bb-39ef71744c3d&utm_source=vansh&ref=vansh",
       "date_posted": "May 17",
-      "found_at": "2026-10-24T02:20:03.160571"
+      "found_at": "2026-10-24T07:27:56.382151"
     },
     {
       "id": "9010c84477b0f2740edcac10ca94753c",
@@ -2538,7 +2538,7 @@
       "location": "San Diego, CA",
       "apply_url": "https://jobs.apple.com/en-us/details/200604992/embedded-system-software-engineer?team=SFTWR&utm_source=vansh&ref=vansh",
       "date_posted": "May 17",
-      "found_at": "2026-10-24T02:20:03.160575"
+      "found_at": "2026-10-24T07:27:56.382156"
     },
     {
       "id": "002672605c0beb2d323f50e35880a71f",
@@ -2547,7 +2547,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/242774?utm_source=vansh",
       "date_posted": "May 15",
-      "found_at": "2026-10-24T02:20:03.160578"
+      "found_at": "2026-10-24T07:27:56.382160"
     },
     {
       "id": "8e7df8fbd313cffea5383f8617715162",
@@ -2556,7 +2556,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/233715?utm_source=vansh",
       "date_posted": "May 15",
-      "found_at": "2026-10-24T02:20:03.160582"
+      "found_at": "2026-10-24T07:27:56.382165"
     },
     {
       "id": "85dfcfdbbe46ae9f99572b582c057b59",
@@ -2565,7 +2565,7 @@
       "location": "Mountain View, CA",
       "apply_url": "https://www.nuro.ai/careersitem?gh_jid=6725455&utm_source=vansh&ref=vansh",
       "date_posted": "May 15",
-      "found_at": "2026-10-24T02:20:03.160585"
+      "found_at": "2026-10-24T07:27:56.382169"
     },
     {
       "id": "9994abd8b05428d7b2a97bba5d4a6493",
@@ -2574,7 +2574,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://lifeattiktok.com/search/7275869814408300837?spread=5MWH5CQ&utm_source=vansh&ref=vansh",
       "date_posted": "May 03",
-      "found_at": "2026-10-24T02:20:03.160588"
+      "found_at": "2026-10-24T07:27:56.382174"
     },
     {
       "id": "e287dcb43b78fd70715eb9bd20ba202c",
@@ -2583,7 +2583,7 @@
       "location": "Philadelphia, PA",
       "apply_url": "https://thorsolutionsllc.applytojob.com/C8LIaGu8So/Software-Engineer-I?referrer=20250414192432YMUDC3C4I6XZL15U&utm_source=vansh&ref=vansh",
       "date_posted": "Apr 14",
-      "found_at": "2026-10-24T02:20:03.160592"
+      "found_at": "2026-10-24T07:27:56.382178"
     },
     {
       "id": "964db091a139481e44e9033c8d3f07ed",
@@ -2592,7 +2592,7 @@
       "location": "Remote</br>US",
       "apply_url": "https://linksquares.com/careers/open-positions/?gh_jid=4537585005&utm_source=vansh&ref=vansh",
       "date_posted": "Apr 14",
-      "found_at": "2026-10-24T02:20:03.160595"
+      "found_at": "2026-10-24T07:27:56.382182"
     },
     {
       "id": "9a2e2f3e275808925a13eb4e2b89e24d",
@@ -2601,7 +2601,7 @@
       "location": "Morehead City, NC",
       "apply_url": "https://recruiting.ultipro.com/VMS1002VMOO/JobBoard/3dde3e78-a60b-47af-93cf-ef6db6ed312b/OpportunityDetail?opportunityId=fa0772d7-fa49-4ce9-b7ae-de1a0da018eb&utm_source=vansh&ref=vansh",
       "date_posted": "Apr 14",
-      "found_at": "2026-10-24T02:20:03.160598"
+      "found_at": "2026-10-24T07:27:56.382187"
     },
     {
       "id": "ed0b95724aa30d4f356d5d093097c088",
@@ -2610,7 +2610,7 @@
       "location": "Fremont, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/241276?utm_source=vansh",
       "date_posted": "Apr 12",
-      "found_at": "2026-10-24T02:20:03.160602"
+      "found_at": "2026-10-24T07:27:56.382192"
     },
     {
       "id": "735ae77006fb978e8d54be539cf18ba4",
@@ -2619,7 +2619,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/235630?utm_source=vansh",
       "date_posted": "Apr 12",
-      "found_at": "2026-10-24T02:20:03.160605"
+      "found_at": "2026-10-24T07:27:56.382196"
     },
     {
       "id": "08d168e7279bd15bcc024aa9831d5568",
@@ -2628,7 +2628,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/frontend-engineer-genai-model-evaluation-226925?utm_source=vansh",
       "date_posted": "Apr 12",
-      "found_at": "2026-10-24T02:20:03.160609"
+      "found_at": "2026-10-24T07:27:56.382201"
     },
     {
       "id": "3aab6a3f53edee528a3c0d08ccd3d306",
@@ -2637,7 +2637,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/software-engineer-metrics-genai-model-evaluation-226926?utm_source=vansh",
       "date_posted": "Apr 12",
-      "found_at": "2026-10-24T02:20:03.160612"
+      "found_at": "2026-10-24T07:27:56.382206"
     },
     {
       "id": "ed5f5e158dfad8822c3e6070b32dada0",
@@ -2646,7 +2646,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/240828?utm_source=vansh",
       "date_posted": "Apr 12",
-      "found_at": "2026-10-24T02:20:03.160616"
+      "found_at": "2026-10-24T07:27:56.382211"
     },
     {
       "id": "0b74e73b2f19202b43afee5fb28d1ec1",
@@ -2655,7 +2655,7 @@
       "location": "Remote</br>US",
       "apply_url": "https://join.softheon.com/_/j/4AFE55D62D/?utm_source=vansh",
       "date_posted": "Apr 12",
-      "found_at": "2026-10-24T02:20:03.160619"
+      "found_at": "2026-10-24T07:27:56.382215"
     },
     {
       "id": "cd267a5f56b53c0590449bf7e8893b40",
@@ -2664,7 +2664,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://www.tesla.com/careers/search/job/240332?utm_source=vansh",
       "date_posted": "Apr 05",
-      "found_at": "2026-10-24T02:20:03.160622"
+      "found_at": "2026-10-24T07:27:56.382220"
     },
     {
       "id": "8134a991b451c95702d07e29203fd8bf",
@@ -2673,7 +2673,7 @@
       "location": "San Diego, CA",
       "apply_url": "https://careers.qualcomm.com/careers/job/446704474013?utm_source=vansh",
       "date_posted": "Mar 31",
-      "found_at": "2026-10-24T02:20:03.160626"
+      "found_at": "2026-10-24T07:27:56.382224"
     }
   ]
 }
