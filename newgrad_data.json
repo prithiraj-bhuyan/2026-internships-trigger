@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-26T13:41:23.771212",
-  "total_count": 381,
+  "last_updated": "2026-10-26T19:37:45.486469",
+  "total_count": 570,
   "internships": [
     {
       "id": "4842f4363db39876e598e036899f0b73",
@@ -9,7 +9,7 @@
       "location": "Hawthorne, CA",
       "apply_url": "https://go.vansh.nyc/BJ?s=A",
       "date_posted": "Oct 26",
-      "found_at": "2026-10-26T13:41:20.439136"
+      "found_at": "2026-10-26T19:37:43.967001"
     },
     {
       "id": "30cd3876526ea35b8c1fcf3b2cde07f3",
@@ -18,7 +18,16 @@
       "location": "Santa Clara, CA",
       "apply_url": "https://go.vansh.nyc/BI?s=A",
       "date_posted": "Oct 26",
-      "found_at": "2026-10-26T13:41:20.439154"
+      "found_at": "2026-10-26T19:37:43.967015"
+    },
+    {
+      "id": "34ee677486babf06cd3d32112b331731",
+      "company": "Ciena",
+      "role": "Software Engineer (Security)",
+      "location": "Atlanta, GA",
+      "apply_url": "https://go.vansh.nyc/SP?s=A",
+      "date_posted": "Oct 26",
+      "found_at": "2026-10-26T19:37:43.967021"
     },
     {
       "id": "30cd3876526ea35b8c1fcf3b2cde07f3",
@@ -27,7 +36,7 @@
       "location": "Santa Clara, CA",
       "apply_url": "https://go.vansh.nyc/Bn?s=A",
       "date_posted": "Oct 24",
-      "found_at": "2026-10-26T13:41:20.439159"
+      "found_at": "2026-10-26T19:37:43.967027"
     },
     {
       "id": "0505a6bfcd92911bd0f363235475c9f9",
@@ -36,7 +45,7 @@
       "location": "Hillsboro, OR",
       "apply_url": "https://go.vansh.nyc/Bx?s=A",
       "date_posted": "Oct 24",
-      "found_at": "2026-10-26T13:41:20.439165"
+      "found_at": "2026-10-26T19:37:43.967031"
     },
     {
       "id": "c1a5b98828b56a30e9aad0980a48ff3f",
@@ -45,7 +54,7 @@
       "location": "New York, NY",
       "apply_url": "https://go.vansh.nyc/Bm?s=A",
       "date_posted": "Oct 24",
-      "found_at": "2026-10-26T13:41:20.439170"
+      "found_at": "2026-10-26T19:37:43.967036"
     },
     {
       "id": "0ab4436bd7e3c4ae84099cbb0d24110b",
@@ -54,7 +63,7 @@
       "location": "Tampa, FL",
       "apply_url": "https://go.vansh.nyc/Bp?s=A",
       "date_posted": "Oct 24",
-      "found_at": "2026-10-26T13:41:20.439174"
+      "found_at": "2026-10-26T19:37:43.967041"
     },
     {
       "id": "0f35ac458cd66f63654dbb6dd4b0a3cc",
@@ -63,7 +72,7 @@
       "location": "Irving, TX",
       "apply_url": "https://go.vansh.nyc/Bq?s=A",
       "date_posted": "Oct 24",
-      "found_at": "2026-10-26T13:41:20.439178"
+      "found_at": "2026-10-26T19:37:43.967050"
     },
     {
       "id": "e69adbae80d20b35e822a512fadd0ab4",
@@ -72,7 +81,7 @@
       "location": "Jacksonville, FL",
       "apply_url": "https://go.vansh.nyc/Br?s=A",
       "date_posted": "Oct 24",
-      "found_at": "2026-10-26T13:41:20.439187"
+      "found_at": "2026-10-26T19:37:43.967055"
     },
     {
       "id": "2d7fa55ef2090d34b6457097c027d5a4",
@@ -81,7 +90,7 @@
       "location": "Irving, TX",
       "apply_url": "https://go.vansh.nyc/Bt?s=A",
       "date_posted": "Oct 24",
-      "found_at": "2026-10-26T13:41:20.439192"
+      "found_at": "2026-10-26T19:37:43.967060"
     },
     {
       "id": "3f98971e7e37bf68549f9bd116d51f3a",
@@ -90,7 +99,7 @@
       "location": "Jersey City, NJ",
       "apply_url": "https://go.vansh.nyc/Bu?s=A",
       "date_posted": "Oct 24",
-      "found_at": "2026-10-26T13:41:20.439197"
+      "found_at": "2026-10-26T19:37:43.967064"
     },
     {
       "id": "b34ded424ded3643d75f57decebcae62",
@@ -99,7 +108,7 @@
       "location": "<details><summary>**11 locations**</summary>Honolulu, HI</br>Annapolis Junction, MD</br>Colorado Springs, CO</br>Arlington, VA</br>Rome, NY</br>Panama City, FL</br>Charleston, SC</br>Atlanta, GA</br>Huntsville, AL</br>San Diego, CA</br>El Segundo, CA</details>",
       "apply_url": "https://go.vansh.nyc/Bw?s=A",
       "date_posted": "Oct 24",
-      "found_at": "2026-10-26T13:41:20.439208"
+      "found_at": "2026-10-26T19:37:43.967075"
     },
     {
       "id": "2f05c607acc4c9d45a475664c2a09d8b",
@@ -108,7 +117,7 @@
       "location": "Maryland Heights, MO",
       "apply_url": "https://go.vansh.nyc/Bv?s=A",
       "date_posted": "Oct 24",
-      "found_at": "2026-10-26T13:41:20.439214"
+      "found_at": "2026-10-26T19:37:43.967080"
     },
     {
       "id": "16840d52af372aac213d20cccb43222a",
@@ -117,7 +126,7 @@
       "location": "New York, NY",
       "apply_url": "https://go.vansh.nyc/I8?s=A",
       "date_posted": "Oct 23",
-      "found_at": "2026-10-26T13:41:20.439217"
+      "found_at": "2026-10-26T19:37:43.967084"
     },
     {
       "id": "b2b230397a9061ace55e29e02cb8c6b6",
@@ -126,7 +135,7 @@
       "location": "Golden, CO",
       "apply_url": "https://go.vansh.nyc/B8?s=A",
       "date_posted": "Oct 23",
-      "found_at": "2026-10-26T13:41:20.439221"
+      "found_at": "2026-10-26T19:37:43.967088"
     },
     {
       "id": "190b276d1234a63f32030a1833e798e6",
@@ -135,7 +144,7 @@
       "location": "Lewisville, TX",
       "apply_url": "https://go.vansh.nyc/BW?s=A",
       "date_posted": "Oct 23",
-      "found_at": "2026-10-26T13:41:20.439225"
+      "found_at": "2026-10-26T19:37:43.967093"
     },
     {
       "id": "af8df40561fe114a95e05779a958b5e2",
@@ -144,7 +153,7 @@
       "location": "Remote",
       "apply_url": "https://go.vansh.nyc/B7?s=A",
       "date_posted": "Oct 23",
-      "found_at": "2026-10-26T13:41:20.439230"
+      "found_at": "2026-10-26T19:37:43.967097"
     },
     {
       "id": "e4282ba97485e167c96068df6238f492",
@@ -153,7 +162,7 @@
       "location": "New York, NY",
       "apply_url": "https://go.vansh.nyc/Bb?s=A",
       "date_posted": "Oct 23",
-      "found_at": "2026-10-26T13:41:20.439233"
+      "found_at": "2026-10-26T19:37:43.967102"
     },
     {
       "id": "39fc1abc5ee5c60b15f5033ee3f4eaf7",
@@ -162,7 +171,7 @@
       "location": "Omaha, NE",
       "apply_url": "https://go.vansh.nyc/Bk?s=A",
       "date_posted": "Oct 23",
-      "found_at": "2026-10-26T13:41:20.439237"
+      "found_at": "2026-10-26T19:37:43.967105"
     },
     {
       "id": "93efcdddeffdb6705c1b4ad1ff375c7f",
@@ -171,7 +180,7 @@
       "location": "<details><summary>**11 locations**</summary>Honolulu, HI</br>Annapolis Junction, MD</br>Colorado Springs, CO</br>McLean, VA</br>Rome, NY</br>Panama City, FL</br>Charleston, SC</br>Atlanta, GA</br>Huntsville, AL</br>San Diego, CA</br>El Segundo, CA</details>",
       "apply_url": "https://go.vansh.nyc/Bc?s=A",
       "date_posted": "Oct 23",
-      "found_at": "2026-10-26T13:41:20.439243"
+      "found_at": "2026-10-26T19:37:43.967111"
     },
     {
       "id": "6d5f98b221d3ebaf40110b2802f2bd5b",
@@ -180,7 +189,7 @@
       "location": "<details><summary>**11 locations**</summary>Honolulu, HI</br>Annapolis Junction, MD</br>Colorado Springs, CO</br>McLean, VA</br>Rome, NY</br>Panama City, FL</br>Charleston, SC</br>Atlanta, GA</br>Huntsville, AL</br>San Diego, CA</br>El Segundo, CA</details>",
       "apply_url": "https://go.vansh.nyc/Bd?s=A",
       "date_posted": "Oct 23",
-      "found_at": "2026-10-26T13:41:20.439248"
+      "found_at": "2026-10-26T19:37:43.967116"
     },
     {
       "id": "2053ee16cce2f77df4d7e2529f8932a5",
@@ -189,7 +198,7 @@
       "location": "<details><summary>**11 locations**</summary>Honolulu, HI</br>Annapolis Junction, MD</br>Colorado Springs, CO</br>McLean, VA</br>Rome, NY</br>Panama City, FL</br>Charleston, SC</br>Atlanta, GA</br>Huntsville, AL</br>San Diego, CA</br>El Segundo, CA</details>",
       "apply_url": "https://go.vansh.nyc/Be?s=A",
       "date_posted": "Oct 23",
-      "found_at": "2026-10-26T13:41:20.439253"
+      "found_at": "2026-10-26T19:37:43.967121"
     },
     {
       "id": "c0a2e2136e6e6323f73d727999497b9b",
@@ -198,7 +207,7 @@
       "location": "Gloucester, MA",
       "apply_url": "https://go.vansh.nyc/Bj?s=A",
       "date_posted": "Oct 23",
-      "found_at": "2026-10-26T13:41:20.439267"
+      "found_at": "2026-10-26T19:37:43.967126"
     },
     {
       "id": "0e3a9493d9147662a6e68971c1d6a457",
@@ -207,7 +216,7 @@
       "location": "Chandler, AZ",
       "apply_url": "https://go.vansh.nyc/Bi?s=A",
       "date_posted": "Oct 23",
-      "found_at": "2026-10-26T13:41:20.439271"
+      "found_at": "2026-10-26T19:37:43.967130"
     },
     {
       "id": "20fddd8e6386407f62bc6b1a7c19a6fe",
@@ -216,7 +225,7 @@
       "location": "Seattle, WA</br>Austin, TX</br>Cupertino, CA",
       "apply_url": "https://go.vansh.nyc/Bg?s=A",
       "date_posted": "Oct 23",
-      "found_at": "2026-10-26T13:41:20.439275"
+      "found_at": "2026-10-26T19:37:43.967134"
     },
     {
       "id": "c093fa4d7cab73eaef9e25d225a43f16",
@@ -225,7 +234,7 @@
       "location": "South San Francisco, CA",
       "apply_url": "https://go.vansh.nyc/AR?s=A",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-26T13:41:20.439279"
+      "found_at": "2026-10-26T19:37:43.967139"
     },
     {
       "id": "0d2c87a7fc90530edaa605e6fe374dda",
@@ -234,7 +243,7 @@
       "location": "Raleigh, NC",
       "apply_url": "https://go.vansh.nyc/AY?s=A",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-26T13:41:20.439282"
+      "found_at": "2026-10-26T19:37:43.967143"
     },
     {
       "id": "1705fade2e6a4bbad9b1ebbbbec7912c",
@@ -243,7 +252,7 @@
       "location": "Newton, NJ",
       "apply_url": "https://go.vansh.nyc/AO?s=A",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-26T13:41:20.439286"
+      "found_at": "2026-10-26T19:37:43.967146"
     },
     {
       "id": "c53648db1c4c706a0aee64b9df83bb9e",
@@ -252,7 +261,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://go.vansh.nyc/AX?s=A",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-26T13:41:20.439290"
+      "found_at": "2026-10-26T19:37:43.967151"
     },
     {
       "id": "c79d7df991d8817a2de34b0b5fffbcb0",
@@ -261,7 +270,7 @@
       "location": "Point Mugu NAWC, CA",
       "apply_url": "https://go.vansh.nyc/AK?s=A",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-26T13:41:20.439293"
+      "found_at": "2026-10-26T19:37:43.967154"
     },
     {
       "id": "a1e3a2685e3ab3f11a2a1cee2ff41862",
@@ -270,16 +279,7 @@
       "location": "Mountain View, CA",
       "apply_url": "https://go.vansh.nyc/AN?s=A",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-26T13:41:20.439297"
-    },
-    {
-      "id": "e56f8d23087cef52c3eba3d7107dd299",
-      "company": "Raytheon Technologies",
-      "role": "Software Engineer I",
-      "location": "Cedar Rapids, IA",
-      "apply_url": "https://go.vansh.nyc/AU?s=A",
-      "date_posted": "Oct 22",
-      "found_at": "2026-10-26T13:41:20.439301"
+      "found_at": "2026-10-26T19:37:43.967158"
     },
     {
       "id": "74fcbcb59b545ef4a8312ca9bc8a0146",
@@ -288,7 +288,7 @@
       "location": "New York, NY",
       "apply_url": "https://go.vansh.nyc/Az?s=A",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-26T13:41:20.439304"
+      "found_at": "2026-10-26T19:37:43.967162"
     },
     {
       "id": "3ed56cfa68cf1cb9c92c1a31cc9f5b48",
@@ -297,7 +297,7 @@
       "location": "Oshkosh, WI",
       "apply_url": "https://go.vansh.nyc/AJ?s=A",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-26T13:41:20.439308"
+      "found_at": "2026-10-26T19:37:43.967166"
     },
     {
       "id": "a3f1f2d338708216acc1fac5d6574821",
@@ -306,7 +306,7 @@
       "location": "Santa Clara, CA",
       "apply_url": "https://go.vansh.nyc/Aw?s=A",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-26T13:41:20.439312"
+      "found_at": "2026-10-26T19:37:43.967170"
     },
     {
       "id": "f16670ef147bc5e0884311a0eb5900a5",
@@ -315,25 +315,7 @@
       "location": "Santa Clara, CA",
       "apply_url": "https://go.vansh.nyc/Ax?s=A",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-26T13:41:20.439315"
-    },
-    {
-      "id": "384867e014fef27d099bd3f699d1bd61",
-      "company": "NRG Energy",
-      "role": "Data Science Analyst - Agentic AI Developer",
-      "location": "Houston, TX</br>Princeton, NJ",
-      "apply_url": "https://go.vansh.nyc/AF?s=A",
-      "date_posted": "Oct 22",
-      "found_at": "2026-10-26T13:41:20.439319"
-    },
-    {
-      "id": "34b018d9fac61a54f9ad258e9d983d51",
-      "company": "Mastercard",
-      "role": "Software Engineer I",
-      "location": "O'Fallon, MO",
-      "apply_url": "https://go.vansh.nyc/AT?s=A",
-      "date_posted": "Oct 22",
-      "found_at": "2026-10-26T13:41:20.439322"
+      "found_at": "2026-10-26T19:37:43.967174"
     },
     {
       "id": "0ebe79525573f764c276d08d25f2f2f3",
@@ -342,7 +324,7 @@
       "location": "Colorado Springs, CO",
       "apply_url": "https://go.vansh.nyc/AL?s=A",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-26T13:41:20.439326"
+      "found_at": "2026-10-26T19:37:43.967178"
     },
     {
       "id": "1657981775f467d85ef7d0c13429b2a2",
@@ -351,7 +333,7 @@
       "location": "Laurel, MD",
       "apply_url": "https://go.vansh.nyc/AH?s=A",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-26T13:41:20.439330"
+      "found_at": "2026-10-26T19:37:43.967183"
     },
     {
       "id": "f51a6f70954f92420d8b515008618c74",
@@ -360,7 +342,7 @@
       "location": "Richardson, TX",
       "apply_url": "https://go.vansh.nyc/AA?s=A",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-26T13:41:20.439333"
+      "found_at": "2026-10-26T19:37:43.967186"
     },
     {
       "id": "741e39c020e3647b88e87752a602681c",
@@ -369,7 +351,7 @@
       "location": "Santa Clara, CA</br>Richardson, TX",
       "apply_url": "https://go.vansh.nyc/AQ?s=A",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-26T13:41:20.439337"
+      "found_at": "2026-10-26T19:37:43.967190"
     },
     {
       "id": "7a57629b30942435caaf0712602fd0c0",
@@ -378,7 +360,7 @@
       "location": "Orlando, FL",
       "apply_url": "https://go.vansh.nyc/AC?s=A",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-26T13:41:20.439340"
+      "found_at": "2026-10-26T19:37:43.967195"
     },
     {
       "id": "bce91b98999be81a95b87e8d60283b17",
@@ -387,7 +369,7 @@
       "location": "Remote",
       "apply_url": "https://go.vansh.nyc/B0?s=A",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-26T13:41:20.439344"
+      "found_at": "2026-10-26T19:37:43.967198"
     },
     {
       "id": "6adc22acf00d2193167be57de8531aa7",
@@ -396,7 +378,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://go.vansh.nyc/As?s=A",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-26T13:41:20.439348"
+      "found_at": "2026-10-26T19:37:43.967202"
     },
     {
       "id": "277e78949d13c75865115e2325a93756",
@@ -405,7 +387,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://go.vansh.nyc/At?s=A",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-26T13:41:20.439351"
+      "found_at": "2026-10-26T19:37:43.967206"
     },
     {
       "id": "b17ab1362221d4468623148d3a2ba3a7",
@@ -414,7 +396,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://go.vansh.nyc/Au?s=A",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-26T13:41:20.439354"
+      "found_at": "2026-10-26T19:37:43.967209"
     },
     {
       "id": "b68379d85228a7897f028f8aa00b892d",
@@ -423,7 +405,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://go.vansh.nyc/Av?s=A",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-26T13:41:20.439358"
+      "found_at": "2026-10-26T19:37:43.967213"
     },
     {
       "id": "212ddfe6abbf3e4ac422af2e01ce0833",
@@ -432,7 +414,7 @@
       "location": "Berkeley, MO",
       "apply_url": "https://go.vansh.nyc/AW?s=A",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-26T13:41:20.439362"
+      "found_at": "2026-10-26T19:37:43.967218"
     },
     {
       "id": "fc4dc254c1f73796dc8fd9d4f2752396",
@@ -441,7 +423,7 @@
       "location": "Santa Clara, CA",
       "apply_url": "https://go.vansh.nyc/AE?s=A",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-26T13:41:20.439366"
+      "found_at": "2026-10-26T19:37:43.967222"
     },
     {
       "id": "118545867f91cd3cc61e6d85825f920a",
@@ -450,7 +432,7 @@
       "location": "Santa Clara, CA",
       "apply_url": "https://go.vansh.nyc/AV?s=A",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-26T13:41:20.439369"
+      "found_at": "2026-10-26T19:37:43.967226"
     },
     {
       "id": "5826107229346fd0d2ba9d8efabf96ef",
@@ -459,7 +441,7 @@
       "location": "Santa Clara, CA",
       "apply_url": "https://go.vansh.nyc/B5?s=A",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-26T13:41:20.439373"
+      "found_at": "2026-10-26T19:37:43.967230"
     },
     {
       "id": "6ffbf8a36a79bab87877b937d50e8ffa",
@@ -468,7 +450,7 @@
       "location": "<details><summary>**9 locations**</summary>Madison, WI</br>Boston, MA</br>Seattle, WA</br>Austin, TX</br>Detroit, MI</br>Santa Clara, CA</br>Arlington, VA</br>Minneapolis, MN</br>Denver, CO</details>",
       "apply_url": "https://go.vansh.nyc/AD?s=A",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-26T13:41:20.439376"
+      "found_at": "2026-10-26T19:37:43.967235"
     },
     {
       "id": "9c6245e1ad1d3f1bd0089f8ac5d4d8a6",
@@ -477,7 +459,7 @@
       "location": "Conway, AR",
       "apply_url": "https://go.vansh.nyc/AG?s=A",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-26T13:41:20.439380"
+      "found_at": "2026-10-26T19:37:43.967238"
     },
     {
       "id": "9221daaaa21c4c65826f40b1b6aa99e5",
@@ -486,7 +468,7 @@
       "location": "Seattle, WA",
       "apply_url": "https://go.vansh.nyc/DJ?s=A",
       "date_posted": "Oct 19",
-      "found_at": "2026-10-26T13:41:20.439383"
+      "found_at": "2026-10-26T19:37:43.967242"
     },
     {
       "id": "a31f69ab87675c7b331e0b0d2a185a4e",
@@ -495,7 +477,7 @@
       "location": "El Segundo, CA",
       "apply_url": "https://go.vansh.nyc/DB?s=A",
       "date_posted": "Oct 17",
-      "found_at": "2026-10-26T13:41:20.439387"
+      "found_at": "2026-10-26T19:37:43.967246"
     },
     {
       "id": "2e7be81d8cf8375795ef043b6a7c5a5f",
@@ -504,7 +486,7 @@
       "location": "Los Angeles, CA",
       "apply_url": "https://go.vansh.nyc/DD?s=A",
       "date_posted": "Oct 17",
-      "found_at": "2026-10-26T13:41:20.439391"
+      "found_at": "2026-10-26T19:37:43.967251"
     },
     {
       "id": "face09cafcd9bcdbd8073b484ada7367",
@@ -513,16 +495,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://go.vansh.nyc/DC?s=A",
       "date_posted": "Oct 16",
-      "found_at": "2026-10-26T13:41:20.439394"
-    },
-    {
-      "id": "d7acb68a0d345a2c8ead7f46c939f1ce",
-      "company": "Mastercard",
-      "role": "New Grad 2027: AI Engineer 1 - Launch Program",
-      "location": "O'Fallon, MO",
-      "apply_url": "https://go.vansh.nyc/DA?s=A",
-      "date_posted": "Oct 16",
-      "found_at": "2026-10-26T13:41:20.439398"
+      "found_at": "2026-10-26T19:37:43.967254"
     },
     {
       "id": "91047d545f5ddb748fe29254398b482a",
@@ -531,7 +504,7 @@
       "location": "Houston, TX",
       "apply_url": "https://go.vansh.nyc/DK?s=A",
       "date_posted": "Oct 16",
-      "found_at": "2026-10-26T13:41:20.439402"
+      "found_at": "2026-10-26T19:37:43.967259"
     },
     {
       "id": "83b17b975452290b70580beee79490d6",
@@ -540,7 +513,7 @@
       "location": "New York, NY",
       "apply_url": "https://go.vansh.nyc/DF?s=A",
       "date_posted": "Oct 15",
-      "found_at": "2026-10-26T13:41:20.439406"
+      "found_at": "2026-10-26T19:37:43.967263"
     },
     {
       "id": "52f2d93c6ee7cddcfa77676a1b985e6b",
@@ -549,7 +522,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://go.vansh.nyc/Dw?s=A",
       "date_posted": "Oct 15",
-      "found_at": "2026-10-26T13:41:20.439410"
+      "found_at": "2026-10-26T19:37:43.967267"
     },
     {
       "id": "3ed56cfa68cf1cb9c92c1a31cc9f5b48",
@@ -558,7 +531,7 @@
       "location": "Oshkosh, WI",
       "apply_url": "https://go.vansh.nyc/Dy?s=A",
       "date_posted": "Oct 15",
-      "found_at": "2026-10-26T13:41:20.439413"
+      "found_at": "2026-10-26T19:37:43.967271"
     },
     {
       "id": "b39f5069d02e47556230ccc511ce2fe1",
@@ -567,7 +540,7 @@
       "location": "Boise, ID",
       "apply_url": "https://go.vansh.nyc/De?s=A",
       "date_posted": "Oct 15",
-      "found_at": "2026-10-26T13:41:20.439417"
+      "found_at": "2026-10-26T19:37:43.967275"
     },
     {
       "id": "2d368e9dfc21cafa98a73e479eab7658",
@@ -576,7 +549,7 @@
       "location": "Boise, ID",
       "apply_url": "https://go.vansh.nyc/DE?s=A",
       "date_posted": "Oct 15",
-      "found_at": "2026-10-26T13:41:20.439420"
+      "found_at": "2026-10-26T19:37:43.967279"
     },
     {
       "id": "d2194233a5cb0f5c1efd0772c9e4039b",
@@ -585,7 +558,7 @@
       "location": "Santa Clara, CA",
       "apply_url": "https://go.vansh.nyc/Dz?s=A",
       "date_posted": "Oct 15",
-      "found_at": "2026-10-26T13:41:20.439423"
+      "found_at": "2026-10-26T19:37:43.967282"
     },
     {
       "id": "88ac1604ac1ad6ac0478097893efa293",
@@ -594,7 +567,7 @@
       "location": "Chicago, IL",
       "apply_url": "https://go.vansh.nyc/DH?s=A",
       "date_posted": "Oct 14",
-      "found_at": "2026-10-26T13:41:20.439427"
+      "found_at": "2026-10-26T19:37:43.967286"
     },
     {
       "id": "2feabd762b95d75495c12c1722ae79f4",
@@ -603,7 +576,7 @@
       "location": "Chicago, IL",
       "apply_url": "https://go.vansh.nyc/DI?s=A",
       "date_posted": "Oct 14",
-      "found_at": "2026-10-26T13:41:20.439430"
+      "found_at": "2026-10-26T19:37:43.967290"
     },
     {
       "id": "e3f1cc7d5f45148b9fe9e92927b3cab2",
@@ -612,7 +585,7 @@
       "location": "Santa Clara, CA",
       "apply_url": "https://go.vansh.nyc/Df?s=A",
       "date_posted": "Oct 14",
-      "found_at": "2026-10-26T13:41:20.439434"
+      "found_at": "2026-10-26T19:37:43.967294"
     },
     {
       "id": "00d47f055fd813835edfb5d4f0ed6e6e",
@@ -621,7 +594,7 @@
       "location": "Ann Arbor, MI",
       "apply_url": "https://go.vansh.nyc/DG?s=A",
       "date_posted": "Oct 14",
-      "found_at": "2026-10-26T13:41:20.439437"
+      "found_at": "2026-10-26T19:37:43.967299"
     },
     {
       "id": "3a2bfa7b10d8e66867f678f055d8d18d",
@@ -630,7 +603,7 @@
       "location": "Colorado Springs, CO",
       "apply_url": "https://go.vansh.nyc/Du?s=A",
       "date_posted": "Oct 14",
-      "found_at": "2026-10-26T13:41:20.439441"
+      "found_at": "2026-10-26T19:37:43.967303"
     },
     {
       "id": "fd24267d08dd0b7342d96670dd990541",
@@ -639,7 +612,7 @@
       "location": "Berkeley Heights, NJ",
       "apply_url": "https://go.vansh.nyc/Dt?s=A",
       "date_posted": "Oct 14",
-      "found_at": "2026-10-26T13:41:20.439445"
+      "found_at": "2026-10-26T19:37:43.967307"
     },
     {
       "id": "2378d3b9042fcfc6aac4d98034af00c1",
@@ -648,7 +621,7 @@
       "location": "Troy Hills, NJ",
       "apply_url": "https://go.vansh.nyc/Dv?s=A",
       "date_posted": "Oct 14",
-      "found_at": "2026-10-26T13:41:20.439448"
+      "found_at": "2026-10-26T19:37:43.967310"
     },
     {
       "id": "b222fe5d8b9cd7edc501623303e95d18",
@@ -657,7 +630,7 @@
       "location": "Seattle, WA",
       "apply_url": "https://go.vansh.nyc/Dh?s=A",
       "date_posted": "Oct 13",
-      "found_at": "2026-10-26T13:41:20.439451"
+      "found_at": "2026-10-26T19:37:43.967314"
     },
     {
       "id": "76a1e65c0d731665faa56e8473bf82e0",
@@ -666,7 +639,7 @@
       "location": "Dublin, OH",
       "apply_url": "https://go.vansh.nyc/DM?s=A",
       "date_posted": "Oct 13",
-      "found_at": "2026-10-26T13:41:20.439455"
+      "found_at": "2026-10-26T19:37:43.967318"
     },
     {
       "id": "0ed931d5997761eb2e1fe5eaa6fadd7b",
@@ -675,7 +648,7 @@
       "location": "Santa Clara, CA",
       "apply_url": "https://go.vansh.nyc/Dp?s=A",
       "date_posted": "Oct 13",
-      "found_at": "2026-10-26T13:41:20.439458"
+      "found_at": "2026-10-26T19:37:43.967321"
     },
     {
       "id": "e48731e31e2253ed80dba45d98619ebd",
@@ -684,7 +657,7 @@
       "location": "Santa Clara, CA",
       "apply_url": "https://go.vansh.nyc/Dq?s=A",
       "date_posted": "Oct 13",
-      "found_at": "2026-10-26T13:41:20.439461"
+      "found_at": "2026-10-26T19:37:43.967325"
     },
     {
       "id": "d4b51248f8aab624fb15f0207a61bd15",
@@ -693,7 +666,7 @@
       "location": "Santa Clara, CA",
       "apply_url": "https://go.vansh.nyc/Dr?s=A",
       "date_posted": "Oct 13",
-      "found_at": "2026-10-26T13:41:20.439464"
+      "found_at": "2026-10-26T19:37:43.967328"
     },
     {
       "id": "86817c02b5696d3f717b3d91b6956118",
@@ -702,7 +675,7 @@
       "location": "Santa Clara, CA",
       "apply_url": "https://go.vansh.nyc/Ds?s=A",
       "date_posted": "Oct 13",
-      "found_at": "2026-10-26T13:41:20.439469"
+      "found_at": "2026-10-26T19:37:43.967332"
     },
     {
       "id": "445f7f4f2477ab7874de6a8c5c0a1651",
@@ -711,7 +684,7 @@
       "location": "Ann Arbor, MI",
       "apply_url": "https://go.vansh.nyc/Dj?s=A",
       "date_posted": "Oct 13",
-      "found_at": "2026-10-26T13:41:20.439472"
+      "found_at": "2026-10-26T19:37:43.967335"
     },
     {
       "id": "77297bf188104651d00e35aea0230d63",
@@ -720,7 +693,7 @@
       "location": "Laurel, MD",
       "apply_url": "https://go.vansh.nyc/Dm?s=A",
       "date_posted": "Oct 13",
-      "found_at": "2026-10-26T13:41:20.439476"
+      "found_at": "2026-10-26T19:37:43.967339"
     },
     {
       "id": "12a7a40d9f4f64c8f02f6989a4967b1f",
@@ -729,7 +702,7 @@
       "location": "Cary, NC",
       "apply_url": "https://go.vansh.nyc/Dk?s=A",
       "date_posted": "Oct 13",
-      "found_at": "2026-10-26T13:41:20.439479"
+      "found_at": "2026-10-26T19:37:43.967343"
     },
     {
       "id": "09d19b187f41b6718b8e57f4bde17cdd",
@@ -738,7 +711,7 @@
       "location": "Cary, NC",
       "apply_url": "https://go.vansh.nyc/Dl?s=A",
       "date_posted": "Oct 13",
-      "found_at": "2026-10-26T13:41:20.439483"
+      "found_at": "2026-10-26T19:37:43.967347"
     },
     {
       "id": "fe2a33eb67a3faed5971c4d657c01a45",
@@ -747,7 +720,7 @@
       "location": "South Jordan, UT",
       "apply_url": "https://go.vansh.nyc/Dn?s=A",
       "date_posted": "Oct 13",
-      "found_at": "2026-10-26T13:41:20.439486"
+      "found_at": "2026-10-26T19:37:43.967350"
     },
     {
       "id": "f5b713e87ed11b39d8bf01f6d4cc2293",
@@ -756,7 +729,7 @@
       "location": "Berkeley Heights, NJ",
       "apply_url": "https://go.vansh.nyc/Di?s=A",
       "date_posted": "Oct 13",
-      "found_at": "2026-10-26T13:41:20.439489"
+      "found_at": "2026-10-26T19:37:43.967354"
     },
     {
       "id": "4adea8c6bc52633f3b85c1e50cd2f34c",
@@ -765,7 +738,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://go.vansh.nyc/Do?s=A",
       "date_posted": "Oct 13",
-      "found_at": "2026-10-26T13:41:20.439492"
+      "found_at": "2026-10-26T19:37:43.967357"
     },
     {
       "id": "2cf4891aa7235b60e772d2e04ee22d48",
@@ -774,7 +747,7 @@
       "location": "Los Angeles, CA",
       "apply_url": "https://go.vansh.nyc/DN?s=A",
       "date_posted": "Oct 12",
-      "found_at": "2026-10-26T13:41:20.439497"
+      "found_at": "2026-10-26T19:37:43.967362"
     },
     {
       "id": "2bf42bbdcec56efbdb53cf54e2dc634a",
@@ -783,7 +756,7 @@
       "location": "Warren, MI",
       "apply_url": "https://go.vansh.nyc/I4?s=A",
       "date_posted": "Oct 12",
-      "found_at": "2026-10-26T13:41:20.439501"
+      "found_at": "2026-10-26T19:37:43.967366"
     },
     {
       "id": "7f56edd83556e39cf820ddd75554e6bb",
@@ -792,7 +765,7 @@
       "location": "Mequon, WI",
       "apply_url": "https://go.vansh.nyc/Dg?s=A",
       "date_posted": "Oct 12",
-      "found_at": "2026-10-26T13:41:20.439504"
+      "found_at": "2026-10-26T19:37:43.967370"
     },
     {
       "id": "b2e477434fd33c6d12a43c3c2c00b8f9",
@@ -801,7 +774,7 @@
       "location": "Remote",
       "apply_url": "https://go.vansh.nyc/BX?s=A",
       "date_posted": "Oct 12",
-      "found_at": "2026-10-26T13:41:20.439507"
+      "found_at": "2026-10-26T19:37:43.967374"
     },
     {
       "id": "7c3ac4beb3db14a0c0b5ee0d6e1e267c",
@@ -810,7 +783,7 @@
       "location": "Irvine, CA",
       "apply_url": "https://go.vansh.nyc/I9?s=A",
       "date_posted": "Oct 11",
-      "found_at": "2026-10-26T13:41:20.439511"
+      "found_at": "2026-10-26T19:37:43.967377"
     },
     {
       "id": "ef689a64d17cb1eb65bb326da487e47b",
@@ -819,7 +792,7 @@
       "location": "Chicago, IL",
       "apply_url": "https://go.vansh.nyc/Ia?s=A",
       "date_posted": "Oct 10",
-      "found_at": "2026-10-26T13:41:20.439514"
+      "found_at": "2026-10-26T19:37:43.967381"
     },
     {
       "id": "ba13de4b6fe50f87e7405f3ba93fac08",
@@ -828,7 +801,7 @@
       "location": "Seattle, WA",
       "apply_url": "https://go.vansh.nyc/HY?s=A",
       "date_posted": "Oct 09",
-      "found_at": "2026-10-26T13:41:20.439518"
+      "found_at": "2026-10-26T19:37:43.967385"
     },
     {
       "id": "12ecbe6de2698eda825ab397bab40fb7",
@@ -837,7 +810,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://go.vansh.nyc/HZ?s=A",
       "date_posted": "Oct 09",
-      "found_at": "2026-10-26T13:41:20.439522"
+      "found_at": "2026-10-26T19:37:43.967389"
     },
     {
       "id": "1fe5ada0c8394e2cccf1fd06dd729beb",
@@ -846,7 +819,7 @@
       "location": "Fort Lauderdale, FL",
       "apply_url": "https://go.vansh.nyc/I0?s=A",
       "date_posted": "Oct 09",
-      "found_at": "2026-10-26T13:41:20.439525"
+      "found_at": "2026-10-26T19:37:43.967392"
     },
     {
       "id": "5abff537456c371ecbb23f7f5ec708e1",
@@ -855,7 +828,7 @@
       "location": "Santa Clara, CA",
       "apply_url": "https://go.vansh.nyc/I3?s=A",
       "date_posted": "Oct 09",
-      "found_at": "2026-10-26T13:41:20.439529"
+      "found_at": "2026-10-26T19:37:43.967396"
     },
     {
       "id": "13df90f767ddcbbab8f50521d5ad5068",
@@ -864,7 +837,7 @@
       "location": "Norwell, MA",
       "apply_url": "https://go.vansh.nyc/I1?s=A",
       "date_posted": "Oct 09",
-      "found_at": "2026-10-26T13:41:20.439532"
+      "found_at": "2026-10-26T19:37:43.967400"
     },
     {
       "id": "6e14d24fd1cc1a2a9a4410dfabd98551",
@@ -873,7 +846,7 @@
       "location": "Austin, TX</br>Santa Clara, CA",
       "apply_url": "https://go.vansh.nyc/I2?s=A",
       "date_posted": "Oct 09",
-      "found_at": "2026-10-26T13:41:20.439536"
+      "found_at": "2026-10-26T19:37:43.967404"
     },
     {
       "id": "837e3ff4b17de73a1fe10113f7412956",
@@ -882,7 +855,7 @@
       "location": "Seattle, WA",
       "apply_url": "https://go.vansh.nyc/HX?s=A",
       "date_posted": "Oct 09",
-      "found_at": "2026-10-26T13:41:20.439539"
+      "found_at": "2026-10-26T19:37:43.967408"
     },
     {
       "id": "4bcab16667a0e4b836be0fee570c2357",
@@ -891,7 +864,7 @@
       "location": "Seattle, WA",
       "apply_url": "https://go.vansh.nyc/HR?s=A",
       "date_posted": "Oct 08",
-      "found_at": "2026-10-26T13:41:20.439543"
+      "found_at": "2026-10-26T19:37:43.967411"
     },
     {
       "id": "e469a5a3ca3200c800836f43ed936db5",
@@ -900,7 +873,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://go.vansh.nyc/HS?s=A",
       "date_posted": "Oct 08",
-      "found_at": "2026-10-26T13:41:20.439546"
+      "found_at": "2026-10-26T19:37:43.967415"
     },
     {
       "id": "49bff4bcf65c069c5de99912d4946bff",
@@ -909,7 +882,7 @@
       "location": "Seattle, WA",
       "apply_url": "https://go.vansh.nyc/HT?s=A",
       "date_posted": "Oct 08",
-      "found_at": "2026-10-26T13:41:20.439550"
+      "found_at": "2026-10-26T19:37:43.967419"
     },
     {
       "id": "9dc941500b398c7c847bf1ece7146a0f",
@@ -918,7 +891,7 @@
       "location": "Marquette, MI",
       "apply_url": "https://go.vansh.nyc/Ib?s=A",
       "date_posted": "Oct 08",
-      "found_at": "2026-10-26T13:41:20.439554"
+      "found_at": "2026-10-26T19:37:43.967423"
     },
     {
       "id": "39476f1cd1735257bc83fd007ff631b1",
@@ -927,7 +900,7 @@
       "location": "Atlantic City, NJ",
       "apply_url": "https://go.vansh.nyc/Ih?s=A",
       "date_posted": "Oct 08",
-      "found_at": "2026-10-26T13:41:20.439557"
+      "found_at": "2026-10-26T19:37:43.967426"
     },
     {
       "id": "1ee6d46de96c78c754eddcd43a8c49b9",
@@ -936,7 +909,7 @@
       "location": "San Mateo, CA",
       "apply_url": "https://go.vansh.nyc/Ho?s=A",
       "date_posted": "Oct 08",
-      "found_at": "2026-10-26T13:41:20.439560"
+      "found_at": "2026-10-26T19:37:43.967430"
     },
     {
       "id": "7b9e6bd21d40bbb51bebca9e9ad1e4bb",
@@ -945,7 +918,7 @@
       "location": "Raleigh, NC",
       "apply_url": "https://go.vansh.nyc/Hp?s=A",
       "date_posted": "Oct 08",
-      "found_at": "2026-10-26T13:41:20.439563"
+      "found_at": "2026-10-26T19:37:43.967434"
     },
     {
       "id": "8b913dd5c29d28d239669ed4d06c4eb9",
@@ -954,7 +927,7 @@
       "location": "San Francisco, CA</br>New York, NY",
       "apply_url": "https://go.vansh.nyc/HQ?s=A",
       "date_posted": "Oct 08",
-      "found_at": "2026-10-26T13:41:20.439567"
+      "found_at": "2026-10-26T19:37:43.967437"
     },
     {
       "id": "06607748a430c642b161cf0a2efa968d",
@@ -963,7 +936,7 @@
       "location": "Troy Hills, NJ",
       "apply_url": "https://go.vansh.nyc/HU?s=A",
       "date_posted": "Oct 08",
-      "found_at": "2026-10-26T13:41:20.439570"
+      "found_at": "2026-10-26T19:37:43.967441"
     },
     {
       "id": "bae4c509d70c71d26d860d050af00190",
@@ -972,7 +945,7 @@
       "location": "Chicago, IL",
       "apply_url": "https://go.vansh.nyc/HV?s=A",
       "date_posted": "Oct 08",
-      "found_at": "2026-10-26T13:41:20.439574"
+      "found_at": "2026-10-26T19:37:43.967444"
     },
     {
       "id": "c6ab92955948aa578c859f3b1f7310ee",
@@ -981,7 +954,7 @@
       "location": "Chicago, IL",
       "apply_url": "https://go.vansh.nyc/HW?s=A",
       "date_posted": "Oct 08",
-      "found_at": "2026-10-26T13:41:20.439577"
+      "found_at": "2026-10-26T19:37:43.967448"
     },
     {
       "id": "b406a190514969a40d5e2f0f3816cc5b",
@@ -990,7 +963,7 @@
       "location": "Remote",
       "apply_url": "https://go.vansh.nyc/HO?s=A",
       "date_posted": "Oct 07",
-      "found_at": "2026-10-26T13:41:20.439581"
+      "found_at": "2026-10-26T19:37:43.967452"
     },
     {
       "id": "966dd7cbfcddf93ac5302bd19bb0b9b8",
@@ -999,7 +972,16 @@
       "location": "San Diego, CA",
       "apply_url": "https://go.vansh.nyc/HN?s=A",
       "date_posted": "Oct 07",
-      "found_at": "2026-10-26T13:41:20.439584"
+      "found_at": "2026-10-26T19:37:43.967456"
+    },
+    {
+      "id": "7a14c8ef0507c631b14a8c9f3b4b58ca",
+      "company": "Hewlett Packard Enterprise",
+      "role": "Systems/Software Engineer I",
+      "location": "Houston, TX",
+      "apply_url": "https://go.vansh.nyc/Lg?s=A",
+      "date_posted": "Oct 07",
+      "found_at": "2026-10-26T19:37:43.967460"
     },
     {
       "id": "cd80c95331464fffef9db16e52e14f08",
@@ -1008,7 +990,7 @@
       "location": "Burnet, TX",
       "apply_url": "https://go.vansh.nyc/Ic?s=A",
       "date_posted": "Oct 07",
-      "found_at": "2026-10-26T13:41:20.439592"
+      "found_at": "2026-10-26T19:37:43.967467"
     },
     {
       "id": "e02d00124d571fc18a2f30f71dcbb7b4",
@@ -1017,7 +999,7 @@
       "location": "Milwaukee, WI</br>Racine, WI",
       "apply_url": "https://go.vansh.nyc/HP?s=A",
       "date_posted": "Oct 07",
-      "found_at": "2026-10-26T13:41:20.439596"
+      "found_at": "2026-10-26T19:37:43.967471"
     },
     {
       "id": "d4ad74791fa0f095e955033d23af834b",
@@ -1026,7 +1008,7 @@
       "location": "San Diego, CA",
       "apply_url": "https://go.vansh.nyc/HL?s=A",
       "date_posted": "Oct 06",
-      "found_at": "2026-10-26T13:41:20.439600"
+      "found_at": "2026-10-26T19:37:43.967475"
     },
     {
       "id": "0eaf783e6f76c414f75c5915aebe2bfc",
@@ -1035,7 +1017,7 @@
       "location": "Austin, TX</br>Santa Clara, CA",
       "apply_url": "https://go.vansh.nyc/HJ?s=A",
       "date_posted": "Oct 06",
-      "found_at": "2026-10-26T13:41:20.439603"
+      "found_at": "2026-10-26T19:37:43.967479"
     },
     {
       "id": "7eb554b629bbfdd995dc17ed53029004",
@@ -1044,7 +1026,7 @@
       "location": "Huntington Beach, CA",
       "apply_url": "https://go.vansh.nyc/HH?s=A",
       "date_posted": "Oct 06",
-      "found_at": "2026-10-26T13:41:20.439608"
+      "found_at": "2026-10-26T19:37:43.967484"
     },
     {
       "id": "67131be07fa9298bd34dcfbd8496a41a",
@@ -1053,7 +1035,7 @@
       "location": "Huntington Beach, CA",
       "apply_url": "https://go.vansh.nyc/HI?s=A",
       "date_posted": "Oct 06",
-      "found_at": "2026-10-26T13:41:20.439613"
+      "found_at": "2026-10-26T19:37:43.967488"
     },
     {
       "id": "47ae95332091cfe88308bc90978da83c",
@@ -1062,7 +1044,7 @@
       "location": "Remote",
       "apply_url": "https://go.vansh.nyc/Ie?s=A",
       "date_posted": "Oct 06",
-      "found_at": "2026-10-26T13:41:20.439616"
+      "found_at": "2026-10-26T19:37:43.967492"
     },
     {
       "id": "706a4c1bb414daebf98fdd1454f82f2d",
@@ -1071,7 +1053,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://go.vansh.nyc/HG?s=A",
       "date_posted": "Oct 06",
-      "found_at": "2026-10-26T13:41:20.439620"
+      "found_at": "2026-10-26T19:37:43.967496"
     },
     {
       "id": "0d9bf5ff6480a556278645591f677267",
@@ -1080,7 +1062,7 @@
       "location": "New York, NY",
       "apply_url": "https://go.vansh.nyc/HK?s=A",
       "date_posted": "Oct 06",
-      "found_at": "2026-10-26T13:41:20.439623"
+      "found_at": "2026-10-26T19:37:43.967499"
     },
     {
       "id": "61e79d87243c939315b040a34fbb0a76",
@@ -1089,7 +1071,7 @@
       "location": "San Francisco, CA</br>New York, NY",
       "apply_url": "https://go.vansh.nyc/HM?s=A",
       "date_posted": "Oct 06",
-      "found_at": "2026-10-26T13:41:20.439626"
+      "found_at": "2026-10-26T19:37:43.967503"
     },
     {
       "id": "241d1fbe9d714b81091c321d79019a51",
@@ -1098,7 +1080,7 @@
       "location": "Lansing, MI",
       "apply_url": "https://go.vansh.nyc/HE?s=A",
       "date_posted": "Oct 05",
-      "found_at": "2026-10-26T13:41:20.439630"
+      "found_at": "2026-10-26T19:37:43.967508"
     },
     {
       "id": "f6e2cf8f05bce2ff28e4a56cbd6653a2",
@@ -1107,7 +1089,7 @@
       "location": "Conshohocken, PA",
       "apply_url": "https://go.vansh.nyc/HD?s=A",
       "date_posted": "Oct 02",
-      "found_at": "2026-10-26T13:41:20.439634"
+      "found_at": "2026-10-26T19:37:43.967512"
     },
     {
       "id": "52929f97fa851d4ee89353114e91056c",
@@ -1116,7 +1098,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://go.vansh.nyc/Hq?s=A",
       "date_posted": "Oct 02",
-      "found_at": "2026-10-26T13:41:20.439637"
+      "found_at": "2026-10-26T19:37:43.967515"
     },
     {
       "id": "a15b57fa49067b83891c63063cc05fb5",
@@ -1125,7 +1107,7 @@
       "location": "New York, NY",
       "apply_url": "https://go.vansh.nyc/Hr?s=A",
       "date_posted": "Oct 02",
-      "found_at": "2026-10-26T13:41:20.439641"
+      "found_at": "2026-10-26T19:37:43.967519"
     },
     {
       "id": "462ba27d260457f3b339a9efbd9bea7c",
@@ -1134,7 +1116,16 @@
       "location": "Sunnyvale, CA",
       "apply_url": "https://go.vansh.nyc/Id?s=A",
       "date_posted": "Oct 02",
-      "found_at": "2026-10-26T13:41:20.439644"
+      "found_at": "2026-10-26T19:37:43.967523"
+    },
+    {
+      "id": "5baa346cb206ac28572973a139857d0f",
+      "company": "Intel",
+      "role": "Software Engineer, Datacenter (Master's) \ud83c\uddfa\ud83c\uddf8",
+      "location": "Santa Clara, CA",
+      "apply_url": "https://go.vansh.nyc/Lj?s=A",
+      "date_posted": "Oct 01",
+      "found_at": "2026-10-26T19:37:43.967527"
     },
     {
       "id": "321ae5ac8b514dfe76ffa67072c84236",
@@ -1143,7 +1134,7 @@
       "location": "Sunnyvale, CA",
       "apply_url": "https://go.vansh.nyc/HC?s=A",
       "date_posted": "Oct 01",
-      "found_at": "2026-10-26T13:41:20.439647"
+      "found_at": "2026-10-26T19:37:43.967531"
     },
     {
       "id": "4e992ffda9a6e37a5dfb773b67c2d1e9",
@@ -1152,7 +1143,7 @@
       "location": "Austin, TX</br>Cupertino, CA",
       "apply_url": "https://go.vansh.nyc/HA?s=A",
       "date_posted": "Oct 01",
-      "found_at": "2026-10-26T13:41:20.439653"
+      "found_at": "2026-10-26T19:37:43.967537"
     },
     {
       "id": "791eec6f113c7948f973cee331f18547",
@@ -1161,7 +1152,7 @@
       "location": "<details><summary>**7 locations**</summary>Seattle, WA</br>Nashville, TN</br>Austin, TX</br>North Reading, MA</br>Arlington, VA</br>Bellevue, WA</br>Westborough, MA</details>",
       "apply_url": "https://go.vansh.nyc/HB?s=A",
       "date_posted": "Oct 01",
-      "found_at": "2026-10-26T13:41:20.439657"
+      "found_at": "2026-10-26T19:37:43.967542"
     },
     {
       "id": "6fffed6bbfd4fb37bf6088b44ee45c6f",
@@ -1170,7 +1161,7 @@
       "location": "Remote",
       "apply_url": "https://go.vansh.nyc/Ik?s=A",
       "date_posted": "Sep 30",
-      "found_at": "2026-10-26T13:41:20.439661"
+      "found_at": "2026-10-26T19:37:43.967545"
     },
     {
       "id": "017736ca738e4bbfda324383893bad90",
@@ -1179,7 +1170,7 @@
       "location": "Nashville, TN",
       "apply_url": "https://go.vansh.nyc/Hy?s=A",
       "date_posted": "Sep 30",
-      "found_at": "2026-10-26T13:41:20.439665"
+      "found_at": "2026-10-26T19:37:43.967549"
     },
     {
       "id": "9ac41b35444b463cc785f5a186729b25",
@@ -1188,7 +1179,7 @@
       "location": "Chicago, IL",
       "apply_url": "https://go.vansh.nyc/Hz?s=A",
       "date_posted": "Sep 30",
-      "found_at": "2026-10-26T13:41:20.439668"
+      "found_at": "2026-10-26T19:37:43.967553"
     },
     {
       "id": "124a824aa846bc893465c9829385ced3",
@@ -1197,7 +1188,7 @@
       "location": "Remote",
       "apply_url": "https://go.vansh.nyc/Im?s=A",
       "date_posted": "Sep 30",
-      "found_at": "2026-10-26T13:41:20.439671"
+      "found_at": "2026-10-26T19:37:43.967557"
     },
     {
       "id": "695b1172c02a1bc593408dd124d71171",
@@ -1206,7 +1197,7 @@
       "location": "Hawthorne, CA",
       "apply_url": "https://go.vansh.nyc/Ht?s=A",
       "date_posted": "Sep 29",
-      "found_at": "2026-10-26T13:41:20.439675"
+      "found_at": "2026-10-26T19:37:43.967560"
     },
     {
       "id": "7f2ea9ef6b22556edf68dc02ade133b6",
@@ -1215,7 +1206,7 @@
       "location": "Miami, FL",
       "apply_url": "https://go.vansh.nyc/Hu?s=A",
       "date_posted": "Sep 29",
-      "found_at": "2026-10-26T13:41:20.439678"
+      "found_at": "2026-10-26T19:37:43.967564"
     },
     {
       "id": "0fad9214104948df2a2673ff33da943d",
@@ -1224,7 +1215,7 @@
       "location": "Miami, FL",
       "apply_url": "https://go.vansh.nyc/Hv?s=A",
       "date_posted": "Sep 29",
-      "found_at": "2026-10-26T13:41:20.439682"
+      "found_at": "2026-10-26T19:37:43.967568"
     },
     {
       "id": "2f1f28c1944456cd6d7d03f54465807b",
@@ -1233,7 +1224,7 @@
       "location": "Santa Clara, CA",
       "apply_url": "https://go.vansh.nyc/Il?s=A",
       "date_posted": "Sep 29",
-      "found_at": "2026-10-26T13:41:20.439685"
+      "found_at": "2026-10-26T19:37:43.967572"
     },
     {
       "id": "5079b19081ff0eba5369d334b025846e",
@@ -1242,7 +1233,7 @@
       "location": "Folsom, CA</br>Richardson, TX",
       "apply_url": "https://go.vansh.nyc/Hx?s=A",
       "date_posted": "Sep 29",
-      "found_at": "2026-10-26T13:41:20.439689"
+      "found_at": "2026-10-26T19:37:43.967576"
     },
     {
       "id": "37b7ddd06b201964b7c5405339674a35",
@@ -1251,7 +1242,358 @@
       "location": "Houston, TX",
       "apply_url": "https://go.vansh.nyc/Hs?s=A",
       "date_posted": "Sep 29",
-      "found_at": "2026-10-26T13:41:20.439693"
+      "found_at": "2026-10-26T19:37:43.967579"
+    },
+    {
+      "id": "8b5c9a3787d49efb51cac5ee5a36c734",
+      "company": "Fidelity Investments",
+      "role": "New Grad 2027: Leap Software Engineer",
+      "location": "<details><summary>**4 locations**</summary>Westlake, TX</br>Boston, MA</br>Durham, NC</br>Merrimack, NH</details>",
+      "apply_url": "https://go.vansh.nyc/O7?s=A",
+      "date_posted": "Sep 27",
+      "found_at": "2026-10-26T19:37:43.967583"
+    },
+    {
+      "id": "5d463bb3ee5132935ab10f5f96cd25d1",
+      "company": "Snap Finance",
+      "role": "Software Engineer, Applied AI",
+      "location": "West Valley City, UT",
+      "apply_url": "https://go.vansh.nyc/La?s=A",
+      "date_posted": "Sep 25",
+      "found_at": "2026-10-26T19:37:43.967587"
+    },
+    {
+      "id": "d7d93f5d3144e68829c273e9d5cc875f",
+      "company": "Sim",
+      "role": "Forward Deployed Engineer",
+      "location": "San Francisco, CA",
+      "apply_url": "https://go.vansh.nyc/L8?s=A",
+      "date_posted": "Sep 25",
+      "found_at": "2026-10-26T19:37:43.967591"
+    },
+    {
+      "id": "6ce240578ee6f09ad4e6e0c8f82395cc",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "role": "New Grad 2027: Neural Engineer",
+      "location": "Laurel, MD",
+      "apply_url": "https://go.vansh.nyc/L9?s=A",
+      "date_posted": "Sep 25",
+      "found_at": "2026-10-26T19:37:43.967594"
+    },
+    {
+      "id": "eef96206eb9b148305e5157507d08985",
+      "company": "Caesars Entertainment",
+      "role": "New Grad 2027: Data Analyst 1, Rotational Program",
+      "location": "Las Vegas, NV",
+      "apply_url": "https://go.vansh.nyc/Lb?s=A",
+      "date_posted": "Sep 25",
+      "found_at": "2026-10-26T19:37:43.967598"
+    },
+    {
+      "id": "5d1bd0e768bf3127050c3f7afa47112c",
+      "company": "KLA",
+      "role": "Software Engineer, Metrology Systems (Master's)",
+      "location": "Milpitas, CA",
+      "apply_url": "https://go.vansh.nyc/Lk?s=A",
+      "date_posted": "Sep 24",
+      "found_at": "2026-10-26T19:37:43.967602"
+    },
+    {
+      "id": "e4468368d3b6e243145f6a6c2bfd0ea7",
+      "company": "Adobe",
+      "role": "New Grad 2027: Machine Learning Engineer (Master's)",
+      "location": "<details><summary>**7 locations**</summary>Seattle, WA</br>San Francisco, CA</br>Austin, TX</br>San Jose, CA</br>Waltham, MA</br>New York, NY</br>Lehi, UT</details>",
+      "apply_url": "https://go.vansh.nyc/L6?s=A",
+      "date_posted": "Sep 24",
+      "found_at": "2026-10-26T19:37:43.967606"
+    },
+    {
+      "id": "3ff7a622f434cf40a6eb124fe17f895e",
+      "company": "Adobe",
+      "role": "New Grad 2027: Software Engineer",
+      "location": "<details><summary>**6 locations**</summary>Seattle, WA</br>San Francisco, CA</br>Austin, TX</br>San Jose, CA</br>New York, NY</br>Lehi, UT</details>",
+      "apply_url": "https://go.vansh.nyc/L7?s=A",
+      "date_posted": "Sep 24",
+      "found_at": "2026-10-26T19:37:43.967610"
+    },
+    {
+      "id": "83f668f69a76e78160d9eaf635e7a4b6",
+      "company": "Scale AI",
+      "role": "New Grad 2027: Software Engineer, Public Sector",
+      "location": "San Francisco, CA",
+      "apply_url": "https://go.vansh.nyc/Ka?s=A",
+      "date_posted": "Sep 23",
+      "found_at": "2026-10-26T19:37:43.967614"
+    },
+    {
+      "id": "5757e6c3e00689ebcb3460df232634a7",
+      "company": "Qumulo",
+      "role": "Software Development Engineer",
+      "location": "Seattle, WA",
+      "apply_url": "https://go.vansh.nyc/L5?s=A",
+      "date_posted": "Sep 23",
+      "found_at": "2026-10-26T19:37:43.967617"
+    },
+    {
+      "id": "e00493741c28fe39482be357f4a5f54b",
+      "company": "LexisNexis Risk Solutions",
+      "role": "Tech Accelarate",
+      "location": "Alpharetta, GA",
+      "apply_url": "https://go.vansh.nyc/K9?s=A",
+      "date_posted": "Sep 23",
+      "found_at": "2026-10-26T19:37:43.967621"
+    },
+    {
+      "id": "80697f0095e792c8125a97e7f0bfbd2f",
+      "company": "Lattice Semiconductor",
+      "role": "Junior Firmware Engineer",
+      "location": "Duluth, GA",
+      "apply_url": "https://go.vansh.nyc/Lh?s=A",
+      "date_posted": "Sep 23",
+      "found_at": "2026-10-26T19:37:43.967625"
+    },
+    {
+      "id": "049141414611f8a6756bb61185555ee4",
+      "company": "Klaviyo",
+      "role": "New Grad 2027: AI Engineer 1 (Master's)",
+      "location": "Boston, MA",
+      "apply_url": "https://go.vansh.nyc/L4?s=A",
+      "date_posted": "Sep 23",
+      "found_at": "2026-10-26T19:37:43.967629"
+    },
+    {
+      "id": "eba971b23bd685cb62e3e964c1051355",
+      "company": "Honeywell",
+      "role": "Software Engineer 1",
+      "location": "Duluth, GA",
+      "apply_url": "https://go.vansh.nyc/L3?s=A",
+      "date_posted": "Sep 23",
+      "found_at": "2026-10-26T19:37:43.967632"
+    },
+    {
+      "id": "d8da3fc82fa5a6f10f6822612505d3a9",
+      "company": "General Motors",
+      "role": "Software Engineer, AV HIL Platform and Services",
+      "location": "Sunnyvale, CA",
+      "apply_url": "https://go.vansh.nyc/K8?s=A",
+      "date_posted": "Sep 23",
+      "found_at": "2026-10-26T19:37:43.967636"
+    },
+    {
+      "id": "76ae057a32cd9d2d25148bd96fa0c5ea",
+      "company": "Astranis",
+      "role": "Flight Software Associate \ud83c\uddfa\ud83c\uddf8",
+      "location": "San Francisco, CA",
+      "apply_url": "https://go.vansh.nyc/L2?s=A",
+      "date_posted": "Sep 23",
+      "found_at": "2026-10-26T19:37:43.967640"
+    },
+    {
+      "id": "1720b95d3c31f43197c88cf8aa1f4f4e",
+      "company": "American Express",
+      "role": "New Grad 2027: Analyst, Data & Analytics, Enterprise Technology Services",
+      "location": "Charlotte, NC",
+      "apply_url": "https://go.vansh.nyc/K7?s=A",
+      "date_posted": "Sep 23",
+      "found_at": "2026-10-26T19:37:43.967644"
+    },
+    {
+      "id": "bb306637fa642e23899f7c1a4f840f73",
+      "company": "ZS",
+      "role": "Business Technology Solutions Associate",
+      "location": "Chicago, IL</br>Princeton, NJ",
+      "apply_url": "https://go.vansh.nyc/Ld?s=A",
+      "date_posted": "Sep 22",
+      "found_at": "2026-10-26T19:37:43.967648"
+    },
+    {
+      "id": "fab564fbfe38a97a2c7229a8755e5ec4",
+      "company": "Renesas Electronics",
+      "role": "Electrical Engineer",
+      "location": "Austin, TX",
+      "apply_url": "https://go.vansh.nyc/L1?s=A",
+      "date_posted": "Sep 22",
+      "found_at": "2026-10-26T19:37:43.967652"
+    },
+    {
+      "id": "b6543d1e28c69bc77ccc4816b6ad1486",
+      "company": "Collinear AI",
+      "role": "Mts Research, Cybersecurity",
+      "location": "San Francisco, CA</br>Sunnyvale, CA",
+      "apply_url": "https://go.vansh.nyc/KY?s=A",
+      "date_posted": "Sep 22",
+      "found_at": "2026-10-26T19:37:43.967655"
+    },
+    {
+      "id": "f10483060f9151e3e9dd3e8c0aea4e07",
+      "company": "Clearwater Analytics",
+      "role": "Quantitative Financial Analyst 1 (Master's)",
+      "location": "Boise, ID",
+      "apply_url": "https://go.vansh.nyc/KZ?s=A",
+      "date_posted": "Sep 22",
+      "found_at": "2026-10-26T19:37:43.967659"
+    },
+    {
+      "id": "15d5481b95dde1080654b4d61acdf5fd",
+      "company": "Authentic",
+      "role": "New Grad 2027: Software Engineer",
+      "location": "New York, NY",
+      "apply_url": "https://go.vansh.nyc/KX?s=A",
+      "date_posted": "Sep 22",
+      "found_at": "2026-10-26T19:37:43.967663"
+    },
+    {
+      "id": "01f13293b2dd513879ec975a3309b24e",
+      "company": "Anduril",
+      "role": "Firmware Engineer",
+      "location": "Costa Mesa, CA",
+      "apply_url": "https://go.vansh.nyc/L0?s=A",
+      "date_posted": "Sep 22",
+      "found_at": "2026-10-26T19:37:43.967666"
+    },
+    {
+      "id": "3a70e5190547465c022fd561756b0d23",
+      "company": "Qualcomm",
+      "role": "Backend Software Engineer",
+      "location": "San Diego, CA",
+      "apply_url": "https://go.vansh.nyc/KW?s=A",
+      "date_posted": "Sep 21",
+      "found_at": "2026-10-26T19:37:43.967670"
+    },
+    {
+      "id": "090b78a541a780206756a32e262cd850",
+      "company": "Howmet Aerospace",
+      "role": "New Grad 2027: Manufacturing Data Analyst, Training Program",
+      "location": "<details><summary>**6 locations**</summary>Dover, NJ</br>Whitehall, MI</br>Hampton, VA</br>Morristown, TN</br>La Porte, IN</br>Wichita Falls, TX</details>",
+      "apply_url": "https://go.vansh.nyc/KV?s=A",
+      "date_posted": "Sep 21",
+      "found_at": "2026-10-26T19:37:43.967674"
+    },
+    {
+      "id": "c84639b8664f82956dae1d4a9778c6b2",
+      "company": "Capgemini",
+      "role": "Associate Application Consultant",
+      "location": "<details><summary>**5 locations**</summary>Nashville, TN</br>Chicago, IL</br>Bridgewater, NJ</br>New York, NY</br>Atlanta, GA</details>",
+      "apply_url": "https://go.vansh.nyc/Le?s=A",
+      "date_posted": "Sep 21",
+      "found_at": "2026-10-26T19:37:43.967678"
+    },
+    {
+      "id": "848631736f816e248fe6feda352c5e88",
+      "company": "SingleStore",
+      "role": "Software Engineer",
+      "location": "Remote",
+      "apply_url": "https://go.vansh.nyc/Ko?s=A",
+      "date_posted": "Sep 20",
+      "found_at": "2026-10-26T19:37:43.967681"
+    },
+    {
+      "id": "3e10328d0513607fdecb875f9ee498eb",
+      "company": "RELX",
+      "role": "Software Engineer",
+      "location": "Alpharetta, GA",
+      "apply_url": "https://go.vansh.nyc/Km?s=A",
+      "date_posted": "Sep 20",
+      "found_at": "2026-10-26T19:37:43.967685"
+    },
+    {
+      "id": "dac3885b0661ce1f2c9311a12d597555",
+      "company": "RELX",
+      "role": "New Grad 2027: Software Engineer",
+      "location": "Boca Raton, FL",
+      "apply_url": "https://go.vansh.nyc/Kn?s=A",
+      "date_posted": "Sep 20",
+      "found_at": "2026-10-26T19:37:43.967688"
+    },
+    {
+      "id": "3f1819020c934816ff74ab4cfb22575c",
+      "company": "PMG",
+      "role": "AI & Software Engineering \ud83d\udec2",
+      "location": "Dallas, TX",
+      "apply_url": "https://go.vansh.nyc/Kj?s=A",
+      "date_posted": "Sep 20",
+      "found_at": "2026-10-26T19:37:43.967693"
+    },
+    {
+      "id": "187e51847fba92cb3dfdc4ee09706cd5",
+      "company": "PMG",
+      "role": "Data Analytics \ud83d\udec2",
+      "location": "Dallas, TX",
+      "apply_url": "https://go.vansh.nyc/Kk?s=A",
+      "date_posted": "Sep 20",
+      "found_at": "2026-10-26T19:37:43.967697"
+    },
+    {
+      "id": "64542ede6c17723736bce13d8fd7e2e3",
+      "company": "PMG",
+      "role": "New Grad 2027: Data Analytics \ud83d\udec2",
+      "location": "Dallas, TX",
+      "apply_url": "https://go.vansh.nyc/Kl?s=A",
+      "date_posted": "Sep 20",
+      "found_at": "2026-10-26T19:37:43.967701"
+    },
+    {
+      "id": "b20c31368e478a006e7df44c676b4476",
+      "company": "NOV",
+      "role": "New Grad 2027: Associate Software Engineer, Pathway",
+      "location": "Houston, TX",
+      "apply_url": "https://go.vansh.nyc/Ki?s=A",
+      "date_posted": "Sep 20",
+      "found_at": "2026-10-26T19:37:43.967705"
+    },
+    {
+      "id": "4527285e611b0ea4e511f9a8ff0449c6",
+      "company": "Meow",
+      "role": "Software Engineer \ud83d\udec2",
+      "location": "New York, NY",
+      "apply_url": "https://go.vansh.nyc/Kh?s=A",
+      "date_posted": "Sep 20",
+      "found_at": "2026-10-26T19:37:43.967709"
+    },
+    {
+      "id": "cb82dad52a8e94ff6cb522ba01fc45d5",
+      "company": "Mechanize",
+      "role": "Junior Software Engineer",
+      "location": "San Francisco, CA",
+      "apply_url": "https://go.vansh.nyc/Kg?s=A",
+      "date_posted": "Sep 20",
+      "found_at": "2026-10-26T19:37:43.967713"
+    },
+    {
+      "id": "d117f38b1b405cea543c7999a0507e01",
+      "company": "JPMorganChase",
+      "role": "New Grad 2027: Data & AI Program, Analyst",
+      "location": "New York, NY",
+      "apply_url": "https://go.vansh.nyc/Kf?s=A",
+      "date_posted": "Sep 20",
+      "found_at": "2026-10-26T19:37:43.967717"
+    },
+    {
+      "id": "25e03a65c6d4b239f8d60f2b9a3fdf2b",
+      "company": "Garner Health",
+      "role": "New Grad 2027: Associate Software Engineer \ud83d\udec2",
+      "location": "New York, NY",
+      "apply_url": "https://go.vansh.nyc/Ke?s=A",
+      "date_posted": "Sep 20",
+      "found_at": "2026-10-26T19:37:43.967721"
+    },
+    {
+      "id": "6ae2e0016a7b709bf58af4ed73a8d9fa",
+      "company": "Bot Auto",
+      "role": "Algorithm Engineer, Deep Learning & Vision",
+      "location": "Houston, TX</br>San Francisco, CA",
+      "apply_url": "https://go.vansh.nyc/Kc?s=A",
+      "date_posted": "Sep 20",
+      "found_at": "2026-10-26T19:37:43.967725"
+    },
+    {
+      "id": "15872ebe92cb74f8a5242da1a4807397",
+      "company": "AllianceBernstein",
+      "role": "New Grad 2027: Software Development Associate \ud83c\uddfa\ud83c\uddf8",
+      "location": "Nashville, TN",
+      "apply_url": "https://go.vansh.nyc/Kb?s=A",
+      "date_posted": "Sep 20",
+      "found_at": "2026-10-26T19:37:43.967730"
     },
     {
       "id": "1fb6b3572f2f59cf56bd63ec2c86ca94",
@@ -1260,7 +1602,502 @@
       "location": "Orlando, FL",
       "apply_url": "https://go.vansh.nyc/Ig?s=A",
       "date_posted": "Sep 19",
-      "found_at": "2026-10-26T13:41:20.439696"
+      "found_at": "2026-10-26T19:37:43.967734"
+    },
+    {
+      "id": "72d5e0e71c3c24112e39ff68d8de112c",
+      "company": "SpaceX",
+      "role": "Software Engineer, Starship",
+      "location": "Hawthorne, CA",
+      "apply_url": "https://go.vansh.nyc/KC?s=A",
+      "date_posted": "Sep 19",
+      "found_at": "2026-10-26T19:37:43.967737"
+    },
+    {
+      "id": "643c5a7ec235efcbe1e99a99579b7199",
+      "company": "Perpay",
+      "role": "New Grad 2027: Software Engineer",
+      "location": "Philadelphia, PA",
+      "apply_url": "https://go.vansh.nyc/KB?s=A",
+      "date_posted": "Sep 19",
+      "found_at": "2026-10-26T19:37:43.967755"
+    },
+    {
+      "id": "085fb5840d4ac7019a152d94c8694973",
+      "company": "Klaviyo",
+      "role": "New Grad 2027: Software Engineer 1",
+      "location": "Boston, MA",
+      "apply_url": "https://go.vansh.nyc/KA?s=A",
+      "date_posted": "Sep 19",
+      "found_at": "2026-10-26T19:37:43.967761"
+    },
+    {
+      "id": "7f4c4f7afa9710d2b8ae246cef0d7941",
+      "company": "InterSystems",
+      "role": "New Grad 2027: Software Engineer Rotational Program",
+      "location": "Boston, MA",
+      "apply_url": "https://go.vansh.nyc/Kz?s=A",
+      "date_posted": "Sep 19",
+      "found_at": "2026-10-26T19:37:43.967765"
+    },
+    {
+      "id": "375f20cf8ff429572a9269db882e087b",
+      "company": "ID.me",
+      "role": "New Grad 2027: Software Development Engineer",
+      "location": "Mountain View, CA",
+      "apply_url": "https://go.vansh.nyc/Kx?s=A",
+      "date_posted": "Sep 19",
+      "found_at": "2026-10-26T19:37:43.967769"
+    },
+    {
+      "id": "f8635cc41c52ff75a3d2d17ac081268e",
+      "company": "ID.me",
+      "role": "New Grad 2027: Data Scientist (Master's)",
+      "location": "Mountain View, CA",
+      "apply_url": "https://go.vansh.nyc/Ky?s=A",
+      "date_posted": "Sep 19",
+      "found_at": "2026-10-26T19:37:43.967772"
+    },
+    {
+      "id": "6a1c28b162721e3287fea1c4027f7e88",
+      "company": "Commure",
+      "role": "Software Engineer",
+      "location": "Los Angeles, CA</br>Mountain View, CA",
+      "apply_url": "https://go.vansh.nyc/Kw?s=A",
+      "date_posted": "Sep 19",
+      "found_at": "2026-10-26T19:37:43.967776"
+    },
+    {
+      "id": "9b7a784512dd5bdb51a506beffdb00f2",
+      "company": "Cadence Design Systems",
+      "role": "Software Engineer",
+      "location": "San Jose, CA",
+      "apply_url": "https://go.vansh.nyc/Kv?s=A",
+      "date_posted": "Sep 19",
+      "found_at": "2026-10-26T19:37:43.967780"
+    },
+    {
+      "id": "643933b14f5f2453b850030c5c891a38",
+      "company": "Anysphere",
+      "role": "New Grad 2027: Software Engineer",
+      "location": "San Francisco, CA</br>New York, NY",
+      "apply_url": "https://go.vansh.nyc/Kt?s=A",
+      "date_posted": "Sep 19",
+      "found_at": "2026-10-26T19:37:43.967783"
+    },
+    {
+      "id": "ffe80607722d08714aad036e40af7748",
+      "company": "Anduril",
+      "role": "Flight Software Engineer",
+      "location": "Costa Mesa, CA",
+      "apply_url": "https://go.vansh.nyc/Ks?s=A",
+      "date_posted": "Sep 19",
+      "found_at": "2026-10-26T19:37:43.967787"
+    },
+    {
+      "id": "5d6dfc661adfdfcc3dae1b799cc7eeba",
+      "company": "American Express",
+      "role": "Software Engineer 1, Enterprise Technology Services",
+      "location": "New York, NY",
+      "apply_url": "https://go.vansh.nyc/Kq?s=A",
+      "date_posted": "Sep 19",
+      "found_at": "2026-10-26T19:37:43.967790"
+    },
+    {
+      "id": "356d0ada97d9fe64c9348c73b7803567",
+      "company": "American Express",
+      "role": "Data Engineer 1, Enterprise Technology Services",
+      "location": "Phoenix, AZ",
+      "apply_url": "https://go.vansh.nyc/Kr?s=A",
+      "date_posted": "Sep 19",
+      "found_at": "2026-10-26T19:37:43.967794"
+    },
+    {
+      "id": "6e74c43c59789561fdd6cc0a42de75c3",
+      "company": "Akuna Capital University",
+      "role": "New Grad 2027: Junior Quantitative Researcher",
+      "location": "Chicago, IL",
+      "apply_url": "https://go.vansh.nyc/Kp?s=A",
+      "date_posted": "Sep 19",
+      "found_at": "2026-10-26T19:37:43.967798"
+    },
+    {
+      "id": "d2877e113d1539a12a82238a73f79b22",
+      "company": "TikTok",
+      "role": "New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Video",
+      "location": "San Jose, CA",
+      "apply_url": "https://go.vansh.nyc/KU?s=A",
+      "date_posted": "Sep 18",
+      "found_at": "2026-10-26T19:37:43.967802"
+    },
+    {
+      "id": "66389dc73c31d1364657071343bc8795",
+      "company": "Chubb",
+      "role": "Technology Associate",
+      "location": "Philadelphia, PA</br>Jersey City, NJ",
+      "apply_url": "https://go.vansh.nyc/Lf?s=A",
+      "date_posted": "Sep 18",
+      "found_at": "2026-10-26T19:37:43.967806"
+    },
+    {
+      "id": "725d14776b94028cdb0bf79d3b4e3a02",
+      "company": "think-cell",
+      "role": "C++ Developer",
+      "location": "Remote",
+      "apply_url": "https://go.vansh.nyc/KS?s=A",
+      "date_posted": "Sep 17",
+      "found_at": "2026-10-26T19:37:43.967809"
+    },
+    {
+      "id": "386cb7c4e5b8221dd5a7804338c352a2",
+      "company": "CSX",
+      "role": "New Grad 2027: Technology Leadership Development Associate",
+      "location": "Jacksonville, FL",
+      "apply_url": "https://go.vansh.nyc/KT?s=A",
+      "date_posted": "Sep 17",
+      "found_at": "2026-10-26T19:37:43.967813"
+    },
+    {
+      "id": "01d104228ef2d50bef51476942cf560f",
+      "company": "Aerospace",
+      "role": "New Grad 2027: Vehicle Systems Software Engineer \ud83c\uddfa\ud83c\uddf8",
+      "location": "El Segundo, CA",
+      "apply_url": "https://go.vansh.nyc/Li?s=A",
+      "date_posted": "Sep 17",
+      "found_at": "2026-10-26T19:37:43.967817"
+    },
+    {
+      "id": "515d5572102f971dcac7094c6d078b06",
+      "company": "SingleStore",
+      "role": "New Grad 2027: Software Engineer",
+      "location": "Remote",
+      "apply_url": "https://go.vansh.nyc/KD?s=A",
+      "date_posted": "Sep 16",
+      "found_at": "2026-10-26T19:37:43.967821"
+    },
+    {
+      "id": "86198be5e2455dc176f7620eaa1920c8",
+      "company": "Texas Instruments",
+      "role": "Data Engineer, Career Accelerator Program",
+      "location": "Richardson, TX",
+      "apply_url": "https://go.vansh.nyc/KQ?s=A",
+      "date_posted": "Sep 15",
+      "found_at": "2026-10-26T19:37:43.967825"
+    },
+    {
+      "id": "1994e21ce6787700e67710ebb0cc6506",
+      "company": "Solace Health",
+      "role": "New Grad 2027: Associate Software Engineer",
+      "location": "Redwood City, CA",
+      "apply_url": "https://go.vansh.nyc/KG?s=A",
+      "date_posted": "Sep 15",
+      "found_at": "2026-10-26T19:37:43.967828"
+    },
+    {
+      "id": "140487800b062b7b4af0773d9b51db47",
+      "company": "Solace Health",
+      "role": "New Grad 2027: Associate Data Scientist",
+      "location": "Redwood City, CA",
+      "apply_url": "https://go.vansh.nyc/KH?s=A",
+      "date_posted": "Sep 15",
+      "found_at": "2026-10-26T19:37:43.967832"
+    },
+    {
+      "id": "d6faa3539ac0017f0c305eee370300e5",
+      "company": "OpenAI",
+      "role": "New Grad 2027: Software Engineer, Applied Emerging Talent",
+      "location": "San Francisco, CA",
+      "apply_url": "https://go.vansh.nyc/KF?s=A",
+      "date_posted": "Sep 15",
+      "found_at": "2026-10-26T19:37:43.967836"
+    },
+    {
+      "id": "f10483060f9151e3e9dd3e8c0aea4e07",
+      "company": "Clearwater Analytics",
+      "role": "Quantitative Financial Analyst 1 (Master's)",
+      "location": "Boise, ID",
+      "apply_url": "https://go.vansh.nyc/KR?s=A",
+      "date_posted": "Sep 15",
+      "found_at": "2026-10-26T19:37:43.967840"
+    },
+    {
+      "id": "9a61130c1dfb137b59ec48f82c601682",
+      "company": "CACI",
+      "role": "Software Developer \ud83c\uddfa\ud83c\uddf8",
+      "location": "San Antonio, TX",
+      "apply_url": "https://go.vansh.nyc/Ll?s=A",
+      "date_posted": "Sep 15",
+      "found_at": "2026-10-26T19:37:43.967844"
+    },
+    {
+      "id": "db3bc91edcb4656f17239bc1c06144cf",
+      "company": "Atlassian",
+      "role": "New Grad 2027: Software Engineer \ud83d\udec2",
+      "location": "Seattle, WA",
+      "apply_url": "https://go.vansh.nyc/KE?s=A",
+      "date_posted": "Sep 15",
+      "found_at": "2026-10-26T19:37:43.967848"
+    },
+    {
+      "id": "9c26eca000c7c290c45f8563f0f33ffe",
+      "company": "Analog Devices",
+      "role": "Associate Embedded Software Engineer",
+      "location": "San Jose, CA</br>Wilmington, MA</br>Durham, NC",
+      "apply_url": "https://go.vansh.nyc/KP?s=A",
+      "date_posted": "Sep 15",
+      "found_at": "2026-10-26T19:37:43.967852"
+    },
+    {
+      "id": "3c7370b102e7185eb3da4d33bdd34bc5",
+      "company": "Aero",
+      "role": "New Grad 2027: RPO Software Developer/Analyst (Master's) \ud83c\uddfa\ud83c\uddf8",
+      "location": "El Segundo, CA",
+      "apply_url": "https://go.vansh.nyc/Ln?s=A",
+      "date_posted": "Sep 15",
+      "found_at": "2026-10-26T19:37:43.967857"
+    },
+    {
+      "id": "7f2ea9ef6b22556edf68dc02ade133b6",
+      "company": "OneImaging",
+      "role": "New Grad 2027: Associate Data Engineer",
+      "location": "Miami, FL",
+      "apply_url": "https://go.vansh.nyc/KN?s=A",
+      "date_posted": "Sep 14",
+      "found_at": "2026-10-26T19:37:43.967860"
+    },
+    {
+      "id": "624f4037855c5c55e6c6ca3a6c4137cd",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "role": "New Grad 2027: Engineer/Analyst",
+      "location": "Laurel, MD",
+      "apply_url": "https://go.vansh.nyc/KK?s=A",
+      "date_posted": "Sep 14",
+      "found_at": "2026-10-26T19:37:43.967864"
+    },
+    {
+      "id": "40095ca9d224a85d8877ff00705568f6",
+      "company": "HPE",
+      "role": "AI and Machine Learning Engineering",
+      "location": "Durham, NC",
+      "apply_url": "https://go.vansh.nyc/Lm?s=A",
+      "date_posted": "Sep 14",
+      "found_at": "2026-10-26T19:37:43.967868"
+    },
+    {
+      "id": "46f492415f58fe732bdeae9aec4b294a",
+      "company": "CoStar Group",
+      "role": "New Grad 2027: Associate Security Engineer \ud83d\udec2",
+      "location": "Richmond, VA",
+      "apply_url": "https://go.vansh.nyc/KJ?s=A",
+      "date_posted": "Sep 14",
+      "found_at": "2026-10-26T19:37:43.967872"
+    },
+    {
+      "id": "e4b8551ed3033964196d7f4c26b012fc",
+      "company": "C3.ai",
+      "role": "New Grad 2027: Forward Deployed Engineer",
+      "location": "Redwood City, CA",
+      "apply_url": "https://go.vansh.nyc/KL?s=A",
+      "date_posted": "Sep 14",
+      "found_at": "2026-10-26T19:37:43.967876"
+    },
+    {
+      "id": "e742887f94e1e434b6be544180bd3cd7",
+      "company": "C3.ai",
+      "role": "New Grad 2027: Platform Full-Stack Engineer",
+      "location": "Redwood City, CA",
+      "apply_url": "https://go.vansh.nyc/KM?s=A",
+      "date_posted": "Sep 14",
+      "found_at": "2026-10-26T19:37:43.967880"
+    },
+    {
+      "id": "dba1be5d16668b529b734044eb8c60af",
+      "company": "BlackEdge Capital",
+      "role": "New Grad 2027: Quantitative Researcher",
+      "location": "Chicago, IL",
+      "apply_url": "https://go.vansh.nyc/KI?s=A",
+      "date_posted": "Sep 14",
+      "found_at": "2026-10-26T19:37:43.967883"
+    },
+    {
+      "id": "18ebf68920ea5d939ec2bbae1070d525",
+      "company": "Applied Materials",
+      "role": "Logistics Automation",
+      "location": "Santa Clara, CA",
+      "apply_url": "https://go.vansh.nyc/O5?s=A",
+      "date_posted": "Sep 14",
+      "found_at": "2026-10-26T19:37:43.967887"
+    },
+    {
+      "id": "3bdf6a0998fb9e0bed77a4ff922683c7",
+      "company": "Kitware",
+      "role": "Software Developer",
+      "location": "Clifton Park, NY",
+      "apply_url": "https://go.vansh.nyc/O4?s=A",
+      "date_posted": "Sep 13",
+      "found_at": "2026-10-26T19:37:43.967890"
+    },
+    {
+      "id": "2ab05a7d566fa8e4495dbccefd192834",
+      "company": "SpaceX",
+      "role": "New Grad 2027: Engineer, Security Software",
+      "location": "Washington, DC",
+      "apply_url": "https://go.vansh.nyc/Nf?s=A",
+      "date_posted": "Sep 12",
+      "found_at": "2026-10-26T19:37:43.967894"
+    },
+    {
+      "id": "32223ae2fdbfc8633428b7c8728f995c",
+      "company": "SpaceX",
+      "role": "New Grad 2027: Engineer, Security Software",
+      "location": "Hawthorne, CA",
+      "apply_url": "https://go.vansh.nyc/Ng?s=A",
+      "date_posted": "Sep 12",
+      "found_at": "2026-10-26T19:37:43.967897"
+    },
+    {
+      "id": "3bc799934fd5049236b727d88a94a2d3",
+      "company": "HPE",
+      "role": "Embedded Software Test Engineer",
+      "location": "Spring, TX",
+      "apply_url": "https://go.vansh.nyc/Oc?s=A",
+      "date_posted": "Sep 12",
+      "found_at": "2026-10-26T19:37:43.967901"
+    },
+    {
+      "id": "6edd3d3ab91378a51c84aa670f956d9b",
+      "company": "L3Harris Technologies",
+      "role": "Software Engineer",
+      "location": "Salt Lake City, UT",
+      "apply_url": "https://go.vansh.nyc/O1?s=A",
+      "date_posted": "Sep 11",
+      "found_at": "2026-10-26T19:37:43.967905"
+    },
+    {
+      "id": "6edd3d3ab91378a51c84aa670f956d9b",
+      "company": "L3Harris Technologies",
+      "role": "Software Engineer",
+      "location": "Salt Lake City, UT",
+      "apply_url": "https://go.vansh.nyc/O2?s=A",
+      "date_posted": "Sep 11",
+      "found_at": "2026-10-26T19:37:43.967908"
+    },
+    {
+      "id": "3c455c2eb4b8a85dc429c591a752c98e",
+      "company": "Garner Health",
+      "role": "New Grad 2027: Associate Applied Scientist \ud83d\udec2",
+      "location": "New York, NY",
+      "apply_url": "https://go.vansh.nyc/O3?s=A",
+      "date_posted": "Sep 11",
+      "found_at": "2026-10-26T19:37:43.967913"
+    },
+    {
+      "id": "8346f4c723d8899c76fcd29de9fa1dc2",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "role": "New Grad 2027: Electrical or Computer Engineer, Miniature Device Technologies",
+      "location": "Laurel, MD",
+      "apply_url": "https://go.vansh.nyc/O0?s=A",
+      "date_posted": "Sep 10",
+      "found_at": "2026-10-26T19:37:43.967917"
+    },
+    {
+      "id": "a40629a14af83fece6d1deb0cc3e66cd",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "role": "New Grad 2027: Robotics & Autonomous Systems Engineer, Tailored Autonomous Systems",
+      "location": "Laurel, MD",
+      "apply_url": "https://go.vansh.nyc/NZ?s=A",
+      "date_posted": "Sep 10",
+      "found_at": "2026-10-26T19:37:43.967922"
+    },
+    {
+      "id": "7a6eaa66bc84992b44b2488df232d3ae",
+      "company": "GE Vernova",
+      "role": "Data Scientist",
+      "location": "Greenville, SC",
+      "apply_url": "https://go.vansh.nyc/NX?s=A",
+      "date_posted": "Sep 10",
+      "found_at": "2026-10-26T19:37:43.967925"
+    },
+    {
+      "id": "f42fb2f9ee9cf2b133c0fd80288c6fd3",
+      "company": "GE Vernova",
+      "role": "AI Engineer",
+      "location": "Greenville, SC",
+      "apply_url": "https://go.vansh.nyc/NY?s=A",
+      "date_posted": "Sep 10",
+      "found_at": "2026-10-26T19:37:43.967929"
+    },
+    {
+      "id": "125b487d5a20f00ba0140dda38784dbb",
+      "company": "Emerson Electric",
+      "role": "Embedded Firmware Development Engineer",
+      "location": "Eden Prairie, MN",
+      "apply_url": "https://go.vansh.nyc/NW?s=A",
+      "date_posted": "Sep 10",
+      "found_at": "2026-10-26T19:37:43.967933"
+    },
+    {
+      "id": "1f1314f1c5837c8ea8c6a5108fbbd788",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "role": "New Grad 2027: Synthetic Aperture Radar Machine Learning Engineer, Imaging Systems",
+      "location": "Laurel, MD",
+      "apply_url": "https://go.vansh.nyc/NU?s=A",
+      "date_posted": "Sep 09",
+      "found_at": "2026-10-26T19:37:43.967937"
+    },
+    {
+      "id": "709ac52c2c7faa65ad3703474ae4a2cf",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "role": "New Grad 2027: Software Engineer, Multiple Teams",
+      "location": "Laurel, MD",
+      "apply_url": "https://go.vansh.nyc/NV?s=A",
+      "date_posted": "Sep 09",
+      "found_at": "2026-10-26T19:37:43.967941"
+    },
+    {
+      "id": "4a647930ce51abcebd4a0f8de7a40d36",
+      "company": "General Dynamics Mission Systems",
+      "role": "New Grad 2027: Engineering Leadership Program Engineer (EE, SW, Firmware, Sys) \ud83c\uddfa\ud83c\uddf8",
+      "location": "Bloomington, MN",
+      "apply_url": "https://go.vansh.nyc/Od?s=A",
+      "date_posted": "Sep 09",
+      "found_at": "2026-10-26T19:37:43.967947"
+    },
+    {
+      "id": "fef975e742eacdeb2502305c556f7dbf",
+      "company": "Pentair",
+      "role": "New Grad 2027: Engineering Leadership Development Program, Computer Science / Computer Engineering \ud83d\udec2",
+      "location": "Apex, NC</br>Delavan, WI</br>Golden Valley, MN",
+      "apply_url": "https://go.vansh.nyc/O6?s=A",
+      "date_posted": "Sep 08",
+      "found_at": "2026-10-26T19:37:43.967952"
+    },
+    {
+      "id": "64de600b528940b181f21647776c18f5",
+      "company": "Newrez",
+      "role": "Software Engineering TRAIL Operations Specialist",
+      "location": "Coppell, TX",
+      "apply_url": "https://go.vansh.nyc/NT?s=A",
+      "date_posted": "Sep 08",
+      "found_at": "2026-10-26T19:37:43.967956"
+    },
+    {
+      "id": "08c7971b91b24a25ec9d93df8db79fff",
+      "company": "TikTok",
+      "role": "New Grad 2027: Data Engineer",
+      "location": "San Jose, CA",
+      "apply_url": "https://go.vansh.nyc/NS?s=A",
+      "date_posted": "Sep 07",
+      "found_at": "2026-10-26T19:37:43.967960"
+    },
+    {
+      "id": "152a2791a90aa38c479926b13b526f11",
+      "company": "Scale AI",
+      "role": "Software Engineer",
+      "location": "San Francisco, CA",
+      "apply_url": "https://go.vansh.nyc/Ni?s=A",
+      "date_posted": "Sep 04",
+      "found_at": "2026-10-26T19:37:43.967963"
     },
     {
       "id": "d93879a3462abf7f39e1eaa19d49dc0a",
@@ -1269,7 +2106,7 @@
       "location": "Aurora, OH",
       "apply_url": "https://go.vansh.nyc/Ii?s=A",
       "date_posted": "Sep 04",
-      "found_at": "2026-10-26T13:41:20.439699"
+      "found_at": "2026-10-26T19:37:43.967967"
     },
     {
       "id": "8b1c598fd73c43d636c2c59b926d6d94",
@@ -1278,7 +2115,871 @@
       "location": "Carlsbad, CA",
       "apply_url": "https://go.vansh.nyc/Ij?s=A",
       "date_posted": "Sep 04",
-      "found_at": "2026-10-26T13:41:20.439702"
+      "found_at": "2026-10-26T19:37:43.967970"
+    },
+    {
+      "id": "9efccd59a6c5dd952dc95aa176738325",
+      "company": "Makai Labs",
+      "role": "Forward Deployed AI Analyst \ud83d\udec2",
+      "location": "New York, NY",
+      "apply_url": "https://go.vansh.nyc/NR?s=A",
+      "date_posted": "Sep 04",
+      "found_at": "2026-10-26T19:37:43.967977"
+    },
+    {
+      "id": "4dba2f7c98ef49e30209112e75332728",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "role": "New Grad 2027: Systems & Software Engineer, Multi-Domain Mission Planning Development \ud83c\uddfa\ud83c\uddf8",
+      "location": "Laurel, MD",
+      "apply_url": "https://go.vansh.nyc/NQ?s=A",
+      "date_posted": "Sep 04",
+      "found_at": "2026-10-26T19:37:43.967982"
+    },
+    {
+      "id": "a67ae1fc8882d0690f7fab202ca149d9",
+      "company": "DoorDash",
+      "role": "New Grad 2027: Software Engineer I",
+      "location": "<details><summary>**5 locations**</summary>Los Angeles, CA</br>New York, NY</br>San Francisco, CA</br>Sunnyvale, CA</br>Seattle, WA</details>",
+      "apply_url": "https://go.vansh.nyc/Nh?s=A",
+      "date_posted": "Sep 04",
+      "found_at": "2026-10-26T19:37:43.967986"
+    },
+    {
+      "id": "faf0b726ef641b14fa57204608192733",
+      "company": "Applied Intuition",
+      "role": "New Grad 2027: Cybersecurity Software Engineer",
+      "location": "Sunnyvale, CA",
+      "apply_url": "https://go.vansh.nyc/O8?s=A",
+      "date_posted": "Sep 04",
+      "found_at": "2026-10-26T19:37:43.967990"
+    },
+    {
+      "id": "e013fd7b7ea43b88acb90b3645ac4d67",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "role": "New Grad 2027: Software Development - AI",
+      "location": "Laurel, MD",
+      "apply_url": "https://go.vansh.nyc/NO?s=A",
+      "date_posted": "Sep 03",
+      "found_at": "2026-10-26T19:37:43.967994"
+    },
+    {
+      "id": "4ad166b9670a510c5d2407e655e0ff87",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "role": "New Grad 2027: Graduate - Multiple Teams",
+      "location": "Laurel, MD",
+      "apply_url": "https://go.vansh.nyc/NP?s=A",
+      "date_posted": "Sep 03",
+      "found_at": "2026-10-26T19:37:43.967998"
+    },
+    {
+      "id": "b6ca362650e8e787083f85ef4299782a",
+      "company": "Demiurge Studios",
+      "role": "New Grad 2027: Associate Software Engineer",
+      "location": "Remote",
+      "apply_url": "https://go.vansh.nyc/Ob?s=A",
+      "date_posted": "Sep 03",
+      "found_at": "2026-10-26T19:37:43.968001"
+    },
+    {
+      "id": "42ff298736b25626519398c3a2d3b2a3",
+      "company": "Vermeer",
+      "role": "New Grad 2027: Engineer I, Embedded Software Engineer",
+      "location": "Pella, IA",
+      "apply_url": "https://go.vansh.nyc/PL?s=A",
+      "date_posted": "Sep 02",
+      "found_at": "2026-10-26T19:37:43.968005"
+    },
+    {
+      "id": "b3dc4f0d290270084c6df225595b4bc2",
+      "company": "Trace Labs",
+      "role": "Researcher (Master's)",
+      "location": "New York, NY",
+      "apply_url": "https://go.vansh.nyc/NI?s=A",
+      "date_posted": "Sep 02",
+      "found_at": "2026-10-26T19:37:43.968009"
+    },
+    {
+      "id": "dfa585f662dc6e8cb3d092d8f123c0d3",
+      "company": "Stryker",
+      "role": "Design Engineer - Software, RISE",
+      "location": "Portage, MI",
+      "apply_url": "https://go.vansh.nyc/Og?s=A",
+      "date_posted": "Sep 02",
+      "found_at": "2026-10-26T19:37:43.968012"
+    },
+    {
+      "id": "a5b42c7f71e1d3a82c7446ded11a6061",
+      "company": "Newrez",
+      "role": "Data Product Engineering Operations Specialist",
+      "location": "Coppell, TX",
+      "apply_url": "https://go.vansh.nyc/NK?s=A",
+      "date_posted": "Sep 02",
+      "found_at": "2026-10-26T19:37:43.968016"
+    },
+    {
+      "id": "5ee3b565f3dc71cb910a6eef152e9a74",
+      "company": "Deluxe",
+      "role": "New Grad 2027: Data Driven Marketing Analyst, Audience Design",
+      "location": "New York, NY",
+      "apply_url": "https://go.vansh.nyc/NL?s=A",
+      "date_posted": "Sep 02",
+      "found_at": "2026-10-26T19:37:43.968019"
+    },
+    {
+      "id": "6d238f2c00f1d32b3bcc16fa14c51215",
+      "company": "Deluxe",
+      "role": "New Grad 2027: Data Driven Marketing Analyst, Performance Optimization",
+      "location": "New York, NY",
+      "apply_url": "https://go.vansh.nyc/NM?s=A",
+      "date_posted": "Sep 02",
+      "found_at": "2026-10-26T19:37:43.968023"
+    },
+    {
+      "id": "d34d265f6a9b60ee154f1bcb2c97238c",
+      "company": "American Express",
+      "role": "New Grad 2027: Software Engineer I, Enterprise Technology Services",
+      "location": "Sunrise, FL",
+      "apply_url": "https://go.vansh.nyc/Of?s=A",
+      "date_posted": "Sep 02",
+      "found_at": "2026-10-26T19:37:43.968027"
+    },
+    {
+      "id": "87fda62628c583b8c2b180386fa07439",
+      "company": "American Express",
+      "role": "New Grad 2027: AI Engineer 1, Enterprise Technology Services (Master's)",
+      "location": "New York, NY",
+      "apply_url": "https://go.vansh.nyc/ND?s=A",
+      "date_posted": "Sep 02",
+      "found_at": "2026-10-26T19:37:43.968031"
+    },
+    {
+      "id": "0e7e7f20f1c057b82017226994ac1f8e",
+      "company": "American Express",
+      "role": "New Grad 2027: AI Engineer 1, Enterprise Technology Services",
+      "location": "Sunrise, FL",
+      "apply_url": "https://go.vansh.nyc/NE?s=A",
+      "date_posted": "Sep 02",
+      "found_at": "2026-10-26T19:37:43.968034"
+    },
+    {
+      "id": "1ed70fa1e18dba595bffd3e67ce3525f",
+      "company": "American Express",
+      "role": "New Grad 2027: AI Engineer 1, Enterprise Technology Services",
+      "location": "New York, NY",
+      "apply_url": "https://go.vansh.nyc/NF?s=A",
+      "date_posted": "Sep 02",
+      "found_at": "2026-10-26T19:37:43.968038"
+    },
+    {
+      "id": "077f3680352adb0dc49b3400a7b525e9",
+      "company": "American Express",
+      "role": "New Grad 2027: Software Engineer 1, Enterprise Technology Services",
+      "location": "Charlotte, NC",
+      "apply_url": "https://go.vansh.nyc/NG?s=A",
+      "date_posted": "Sep 02",
+      "found_at": "2026-10-26T19:37:43.968042"
+    },
+    {
+      "id": "a8ad95c60c113b96acbe428395e3242e",
+      "company": "American Express",
+      "role": "New Grad 2027: AI Engineer 1, Enterprise Technology Services (Master's)",
+      "location": "Sunrise, FL",
+      "apply_url": "https://go.vansh.nyc/NH?s=A",
+      "date_posted": "Sep 02",
+      "found_at": "2026-10-26T19:37:43.968046"
+    },
+    {
+      "id": "81490d5d80bc7108b8fadbece185df0c",
+      "company": "Zip",
+      "role": "New Grad 2027: Software Engineer",
+      "location": "San Francisco, CA",
+      "apply_url": "https://go.vansh.nyc/Nq?s=A",
+      "date_posted": "Sep 01",
+      "found_at": "2026-10-26T19:37:43.968049"
+    },
+    {
+      "id": "f7418666fece470795b54011910ed774",
+      "company": "Wintermute",
+      "role": "New Grad 2027: Algorithmic Trader",
+      "location": "New York, NY",
+      "apply_url": "https://go.vansh.nyc/Ns?s=A",
+      "date_posted": "Sep 01",
+      "found_at": "2026-10-26T19:37:43.968053"
+    },
+    {
+      "id": "a9eeb0c53ac7916d7c6bb96a5a56b72c",
+      "company": "Stripe",
+      "role": "New Grad 2027: Software Engineer",
+      "location": "San Francisco, CA</br>Seattle, WA</br>New York, NY",
+      "apply_url": "https://go.vansh.nyc/No?s=A",
+      "date_posted": "Sep 01",
+      "found_at": "2026-10-26T19:37:43.968057"
+    },
+    {
+      "id": "1672c86b625bd9788016bc28c29217ab",
+      "company": "NVIDIA",
+      "role": "Applied Systems Engineering Rotation Engineer",
+      "location": "Santa Clara, CA",
+      "apply_url": "https://go.vansh.nyc/NJ?s=A",
+      "date_posted": "Sep 01",
+      "found_at": "2026-10-26T19:37:43.968061"
+    },
+    {
+      "id": "1ecfbf6032a26b05dc64140ee047965f",
+      "company": "Meyer Distributing",
+      "role": "Junior Full Stack Developer",
+      "location": "Indianapolis, IN",
+      "apply_url": "https://go.vansh.nyc/Nn?s=A",
+      "date_posted": "Sep 01",
+      "found_at": "2026-10-26T19:37:43.968065"
+    },
+    {
+      "id": "c923d915e05212de862855e700f1ae2d",
+      "company": "LexisNexis Risk Solutions",
+      "role": "New Grad 2027: Software Engineer",
+      "location": "Alpharetta, GA",
+      "apply_url": "https://go.vansh.nyc/Nm?s=A",
+      "date_posted": "Sep 01",
+      "found_at": "2026-10-26T19:37:43.968068"
+    },
+    {
+      "id": "a2243a503995144f861bbb7f8a22866d",
+      "company": "Katalyst Space Technologies",
+      "role": "Software Engineer 1",
+      "location": "Broomfield, CO",
+      "apply_url": "https://go.vansh.nyc/Nl?s=A",
+      "date_posted": "Sep 01",
+      "found_at": "2026-10-26T19:37:43.968072"
+    },
+    {
+      "id": "7e0f9065822f0079d074e2976f850dc0",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "role": "New Grad 2027: Software Developer, Modeling, Simulation and Analysis Tool",
+      "location": "Laurel, MD",
+      "apply_url": "https://go.vansh.nyc/Nt?s=A",
+      "date_posted": "Sep 01",
+      "found_at": "2026-10-26T19:37:43.968076"
+    },
+    {
+      "id": "7d5c6188794386e05eb033548348a659",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "role": "New Grad 2027: Engineer/Physicist/Computer Scientist, Weapon Control",
+      "location": "Laurel, MD",
+      "apply_url": "https://go.vansh.nyc/Nu?s=A",
+      "date_posted": "Sep 01",
+      "found_at": "2026-10-26T19:37:43.968080"
+    },
+    {
+      "id": "cc3d362f7ebaa3e61b985e133ba6e77f",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "role": "New Grad 2027: Software Developer, Engagement Optimization",
+      "location": "Laurel, MD",
+      "apply_url": "https://go.vansh.nyc/Nv?s=A",
+      "date_posted": "Sep 01",
+      "found_at": "2026-10-26T19:37:43.968084"
+    },
+    {
+      "id": "73bf79bb8a3eef3a2b32d1d6e82d62dd",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "role": "New Grad 2027: Software Developer, Tactical System Prototyping and Deployment",
+      "location": "Laurel, MD",
+      "apply_url": "https://go.vansh.nyc/Nw?s=A",
+      "date_posted": "Sep 01",
+      "found_at": "2026-10-26T19:37:43.968088"
+    },
+    {
+      "id": "36642ad0441543a36b838a27fae599f4",
+      "company": "Ciena",
+      "role": "WaveLogic Software Developer",
+      "location": "Atlanta, GA",
+      "apply_url": "https://go.vansh.nyc/Nk?s=A",
+      "date_posted": "Sep 01",
+      "found_at": "2026-10-26T19:37:43.968092"
+    },
+    {
+      "id": "2da152b7530700020543eb4903a2e296",
+      "company": "Blue Origin",
+      "role": "New Grad 2027: Avionics / Embedded Software Engineer I \ud83c\uddfa\ud83c\uddf8",
+      "location": "<details><summary>**4 locations**</summary>Van Horn, TX</br>Space Coast, FL</br>Huntsville, AL</br>Denver, CO</details>",
+      "apply_url": "https://go.vansh.nyc/O9?s=A",
+      "date_posted": "Sep 01",
+      "found_at": "2026-10-26T19:37:43.968097"
+    },
+    {
+      "id": "a6c691211947204b3049a8fae9476381",
+      "company": "Blue Origin",
+      "role": "Software Development Engineer I \ud83d\udec2",
+      "location": "Kent, WA",
+      "apply_url": "https://go.vansh.nyc/Nj?s=A",
+      "date_posted": "Sep 01",
+      "found_at": "2026-10-26T19:37:43.968102"
+    },
+    {
+      "id": "45dd28ba3910a7dca719905d9749fbe5",
+      "company": "American Express",
+      "role": "AI Engineer",
+      "location": "Phoenix, AZ",
+      "apply_url": "https://go.vansh.nyc/Nx?s=A",
+      "date_posted": "Sep 01",
+      "found_at": "2026-10-26T19:37:43.968110"
+    },
+    {
+      "id": "3f3d23ae251bd7c807cd769e473c8971",
+      "company": "American Express",
+      "role": "AI Engineer 1, Enterprise Technology Services (Master's)",
+      "location": "Palo Alto, CA",
+      "apply_url": "https://go.vansh.nyc/Ny?s=A",
+      "date_posted": "Sep 01",
+      "found_at": "2026-10-26T19:37:43.968114"
+    },
+    {
+      "id": "a78b9e0e3ff1d16c93d68775434eb500",
+      "company": "American Express",
+      "role": "AI Engineer 1, Enterprise Technology Services",
+      "location": "Atlanta, GA",
+      "apply_url": "https://go.vansh.nyc/Nz?s=A",
+      "date_posted": "Sep 01",
+      "found_at": "2026-10-26T19:37:43.968118"
+    },
+    {
+      "id": "720085f2872babda670d9c7a9e8b0fcc",
+      "company": "American Express",
+      "role": "AI Engineer 1, Enterprise Technology Services (Master's)",
+      "location": "Atlanta, GA",
+      "apply_url": "https://go.vansh.nyc/NA?s=A",
+      "date_posted": "Sep 01",
+      "found_at": "2026-10-26T19:37:43.968122"
+    },
+    {
+      "id": "e26e8bf4acdb61da4e4961ab0525feac",
+      "company": "American Express",
+      "role": "New Grad 2027: AI Engineer 1, Enterprise Technology Services",
+      "location": "Palo Alto, CA",
+      "apply_url": "https://go.vansh.nyc/NB?s=A",
+      "date_posted": "Sep 01",
+      "found_at": "2026-10-26T19:37:43.968126"
+    },
+    {
+      "id": "03a1899114d2d1045080f92987f2e633",
+      "company": "American Express",
+      "role": "New Grad 2027: AI Engineer 1 (Master's)",
+      "location": "Phoenix, AZ",
+      "apply_url": "https://go.vansh.nyc/NC?s=A",
+      "date_posted": "Sep 01",
+      "found_at": "2026-10-26T19:37:43.968129"
+    },
+    {
+      "id": "d8b25492bc748e25bc26e59e10565d92",
+      "company": "GMO",
+      "role": "New Grad 2027: Quantitative Technology Associate",
+      "location": "Boston, MA",
+      "apply_url": "https://go.vansh.nyc/Nr?s=A",
+      "date_posted": "Aug 31",
+      "found_at": "2026-10-26T19:37:43.968133"
+    },
+    {
+      "id": "f28890e0237f73f452a091ce8655b53e",
+      "company": "Netic",
+      "role": "New Grad 2027: Forward Deployed Engineer (FDE)",
+      "location": "San Francisco, CA",
+      "apply_url": "https://go.vansh.nyc/OW?s=A",
+      "date_posted": "Aug 30",
+      "found_at": "2026-10-26T19:37:43.968137"
+    },
+    {
+      "id": "9cc1496c8785041f2ee5103b80bfe1f3",
+      "company": "N1",
+      "role": "Software Engineer (Full Stack)",
+      "location": "New York, NY",
+      "apply_url": "https://go.vansh.nyc/OV?s=A",
+      "date_posted": "Aug 30",
+      "found_at": "2026-10-26T19:37:43.968140"
+    },
+    {
+      "id": "33bb29dc635b5844f31862ca1ab0c5e8",
+      "company": "WeRide",
+      "role": "New Grad 2027: Software Engineer",
+      "location": "San Jose, CA",
+      "apply_url": "https://go.vansh.nyc/P2?s=A",
+      "date_posted": "Aug 29",
+      "found_at": "2026-10-26T19:37:43.968144"
+    },
+    {
+      "id": "9fb2cf894a98a2684f9fca4611f1cd9c",
+      "company": "Veeva Systems",
+      "role": "New Grad 2027: Associate Software Engineer \ud83d\udec2",
+      "location": "Boston, MA",
+      "apply_url": "https://go.vansh.nyc/OZ?s=A",
+      "date_posted": "Aug 29",
+      "found_at": "2026-10-26T19:37:43.968149"
+    },
+    {
+      "id": "d12cf8c8ac25d9d9c20d8992209cb608",
+      "company": "Veeva Systems",
+      "role": "New Grad 2027: Associate Software Engineer \ud83d\udec2",
+      "location": "Pleasanton, CA",
+      "apply_url": "https://go.vansh.nyc/P0?s=A",
+      "date_posted": "Aug 29",
+      "found_at": "2026-10-26T19:37:43.968153"
+    },
+    {
+      "id": "f5e304edc5fe477ee928b61c3edf7999",
+      "company": "Veeva Systems",
+      "role": "New Grad 2027: Associate Software Engineer \ud83d\udec2",
+      "location": "Columbus, OH",
+      "apply_url": "https://go.vansh.nyc/P1?s=A",
+      "date_posted": "Aug 29",
+      "found_at": "2026-10-26T19:37:43.968158"
+    },
+    {
+      "id": "2e7f20147d717fd6074eaa890dfb2d55",
+      "company": "TikTok",
+      "role": "New Grad 2027: Machine Learning Engineer, E-Commerce Knowledge Graph",
+      "location": "San Jose, CA",
+      "apply_url": "https://go.vansh.nyc/PG?s=A",
+      "date_posted": "Aug 29",
+      "found_at": "2026-10-26T19:37:43.968162"
+    },
+    {
+      "id": "15ef26fb0c269555fa5c8f5f84ef8235",
+      "company": "Lightfield",
+      "role": "Software Engineer, Applied AI",
+      "location": "San Francisco, CA",
+      "apply_url": "https://go.vansh.nyc/OY?s=A",
+      "date_posted": "Aug 29",
+      "found_at": "2026-10-26T19:37:43.968166"
+    },
+    {
+      "id": "16ff10d261afeac6b16924f70ec81bd5",
+      "company": "Cogent Security",
+      "role": "Forward Deployed Agent Engineer",
+      "location": "New York, NY",
+      "apply_url": "https://go.vansh.nyc/PF?s=A",
+      "date_posted": "Aug 29",
+      "found_at": "2026-10-26T19:37:43.968169"
+    },
+    {
+      "id": "2a74a9873e45b4e913a86dd8fd77f2ef",
+      "company": "Atoms",
+      "role": "New Grad 2027: Software Engineer",
+      "location": "<details><summary>**5 locations**</summary>Seattle, WA</br>San Francisco, CA</br>Los Angeles, CA</br>New York, NY</br>Mountain View, CA</details>",
+      "apply_url": "https://go.vansh.nyc/OX?s=A",
+      "date_posted": "Aug 29",
+      "found_at": "2026-10-26T19:37:43.968173"
+    },
+    {
+      "id": "48d5800e2bcb35afaf397c71b60e6302",
+      "company": "Wolverine Trading",
+      "role": "Entry Level C++ Software Engineer \ud83d\udec2",
+      "location": "Chicago, IL",
+      "apply_url": "https://go.vansh.nyc/Pb?s=A",
+      "date_posted": "Aug 28",
+      "found_at": "2026-10-26T19:37:43.968178"
+    },
+    {
+      "id": "f4d3165eb44c23fb3113d8dd0dcaf047",
+      "company": "Viavi Solutions",
+      "role": "Development Engineer",
+      "location": "Colorado Springs, CO",
+      "apply_url": "https://go.vansh.nyc/PB?s=A",
+      "date_posted": "Aug 28",
+      "found_at": "2026-10-26T19:37:43.968181"
+    },
+    {
+      "id": "d7ed8a4f0281a868e276e9973b8d88cf",
+      "company": "Viavi Solutions",
+      "role": "Development Engineer",
+      "location": "Minnetonka, MN",
+      "apply_url": "https://go.vansh.nyc/PE?s=A",
+      "date_posted": "Aug 28",
+      "found_at": "2026-10-26T19:37:43.968185"
+    },
+    {
+      "id": "ec124d876ee4cf44ac4eaaf566068352",
+      "company": "Susquehanna International Group",
+      "role": "Trading System Engineer",
+      "location": "Bala Cynwyd, PA",
+      "apply_url": "https://go.vansh.nyc/P9?s=A",
+      "date_posted": "Aug 28",
+      "found_at": "2026-10-26T19:37:43.968189"
+    },
+    {
+      "id": "d0240a307ff64b0debdbcf04e18c0c5a",
+      "company": "Susquehanna International Group",
+      "role": "Quantitative Strategy Developer",
+      "location": "Bala Cynwyd, PA",
+      "apply_url": "https://go.vansh.nyc/Pa?s=A",
+      "date_posted": "Aug 28",
+      "found_at": "2026-10-26T19:37:43.968192"
+    },
+    {
+      "id": "aabc15dcec5cb94d6431553c242b81f5",
+      "company": "Notion",
+      "role": "Software Engineer",
+      "location": "San Francisco, CA",
+      "apply_url": "https://go.vansh.nyc/P8?s=A",
+      "date_posted": "Aug 28",
+      "found_at": "2026-10-26T19:37:43.968196"
+    },
+    {
+      "id": "197bacbcb4755783d40a2a06a3f13f23",
+      "company": "Newrez",
+      "role": "Data & Analytics Operations Specialist",
+      "location": "Fort Washington, PA",
+      "apply_url": "https://go.vansh.nyc/PC?s=A",
+      "date_posted": "Aug 28",
+      "found_at": "2026-10-26T19:37:43.968199"
+    },
+    {
+      "id": "2b6694c69463d1c193265c6fa7e34ee0",
+      "company": "Iberdrola Group",
+      "role": "Technology, Digital & Analytics \ud83d\udec2",
+      "location": "<details><summary>**7 locations**</summary>Boston, MA</br>Rochester, NY</br>Augusta, ME</br>Orange, CT</br>Binghamton, NY</br>Portland, OR</br>Portland, ME</details>",
+      "apply_url": "https://go.vansh.nyc/PD?s=A",
+      "date_posted": "Aug 28",
+      "found_at": "2026-10-26T19:37:43.968204"
+    },
+    {
+      "id": "5dac9a0a0a2d915d4654bed96e9d4d21",
+      "company": "Hewlett Packard Enterprise",
+      "role": "Data Science",
+      "location": "<details><summary>**10 locations**</summary>Andover, MA</br>Bloomington, MN</br>San Jose, CA</br>Spring, TX</br>Durham, NC</br>Westford, MA</br>Chippewa Falls, WI</br>Fort Collins, CO</br>Sunnyvale, CA</br>Roseville, CA</details>",
+      "apply_url": "https://go.vansh.nyc/PA?s=A",
+      "date_posted": "Aug 28",
+      "found_at": "2026-10-26T19:37:43.968209"
+    },
+    {
+      "id": "b4cdc82e6b0f5a8cd314803ddd551924",
+      "company": "General Matter",
+      "role": "Software Engineer",
+      "location": "Los Angeles, CA",
+      "apply_url": "https://go.vansh.nyc/P7?s=A",
+      "date_posted": "Aug 28",
+      "found_at": "2026-10-26T19:37:43.968212"
+    },
+    {
+      "id": "00c44351c7893d4c6d473b41c6a441df",
+      "company": "Freeform",
+      "role": "New Grad 2027: Software Engineer",
+      "location": "Los Angeles, CA",
+      "apply_url": "https://go.vansh.nyc/P6?s=A",
+      "date_posted": "Aug 28",
+      "found_at": "2026-10-26T19:37:43.968216"
+    },
+    {
+      "id": "b461673da1730438f783588ba08a328c",
+      "company": "Composio",
+      "role": "Fullstack Engineer, Product Team",
+      "location": "San Francisco, CA",
+      "apply_url": "https://go.vansh.nyc/P5?s=A",
+      "date_posted": "Aug 28",
+      "found_at": "2026-10-26T19:37:43.968219"
+    },
+    {
+      "id": "0bb8a921a1816f1ff350a0239b0410b8",
+      "company": "CACI",
+      "role": "Software Engineer",
+      "location": "Annapolis Junction, MD",
+      "apply_url": "https://go.vansh.nyc/P4?s=A",
+      "date_posted": "Aug 28",
+      "found_at": "2026-10-26T19:37:43.968223"
+    },
+    {
+      "id": "8ab6428439564e3e3172e7808cd07730",
+      "company": "Applied Intuition",
+      "role": "New Grad 2027: Software Engineer",
+      "location": "Ann Arbor, MI</br>Sunnyvale, CA",
+      "apply_url": "https://go.vansh.nyc/P3?s=A",
+      "date_posted": "Aug 28",
+      "found_at": "2026-10-26T19:37:43.968226"
+    },
+    {
+      "id": "347d4c82ef70ac396badbc3c6b3e71b8",
+      "company": "TikTok",
+      "role": "New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Video",
+      "location": "Seattle, WA",
+      "apply_url": "https://go.vansh.nyc/Pu?s=A",
+      "date_posted": "Aug 27",
+      "found_at": "2026-10-26T19:37:43.968230"
+    },
+    {
+      "id": "e6b1ac539273008a1ed961563ed9891f",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "role": "New Grad 2027: Data Science, System Performance Evaluation",
+      "location": "Laurel, MD",
+      "apply_url": "https://go.vansh.nyc/Pv?s=A",
+      "date_posted": "Aug 27",
+      "found_at": "2026-10-26T19:37:43.968234"
+    },
+    {
+      "id": "daa3a69741fd8c878073f1f623a98ec1",
+      "company": "IMC Trading",
+      "role": "New Grad 2027: Performance Engineer",
+      "location": "Chicago, IL",
+      "apply_url": "https://go.vansh.nyc/Pz?s=A",
+      "date_posted": "Aug 27",
+      "found_at": "2026-10-26T19:37:43.968238"
+    },
+    {
+      "id": "7c238b88c98fd1577920674f8a60c5d2",
+      "company": "GLS",
+      "role": "New Grad 2027: Infrastructure Administrator",
+      "location": "Greenville, SC",
+      "apply_url": "https://go.vansh.nyc/PN?s=A",
+      "date_posted": "Aug 27",
+      "found_at": "2026-10-26T19:37:43.968242"
+    },
+    {
+      "id": "cfd1d6d749b497234b95e628516bcc7d",
+      "company": "GLS",
+      "role": "New Grad 2027: IT Security Analyst",
+      "location": "Greenville, SC",
+      "apply_url": "https://go.vansh.nyc/PO?s=A",
+      "date_posted": "Aug 27",
+      "found_at": "2026-10-26T19:37:43.968245"
+    },
+    {
+      "id": "6f087cf8e0a09f203619cfc2a76b64c4",
+      "company": "Global Lending Services",
+      "role": "New Grad 2027: Software Developer",
+      "location": "Greenville, SC",
+      "apply_url": "https://go.vansh.nyc/Pw?s=A",
+      "date_posted": "Aug 27",
+      "found_at": "2026-10-26T19:37:43.968249"
+    },
+    {
+      "id": "eec3f047611ca8b69ef016a88d69da67",
+      "company": "Global Lending Services",
+      "role": "New Grad 2027: Data Scientist",
+      "location": "Greenville, SC",
+      "apply_url": "https://go.vansh.nyc/Px?s=A",
+      "date_posted": "Aug 27",
+      "found_at": "2026-10-26T19:37:43.968253"
+    },
+    {
+      "id": "980bbd58a541ea206f04784c38ad592b",
+      "company": "Booz Allen",
+      "role": "New Grad 2027: Data Engineer",
+      "location": "Atlanta, GA",
+      "apply_url": "https://go.vansh.nyc/Py?s=A",
+      "date_posted": "Aug 27",
+      "found_at": "2026-10-26T19:37:43.968256"
+    },
+    {
+      "id": "5d9fe6261a19d31f4c3c2f92e74d05f5",
+      "company": "Booz Allen",
+      "role": "New Grad 2027: Quantum Research Professional \ud83c\uddfa\ud83c\uddf8",
+      "location": "Washington, DC",
+      "apply_url": "https://go.vansh.nyc/PH?s=A",
+      "date_posted": "Aug 27",
+      "found_at": "2026-10-26T19:37:43.968261"
+    },
+    {
+      "id": "760062cc1d9db94b56ea9ca294d0afc5",
+      "company": "TikTok",
+      "role": "New Grad 2027: Data Engineer, Data Platform E-commerce",
+      "location": "San Jose, CA",
+      "apply_url": "https://go.vansh.nyc/Po?s=A",
+      "date_posted": "Aug 26",
+      "found_at": "2026-10-26T19:37:43.968265"
+    },
+    {
+      "id": "bc1e9e44c17641b7ce43df5f9deb2c50",
+      "company": "TikTok",
+      "role": "New Grad 2027: Data Engineer, Data Platform Global Live",
+      "location": "San Jose, CA",
+      "apply_url": "https://go.vansh.nyc/Pp?s=A",
+      "date_posted": "Aug 26",
+      "found_at": "2026-10-26T19:37:43.968269"
+    },
+    {
+      "id": "e130a3101a632951e5cd9e7bc9f28d0a",
+      "company": "Sim",
+      "role": "Software Engineer, Agent Harness",
+      "location": "San Francisco, CA",
+      "apply_url": "https://go.vansh.nyc/PJ?s=A",
+      "date_posted": "Aug 26",
+      "found_at": "2026-10-26T19:37:43.968272"
+    },
+    {
+      "id": "a2d36b2d17dc3ab32310c49a38605bc5",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "role": "New Grad 2027: AI/ML Research Engineer",
+      "location": "Laurel, MD",
+      "apply_url": "https://go.vansh.nyc/Ps?s=A",
+      "date_posted": "Aug 26",
+      "found_at": "2026-10-26T19:37:43.968276"
+    },
+    {
+      "id": "6a9f48754c2a931c166254f45f284f4f",
+      "company": "Embedding VC",
+      "role": "AI Engineer",
+      "location": "San Francisco, CA",
+      "apply_url": "https://go.vansh.nyc/Pq?s=A",
+      "date_posted": "Aug 26",
+      "found_at": "2026-10-26T19:37:43.968280"
+    },
+    {
+      "id": "b59b1fefc66a67b31437452274855dd7",
+      "company": "Domino's",
+      "role": "New Grad 2027: Technology Rotation Program, Multiple Teams",
+      "location": "Ann Arbor, MI",
+      "apply_url": "https://go.vansh.nyc/Pr?s=A",
+      "date_posted": "Aug 26",
+      "found_at": "2026-10-26T19:37:43.968284"
+    },
+    {
+      "id": "6d5f98b221d3ebaf40110b2802f2bd5b",
+      "company": "Booz Allen",
+      "role": "New Grad 2027: Data Scientist \ud83c\uddfa\ud83c\uddf8",
+      "location": "<details><summary>**11 locations**</summary>Honolulu, HI</br>Annapolis Junction, MD</br>Colorado Springs, CO</br>McLean, VA</br>Rome, NY</br>Panama City, FL</br>Charleston, SC</br>Atlanta, GA</br>Huntsville, AL</br>San Diego, CA</br>El Segundo, CA</details>",
+      "apply_url": "https://go.vansh.nyc/Pt?s=A",
+      "date_posted": "Aug 26",
+      "found_at": "2026-10-26T19:37:43.968289"
+    },
+    {
+      "id": "39aa6eb0591f54173829104102a5b4ec",
+      "company": "Voleon",
+      "role": "New Grad 2027: Software Engineer, University Hire",
+      "location": "Berkeley, CA</br>New York, NY",
+      "apply_url": "https://go.vansh.nyc/Pm?s=A",
+      "date_posted": "Aug 25",
+      "found_at": "2026-10-26T19:37:43.968293"
+    },
+    {
+      "id": "93b09d2d10be7216eef7d2f9cf20f430",
+      "company": "DTCC",
+      "role": "New Grad 2027: Application Developer Analyst \ud83d\udec2",
+      "location": "Tampa, FL</br>Dallas, TX</br>Jersey City, NJ",
+      "apply_url": "https://go.vansh.nyc/Pn?s=A",
+      "date_posted": "Aug 25",
+      "found_at": "2026-10-26T19:37:43.968297"
+    },
+    {
+      "id": "94fec5e773d144e97e93119d77be4187",
+      "company": "SpaceX",
+      "role": "New Grad 2027: Engineer, Software Security, Starlink",
+      "location": "Hawthorne, CA",
+      "apply_url": "https://go.vansh.nyc/Pc?s=A",
+      "date_posted": "Aug 24",
+      "found_at": "2026-10-26T19:37:43.968301"
+    },
+    {
+      "id": "9779852d289c38022a4584b8571bb4cc",
+      "company": "Procter & Gamble",
+      "role": "New Grad 2027: Data Science (Master's)",
+      "location": "Cincinnati, OH",
+      "apply_url": "https://go.vansh.nyc/Pj?s=A",
+      "date_posted": "Aug 24",
+      "found_at": "2026-10-26T19:37:43.968305"
+    },
+    {
+      "id": "683c1cb9956f4702b1d4f2ad92ac4ea8",
+      "company": "Procter & Gamble",
+      "role": "New Grad 2027: Data and AI Engineering",
+      "location": "Cincinnati, OH",
+      "apply_url": "https://go.vansh.nyc/Pk?s=A",
+      "date_posted": "Aug 24",
+      "found_at": "2026-10-26T19:37:43.968308"
+    },
+    {
+      "id": "7bf554bc41513bc2e846532a42f07f4f",
+      "company": "Procter & Gamble",
+      "role": "New Grad 2027: IT Engineering - Software, Platform, & Network",
+      "location": "Cincinnati, OH",
+      "apply_url": "https://go.vansh.nyc/PI?s=A",
+      "date_posted": "Aug 24",
+      "found_at": "2026-10-26T19:37:43.968312"
+    },
+    {
+      "id": "c1798ddb7f98240612608f1f0d7e17ee",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "role": "New Grad 2027: Artificial Intelligence and Complex Systems BS/MS",
+      "location": "Laurel, MD",
+      "apply_url": "https://go.vansh.nyc/Pl?s=A",
+      "date_posted": "Aug 24",
+      "found_at": "2026-10-26T19:37:43.968316"
+    },
+    {
+      "id": "93efcdddeffdb6705c1b4ad1ff375c7f",
+      "company": "Booz Allen",
+      "role": "New Grad 2027: Software Developer \ud83c\uddfa\ud83c\uddf8",
+      "location": "<details><summary>**11 locations**</summary>Honolulu, HI</br>Annapolis Junction, MD</br>Colorado Springs, CO</br>McLean, VA</br>Rome, NY</br>Panama City, FL</br>Charleston, SC</br>Atlanta, GA</br>Huntsville, AL</br>San Diego, CA</br>El Segundo, CA</details>",
+      "apply_url": "https://go.vansh.nyc/Ph?s=A",
+      "date_posted": "Aug 24",
+      "found_at": "2026-10-26T19:37:43.968321"
+    },
+    {
+      "id": "ad41c21b42383c72b00693c0d38681d4",
+      "company": "SpaceX",
+      "role": "New Grad 2027: Engineer, Software (Application Software)",
+      "location": "Hawthorne, CA",
+      "apply_url": "https://go.vansh.nyc/Pd?s=A",
+      "date_posted": "Aug 22",
+      "found_at": "2026-10-26T19:37:43.968325"
+    },
+    {
+      "id": "6a765e85d72e22faa79c8504d0e72f85",
+      "company": "SpaceX",
+      "role": "Engineer, Software (Starship)",
+      "location": "Starbase, TX",
+      "apply_url": "https://go.vansh.nyc/Pe?s=A",
+      "date_posted": "Aug 22",
+      "found_at": "2026-10-26T19:37:43.968329"
+    },
+    {
+      "id": "cec3d16206ee4c76e407da90b7373c6e",
+      "company": "TikTok",
+      "role": "New Grad 2027: Software Engineer, Search Data Infra",
+      "location": "San Jose, CA",
+      "apply_url": "https://go.vansh.nyc/PK?s=A",
+      "date_posted": "Aug 21",
+      "found_at": "2026-10-26T19:37:43.968333"
+    },
+    {
+      "id": "7d1ee8a8b420fd5ac770264a913d82d9",
+      "company": "NW",
+      "role": "Cloud System Administrator",
+      "location": "Sterling, VA",
+      "apply_url": "https://go.vansh.nyc/PP?s=A",
+      "date_posted": "Aug 21",
+      "found_at": "2026-10-26T19:37:43.968336"
+    },
+    {
+      "id": "ed48d4c08570fb919881884063d143b9",
+      "company": "SAIC",
+      "role": "Software Systems Engineer (Master's)",
+      "location": "Chantilly, VA",
+      "apply_url": "https://go.vansh.nyc/PQ?s=A",
+      "date_posted": "Aug 20",
+      "found_at": "2026-10-26T19:37:43.968340"
+    },
+    {
+      "id": "36bf5504a2b045c61c8b46058653bef7",
+      "company": "JPMorganChase",
+      "role": "Software Engineer Program",
+      "location": "<details><summary>**9 locations**</summary>Palo Alto, CA</br>Houston, TX</br>Tampa, FL</br>Plano, TX</br>Chicago, IL</br>Jersey City, NJ</br>Columbus, OH</br>New York, NY</br>Wilmington, DE</details>",
+      "apply_url": "https://go.vansh.nyc/Pf?s=A",
+      "date_posted": "Aug 20",
+      "found_at": "2026-10-26T19:37:43.968344"
+    },
+    {
+      "id": "ca53adb5c019729d81e91f868a003dd6",
+      "company": "JPMorganChase",
+      "role": "New Grad 2027: Software Engineer Program",
+      "location": "<details><summary>**9 locations**</summary>Palo Alto, CA</br>Houston, TX</br>Tampa, FL</br>Plano, TX</br>Chicago, IL</br>Jersey City, NJ</br>Columbus, OH</br>New York, NY</br>Wilmington, DE</details>",
+      "apply_url": "https://go.vansh.nyc/Pg?s=A",
+      "date_posted": "Aug 20",
+      "found_at": "2026-10-26T19:37:43.968348"
+    },
+    {
+      "id": "d25bc8df770157939bccf15d7129f488",
+      "company": "Cummins",
+      "role": "Electronic Systems Engineer - Software",
+      "location": "Columbus, IN",
+      "apply_url": "https://go.vansh.nyc/PM?s=A",
+      "date_posted": "Aug 10",
+      "found_at": "2026-10-26T19:37:43.968352"
     },
     {
       "id": "131f24e2ca189fb4cee1b596703f8deb",
@@ -1287,7 +2988,7 @@
       "location": "Chicago, IL</br>New York, NY",
       "apply_url": "https://go.vansh.nyc/Aq?s=A",
       "date_posted": "Aug 01",
-      "found_at": "2026-10-26T13:41:20.439706"
+      "found_at": "2026-10-26T19:37:43.968356"
     },
     {
       "id": "e67d44d96a1f19c27ea77247c2d31500",
@@ -1296,7 +2997,7 @@
       "location": "Chicago, IL",
       "apply_url": "https://go.vansh.nyc/Ap?s=A",
       "date_posted": "Aug 01",
-      "found_at": "2026-10-26T13:41:20.439709"
+      "found_at": "2026-10-26T19:37:43.968360"
     },
     {
       "id": "a1d69be0832c89d347aaf0bf117c088e",
@@ -1305,7 +3006,7 @@
       "location": "State College, PA",
       "apply_url": "https://go.vansh.nyc/Al?s=A",
       "date_posted": "Jul 31",
-      "found_at": "2026-10-26T13:41:20.439713"
+      "found_at": "2026-10-26T19:37:43.968364"
     },
     {
       "id": "ffe2349aa52547f00896b2b18e32ba85",
@@ -1314,7 +3015,7 @@
       "location": "Durham, NC",
       "apply_url": "https://go.vansh.nyc/Ab?s=A",
       "date_posted": "Jul 31",
-      "found_at": "2026-10-26T13:41:20.439716"
+      "found_at": "2026-10-26T19:37:43.968368"
     },
     {
       "id": "10831525658c441bf52d1aa14ebeb8fa",
@@ -1323,7 +3024,7 @@
       "location": "Seattle, WA",
       "apply_url": "https://go.vansh.nyc/Ai?s=A",
       "date_posted": "Jul 31",
-      "found_at": "2026-10-26T13:41:20.439719"
+      "found_at": "2026-10-26T19:37:43.968372"
     },
     {
       "id": "8d53575d261cd15c5f022e11efc1fa5b",
@@ -1332,7 +3033,7 @@
       "location": "San Diego, CA",
       "apply_url": "https://go.vansh.nyc/Ah?s=A",
       "date_posted": "Jul 31",
-      "found_at": "2026-10-26T13:41:20.439723"
+      "found_at": "2026-10-26T19:37:43.968376"
     },
     {
       "id": "5e10a2dc694b4321c5b858bc834f069d",
@@ -1341,7 +3042,7 @@
       "location": "Annapolis Junction, MD",
       "apply_url": "https://go.vansh.nyc/zP?s=A",
       "date_posted": "Mar 25",
-      "found_at": "2026-10-26T13:41:20.439727"
+      "found_at": "2026-10-26T19:37:43.968380"
     },
     {
       "id": "0d286249e5cbb74615bdd1b22ed08385",
@@ -1350,7 +3051,7 @@
       "location": "Austin, TX",
       "apply_url": "https://go.vansh.nyc/zD?s=A",
       "date_posted": "Feb 15",
-      "found_at": "2026-10-26T13:41:20.439731"
+      "found_at": "2026-10-26T19:37:43.968384"
     },
     {
       "id": "8844770c5aab9a86474da73f75ff269c",
@@ -1359,7 +3060,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/zt?s=A",
       "date_posted": "Feb 15",
-      "found_at": "2026-10-26T13:41:20.439734"
+      "found_at": "2026-10-26T19:37:43.968388"
     },
     {
       "id": "c322ce786dd10c88e9392080fcd1d527",
@@ -1368,7 +3069,7 @@
       "location": "Fremont, CA",
       "apply_url": "https://go.vansh.nyc/zs?s=A",
       "date_posted": "Feb 15",
-      "found_at": "2026-10-26T13:41:20.439737"
+      "found_at": "2026-10-26T19:37:43.968392"
     },
     {
       "id": "c4c823642a219a8cf0be486ad4d17688",
@@ -1377,7 +3078,7 @@
       "location": "Cupertino, CA",
       "apply_url": "https://go.vansh.nyc/zp?s=A",
       "date_posted": "Feb 15",
-      "found_at": "2026-10-26T13:41:20.439741"
+      "found_at": "2026-10-26T19:37:43.968395"
     },
     {
       "id": "74e2b3c886f4db6a94e489d7cd11117a",
@@ -1386,7 +3087,7 @@
       "location": "Sunnyvale, CA",
       "apply_url": "https://go.vansh.nyc/zo?s=A",
       "date_posted": "Feb 15",
-      "found_at": "2026-10-26T13:41:20.439744"
+      "found_at": "2026-10-26T19:37:43.968399"
     },
     {
       "id": "b1a20ea385921bc21d0bb8e7735c986f",
@@ -1395,7 +3096,7 @@
       "location": "Seattle, WA",
       "apply_url": "https://go.vansh.nyc/zz?s=A",
       "date_posted": "Feb 15",
-      "found_at": "2026-10-26T13:41:20.439747"
+      "found_at": "2026-10-26T19:37:43.968402"
     },
     {
       "id": "1d0dd093d858b0f42745b0795f92f4d0",
@@ -1404,7 +3105,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/zl?s=A",
       "date_posted": "Feb 01",
-      "found_at": "2026-10-26T13:41:20.439750"
+      "found_at": "2026-10-26T19:37:43.968406"
     },
     {
       "id": "e2872eea2328baf20918a09961edfa4f",
@@ -1413,7 +3114,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/zk?s=A",
       "date_posted": "Feb 01",
-      "found_at": "2026-10-26T13:41:20.439754"
+      "found_at": "2026-10-26T19:37:43.968409"
     },
     {
       "id": "8b0d15e4df7430fa19fa46ca35d3bb89",
@@ -1422,7 +3123,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/z3?s=A",
       "date_posted": "Feb 01",
-      "found_at": "2026-10-26T13:41:20.439757"
+      "found_at": "2026-10-26T19:37:43.968413"
     },
     {
       "id": "f8b079c15468876bd71a2bf4837b7496",
@@ -1431,7 +3132,7 @@
       "location": "Fremont, CA",
       "apply_url": "https://go.vansh.nyc/z2?s=A",
       "date_posted": "Feb 01",
-      "found_at": "2026-10-26T13:41:20.439761"
+      "found_at": "2026-10-26T19:37:43.968417"
     },
     {
       "id": "f366c001c889891bfdc34584447df986",
@@ -1440,7 +3141,7 @@
       "location": "Austin, TX",
       "apply_url": "https://go.vansh.nyc/zd?s=A",
       "date_posted": "Feb 01",
-      "found_at": "2026-10-26T13:41:20.439764"
+      "found_at": "2026-10-26T19:37:43.968420"
     },
     {
       "id": "430d7b455b1968f8400ee4bec15e1f53",
@@ -1449,7 +3150,7 @@
       "location": "Sunnyvale, CA",
       "apply_url": "https://go.vansh.nyc/zc?s=A",
       "date_posted": "Feb 01",
-      "found_at": "2026-10-26T13:41:20.439767"
+      "found_at": "2026-10-26T19:37:43.968424"
     },
     {
       "id": "d1cabf029dfc165ad97d4504c2ce843b",
@@ -1458,7 +3159,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/yR?s=A",
       "date_posted": "Jan 09",
-      "found_at": "2026-10-26T13:41:20.439770"
+      "found_at": "2026-10-26T19:37:43.968427"
     },
     {
       "id": "66ad06f15af87c9b847ae06ad16519e9",
@@ -1467,7 +3168,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/yQ?s=A",
       "date_posted": "Jan 09",
-      "found_at": "2026-10-26T13:41:20.439773"
+      "found_at": "2026-10-26T19:37:43.968431"
     },
     {
       "id": "083ccb94493bd8af84d13853868cb7c7",
@@ -1476,7 +3177,7 @@
       "location": "Palo Alto, California",
       "apply_url": "https://go.vansh.nyc/yP?s=A",
       "date_posted": "Jan 09",
-      "found_at": "2026-10-26T13:41:20.439777"
+      "found_at": "2026-10-26T19:37:43.968435"
     },
     {
       "id": "0d9f69635fc226d82689fc3a7ed0688c",
@@ -1485,7 +3186,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/yO?s=A",
       "date_posted": "Jan 09",
-      "found_at": "2026-10-26T13:41:20.439780"
+      "found_at": "2026-10-26T19:37:43.968439"
     },
     {
       "id": "1d2112d5869f0620234efa8b567cfdb6",
@@ -1494,7 +3195,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/yN?s=A",
       "date_posted": "Jan 09",
-      "found_at": "2026-10-26T13:41:20.439784"
+      "found_at": "2026-10-26T19:37:43.968443"
     },
     {
       "id": "e751325503744517010c499213fb0d08",
@@ -1503,7 +3204,7 @@
       "location": "Raleigh, NC",
       "apply_url": "https://go.vansh.nyc/yL?s=A",
       "date_posted": "Jan 09",
-      "found_at": "2026-10-26T13:41:20.439787"
+      "found_at": "2026-10-26T19:37:43.968446"
     },
     {
       "id": "f77ce5b3201e8654780d2ac437adf797",
@@ -1512,7 +3213,7 @@
       "location": "Fremont, CA",
       "apply_url": "https://go.vansh.nyc/yG?s=A",
       "date_posted": "Jan 07",
-      "found_at": "2026-10-26T13:41:20.439790"
+      "found_at": "2026-10-26T19:37:43.968450"
     },
     {
       "id": "e2a9e7a888a4a7976724d996e30afc1d",
@@ -1521,7 +3222,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/yF?s=A",
       "date_posted": "Jan 07",
-      "found_at": "2026-10-26T13:41:20.439794"
+      "found_at": "2026-10-26T19:37:43.968453"
     },
     {
       "id": "466a17a71f7d0923cb2915971c2c5f3f",
@@ -1530,7 +3231,7 @@
       "location": "East Setauket, NY",
       "apply_url": "https://go.vansh.nyc/yK?s=A",
       "date_posted": "Jan 07",
-      "found_at": "2026-10-26T13:41:20.439798"
+      "found_at": "2026-10-26T19:37:43.968458"
     },
     {
       "id": "4997fa97c86a4dbe3d2142d26416d10e",
@@ -1539,7 +3240,7 @@
       "location": "East Setauket, NY",
       "apply_url": "https://go.vansh.nyc/yJ?s=A",
       "date_posted": "Jan 07",
-      "found_at": "2026-10-26T13:41:20.439802"
+      "found_at": "2026-10-26T19:37:43.968462"
     },
     {
       "id": "32012aaa50638e6d9ee6a05f3606ba86",
@@ -1548,7 +3249,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://go.vansh.nyc/yu?s=A",
       "date_posted": "Jan 01",
-      "found_at": "2026-10-26T13:41:20.439806"
+      "found_at": "2026-10-26T19:37:43.968466"
     },
     {
       "id": "b148784d944ecd2723b4f328fa1065ef",
@@ -1557,7 +3258,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://go.vansh.nyc/yt?s=A",
       "date_posted": "Jan 01",
-      "found_at": "2026-10-26T13:41:20.439809"
+      "found_at": "2026-10-26T19:37:43.968470"
     },
     {
       "id": "76fd5eb14e0c2f10708fde4f46f2fda3",
@@ -1566,7 +3267,7 @@
       "location": "New York, NY",
       "apply_url": "https://go.vansh.nyc/yc?s=A",
       "date_posted": "Nov 30",
-      "found_at": "2026-10-26T13:41:20.439813"
+      "found_at": "2026-10-26T19:37:43.968475"
     },
     {
       "id": "f6c0220b32f8d328128c89ec7c5107a9",
@@ -1575,7 +3276,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/y0?s=A",
       "date_posted": "Nov 30",
-      "found_at": "2026-10-26T13:41:20.439817"
+      "found_at": "2026-10-26T19:37:43.968479"
     },
     {
       "id": "29a4308f2bb96af6a7ecbc0fc7c5fd93",
@@ -1584,7 +3285,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/xZ?s=A",
       "date_posted": "Nov 30",
-      "found_at": "2026-10-26T13:41:20.439821"
+      "found_at": "2026-10-26T19:37:43.968482"
     },
     {
       "id": "33ba607cce1b5112c41b39e7f91c8aae",
@@ -1593,7 +3294,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/xY?s=A",
       "date_posted": "Nov 30",
-      "found_at": "2026-10-26T13:41:20.439824"
+      "found_at": "2026-10-26T19:37:43.968486"
     },
     {
       "id": "6a950483b2f398ecb3deb70ba8229e8a",
@@ -1602,7 +3303,7 @@
       "location": "Seattle, WA",
       "apply_url": "https://go.vansh.nyc/xX?s=A",
       "date_posted": "Nov 30",
-      "found_at": "2026-10-26T13:41:20.439828"
+      "found_at": "2026-10-26T19:37:43.968490"
     },
     {
       "id": "0e07e4fc28e869d7990ae2032afd1b09",
@@ -1611,7 +3312,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/xL?s=A",
       "date_posted": "Nov 18",
-      "found_at": "2026-10-26T13:41:20.439831"
+      "found_at": "2026-10-26T19:37:43.968494"
     },
     {
       "id": "65b6c9f5c6ba8e3e5013c705ab740905",
@@ -1620,7 +3321,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://go.vansh.nyc/xT?s=A",
       "date_posted": "Nov 18",
-      "found_at": "2026-10-26T13:41:20.439835"
+      "found_at": "2026-10-26T19:37:43.968497"
     },
     {
       "id": "33a492071010af8dc445a5d3e1adc3ef",
@@ -1629,7 +3330,7 @@
       "location": "Remote",
       "apply_url": "https://go.vansh.nyc/xH?s=A",
       "date_posted": "Nov 18",
-      "found_at": "2026-10-26T13:41:20.439838"
+      "found_at": "2026-10-26T19:37:43.968501"
     },
     {
       "id": "73658f4ef7a58247d7d482f3b143a836",
@@ -1638,7 +3339,7 @@
       "location": "Sunnyvale, CA",
       "apply_url": "https://go.vansh.nyc/xO?s=A",
       "date_posted": "Nov 18",
-      "found_at": "2026-10-26T13:41:20.439842"
+      "found_at": "2026-10-26T19:37:43.968504"
     },
     {
       "id": "f71ce9b6766c3053135e97919a173854",
@@ -1647,7 +3348,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/xo?s=A",
       "date_posted": "Nov 10",
-      "found_at": "2026-10-26T13:41:20.439845"
+      "found_at": "2026-10-26T19:37:43.968508"
     },
     {
       "id": "1eaa7409b2eccf179ba1bb41509ebb84",
@@ -1656,7 +3357,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/xn?s=A",
       "date_posted": "Nov 10",
-      "found_at": "2026-10-26T13:41:20.439849"
+      "found_at": "2026-10-26T19:37:43.968512"
     },
     {
       "id": "c73f6066c3d7214145716bc1aae34e3b",
@@ -1665,7 +3366,7 @@
       "location": "East Liberty, OH",
       "apply_url": "https://go.vansh.nyc/xm?s=A",
       "date_posted": "Nov 10",
-      "found_at": "2026-10-26T13:41:20.439852"
+      "found_at": "2026-10-26T19:37:43.968515"
     },
     {
       "id": "74541d39b50cc9e1c199a5cbe5a8f1f6",
@@ -1674,7 +3375,7 @@
       "location": "San Diego, CA",
       "apply_url": "https://go.vansh.nyc/xi?s=A",
       "date_posted": "Nov 10",
-      "found_at": "2026-10-26T13:41:20.439856"
+      "found_at": "2026-10-26T19:37:43.968519"
     },
     {
       "id": "b80df16ea521c8b01d4fec0fdd6eafb6",
@@ -1683,7 +3384,7 @@
       "location": "Cupertino, CA",
       "apply_url": "https://go.vansh.nyc/xp?s=A",
       "date_posted": "Nov 10",
-      "found_at": "2026-10-26T13:41:20.439859"
+      "found_at": "2026-10-26T19:37:43.968523"
     },
     {
       "id": "9a0822f8a36b39188684aa3da1e8f208",
@@ -1692,7 +3393,7 @@
       "location": "Santa Clara, CA",
       "apply_url": "https://go.vansh.nyc/xu?s=A",
       "date_posted": "Nov 10",
-      "found_at": "2026-10-26T13:41:20.439862"
+      "found_at": "2026-10-26T19:37:43.968526"
     },
     {
       "id": "ce95badfc7c5d3672915a139b68d31ed",
@@ -1701,7 +3402,7 @@
       "location": "Seattle, WA</br>Cupertino, CA",
       "apply_url": "https://go.vansh.nyc/xt?s=A",
       "date_posted": "Nov 10",
-      "found_at": "2026-10-26T13:41:20.439866"
+      "found_at": "2026-10-26T19:37:43.968530"
     },
     {
       "id": "9e62e083cee0c41327a39de98688cbfb",
@@ -1710,7 +3411,7 @@
       "location": "Seattle, WA</br>Santa Clara, CA",
       "apply_url": "https://go.vansh.nyc/xs?s=A",
       "date_posted": "Nov 10",
-      "found_at": "2026-10-26T13:41:20.439869"
+      "found_at": "2026-10-26T19:37:43.968534"
     },
     {
       "id": "e5bce177309d2cd0c9ae85c77701ee6e",
@@ -1719,7 +3420,7 @@
       "location": "Cupertino, CA",
       "apply_url": "https://go.vansh.nyc/xr?s=A",
       "date_posted": "Nov 10",
-      "found_at": "2026-10-26T13:41:20.439873"
+      "found_at": "2026-10-26T19:37:43.968538"
     },
     {
       "id": "ed78ba335fd816364ed138669386221f",
@@ -1728,7 +3429,7 @@
       "location": "Seattle, WA",
       "apply_url": "https://go.vansh.nyc/xq?s=A",
       "date_posted": "Nov 10",
-      "found_at": "2026-10-26T13:41:20.439876"
+      "found_at": "2026-10-26T19:37:43.968541"
     },
     {
       "id": "0bd6cc73f968154b20c0d88a12a08f2a",
@@ -1737,7 +3438,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://go.vansh.nyc/xh?s=A",
       "date_posted": "Nov 10",
-      "found_at": "2026-10-26T13:41:20.439879"
+      "found_at": "2026-10-26T19:37:43.968545"
     },
     {
       "id": "bbf925a1137f7504c50ab98b44e26bc1",
@@ -1746,7 +3447,7 @@
       "location": "Remote",
       "apply_url": "https://go.vansh.nyc/x8?s=A",
       "date_posted": "Nov 05",
-      "found_at": "2026-10-26T13:41:20.439883"
+      "found_at": "2026-10-26T19:37:43.968548"
     },
     {
       "id": "1415ca793dd5e2780e4672170b9c9baa",
@@ -1755,7 +3456,7 @@
       "location": "Chicago, IL",
       "apply_url": "https://go.vansh.nyc/xd?s=A",
       "date_posted": "Nov 05",
-      "found_at": "2026-10-26T13:41:20.439886"
+      "found_at": "2026-10-26T19:37:43.968552"
     },
     {
       "id": "0c5b45d23ec2167efab9461fd9e9a4ea",
@@ -1764,7 +3465,7 @@
       "location": "Chicago, IL",
       "apply_url": "https://go.vansh.nyc/xe?s=A",
       "date_posted": "Nov 05",
-      "found_at": "2026-10-26T13:41:20.439890"
+      "found_at": "2026-10-26T19:37:43.968556"
     },
     {
       "id": "d3a745f0121720d20d3712bbf12349d4",
@@ -1773,7 +3474,7 @@
       "location": "San Francisco, CA</br>New York, NY",
       "apply_url": "https://go.vansh.nyc/xa?s=A",
       "date_posted": "Nov 05",
-      "found_at": "2026-10-26T13:41:20.439893"
+      "found_at": "2026-10-26T19:37:43.968559"
     },
     {
       "id": "e774cba4b325afa4b00855d97d439890",
@@ -1782,7 +3483,7 @@
       "location": "Fremont, CA",
       "apply_url": "https://go.vansh.nyc/wZ?s=A",
       "date_posted": "Nov 01",
-      "found_at": "2026-10-26T13:41:20.439896"
+      "found_at": "2026-10-26T19:37:43.968563"
     },
     {
       "id": "7c54bf8896b67384f8c0c61117b1483b",
@@ -1791,7 +3492,7 @@
       "location": "New York, NY",
       "apply_url": "https://go.vansh.nyc/x1?s=A",
       "date_posted": "Nov 01",
-      "found_at": "2026-10-26T13:41:20.439900"
+      "found_at": "2026-10-26T19:37:43.968567"
     },
     {
       "id": "3c16543bd607ffa8711a5d7fea71c383",
@@ -1800,7 +3501,7 @@
       "location": "Remote",
       "apply_url": "https://go.vansh.nyc/x2?s=A",
       "date_posted": "Nov 01",
-      "found_at": "2026-10-26T13:41:20.439903"
+      "found_at": "2026-10-26T19:37:43.968570"
     },
     {
       "id": "bace85cf9e056166ae567d7a14b5d32f",
@@ -1809,7 +3510,7 @@
       "location": "Dallas, TX",
       "apply_url": "https://go.vansh.nyc/wL?s=A",
       "date_posted": "Oct 30",
-      "found_at": "2026-10-26T13:41:20.439906"
+      "found_at": "2026-10-26T19:37:43.968574"
     },
     {
       "id": "3f3e17f6dcfd2f257eaed87b5682f042",
@@ -1818,7 +3519,7 @@
       "location": "New York, NY",
       "apply_url": "https://go.vansh.nyc/wt?s=A",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-26T13:41:20.439910"
+      "found_at": "2026-10-26T19:37:43.968578"
     },
     {
       "id": "ac02acbb9a9a86290b8b94f79555d91f",
@@ -1827,7 +3528,7 @@
       "location": "Patuxent River, MD",
       "apply_url": "https://go.vansh.nyc/ww?s=A",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-26T13:41:20.439913"
+      "found_at": "2026-10-26T19:37:43.968581"
     },
     {
       "id": "6df4202d1cbd5152ff14f2446efce673",
@@ -1836,7 +3537,7 @@
       "location": "Austin, TX</br>Atlanta, GA",
       "apply_url": "https://go.vansh.nyc/wq?s=A",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-26T13:41:20.439916"
+      "found_at": "2026-10-26T19:37:43.968585"
     },
     {
       "id": "34462550b8b0e189980239e3ea773810",
@@ -1845,7 +3546,7 @@
       "location": "New York, NY",
       "apply_url": "https://go.vansh.nyc/wb?s=A",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-26T13:41:20.439920"
+      "found_at": "2026-10-26T19:37:43.968589"
     },
     {
       "id": "d7cb4523ac99496e9cf6285517880910",
@@ -1854,7 +3555,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://go.vansh.nyc/wf?s=A",
       "date_posted": "Oct 22",
-      "found_at": "2026-10-26T13:41:20.439924"
+      "found_at": "2026-10-26T19:37:43.968593"
     },
     {
       "id": "28fea49ab809597db7a53929f55f53f3",
@@ -1863,7 +3564,7 @@
       "location": "New York, NY</br>Chicago, IL",
       "apply_url": "https://go.vansh.nyc/w9?s=A",
       "date_posted": "Oct 20",
-      "found_at": "2026-10-26T13:41:20.439927"
+      "found_at": "2026-10-26T19:37:43.968597"
     },
     {
       "id": "f344e3a6fdf982e292ea8c90349aba68",
@@ -1872,7 +3573,7 @@
       "location": "New York, NY</br>Chicago, IL",
       "apply_url": "https://go.vansh.nyc/w8?s=A",
       "date_posted": "Oct 20",
-      "found_at": "2026-10-26T13:41:20.439930"
+      "found_at": "2026-10-26T19:37:43.968600"
     },
     {
       "id": "2d65ce163fdfde368a6b7512da608371",
@@ -1881,7 +3582,7 @@
       "location": "Austin, TX",
       "apply_url": "https://go.vansh.nyc/wa?s=A",
       "date_posted": "Oct 20",
-      "found_at": "2026-10-26T13:41:20.439934"
+      "found_at": "2026-10-26T19:37:43.968604"
     },
     {
       "id": "8092a5c69c2ff6d33f2d009263464e1c",
@@ -1890,7 +3591,7 @@
       "location": "Cupertino, CA",
       "apply_url": "https://go.vansh.nyc/w7?s=A",
       "date_posted": "Oct 20",
-      "found_at": "2026-10-26T13:41:20.439937"
+      "found_at": "2026-10-26T19:37:43.968608"
     },
     {
       "id": "4d87c340ab558c3a03ed85f820879669",
@@ -1899,7 +3600,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/w3?s=A",
       "date_posted": "Oct 18",
-      "found_at": "2026-10-26T13:41:20.439940"
+      "found_at": "2026-10-26T19:37:43.968611"
     },
     {
       "id": "f0394f75eb8ea85adc715562dd473550",
@@ -1908,7 +3609,7 @@
       "location": "Fremont, CA",
       "apply_url": "https://go.vansh.nyc/w2?s=A",
       "date_posted": "Oct 18",
-      "found_at": "2026-10-26T13:41:20.439944"
+      "found_at": "2026-10-26T19:37:43.968615"
     },
     {
       "id": "73dad13d19abe5b18ef289b22b454ac4",
@@ -1917,7 +3618,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/w1?s=A",
       "date_posted": "Oct 18",
-      "found_at": "2026-10-26T13:41:20.439947"
+      "found_at": "2026-10-26T19:37:43.968619"
     },
     {
       "id": "35b705a6ed22f8b58ef9501df5ad6564",
@@ -1926,7 +3627,7 @@
       "location": "Fremont, CA",
       "apply_url": "https://go.vansh.nyc/vI?s=A",
       "date_posted": "Oct 16",
-      "found_at": "2026-10-26T13:41:20.439950"
+      "found_at": "2026-10-26T19:37:43.968622"
     },
     {
       "id": "fa7c30f3415444b7a6c4a4e21b6e0167",
@@ -1935,7 +3636,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://go.vansh.nyc/vN?s=A",
       "date_posted": "Oct 16",
-      "found_at": "2026-10-26T13:41:20.439955"
+      "found_at": "2026-10-26T19:37:43.968627"
     },
     {
       "id": "0f8d3eebbb4671c5272778e182edac46",
@@ -1944,7 +3645,7 @@
       "location": "Austin, TX</br>Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/vl?s=A",
       "date_posted": "Oct 14",
-      "found_at": "2026-10-26T13:41:20.439958"
+      "found_at": "2026-10-26T19:37:43.968631"
     },
     {
       "id": "3624d76aba84837fdc2ccba91e2e8d81",
@@ -1953,7 +3654,7 @@
       "location": "Austin, TX</br>Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/vk?s=A",
       "date_posted": "Oct 14",
-      "found_at": "2026-10-26T13:41:20.439962"
+      "found_at": "2026-10-26T19:37:43.968635"
     },
     {
       "id": "5f3fd0c113a6b37b99e9e9d8e5301b1b",
@@ -1962,7 +3663,7 @@
       "location": "Dallas, TX",
       "apply_url": "https://go.vansh.nyc/v8?s=A",
       "date_posted": "Oct 11",
-      "found_at": "2026-10-26T13:41:20.439965"
+      "found_at": "2026-10-26T19:37:43.968638"
     },
     {
       "id": "30872af5eae01b8402083364029cd8f6",
@@ -1971,7 +3672,7 @@
       "location": "Foster City, CA",
       "apply_url": "https://go.vansh.nyc/vd?s=A",
       "date_posted": "Oct 11",
-      "found_at": "2026-10-26T13:41:20.439968"
+      "found_at": "2026-10-26T19:37:43.968642"
     },
     {
       "id": "8d384c421a84306f6018fea85eaffb2d",
@@ -1980,7 +3681,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://go.vansh.nyc/uZ?s=A",
       "date_posted": "Oct 10",
-      "found_at": "2026-10-26T13:41:20.439972"
+      "found_at": "2026-10-26T19:37:43.968645"
     },
     {
       "id": "4bb369e4c980170729b8974c58811429",
@@ -1989,7 +3690,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/uT?s=A",
       "date_posted": "Oct 09",
-      "found_at": "2026-10-26T13:41:20.439975"
+      "found_at": "2026-10-26T19:37:43.968649"
     },
     {
       "id": "ca43ba908e6ed22281ef793cf9781f43",
@@ -1998,7 +3699,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/uS?s=A",
       "date_posted": "Oct 09",
-      "found_at": "2026-10-26T13:41:20.439978"
+      "found_at": "2026-10-26T19:37:43.968653"
     },
     {
       "id": "601254da66a2b26b090fad7c6dfe2596",
@@ -2007,7 +3708,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/uL?s=A",
       "date_posted": "Oct 06",
-      "found_at": "2026-10-26T13:41:20.439982"
+      "found_at": "2026-10-26T19:37:43.968657"
     },
     {
       "id": "bdf9a8d781a256557f8e84dfd39c13a7",
@@ -2016,7 +3717,7 @@
       "location": "<details><summary>**5 locations**</summary>New York, NY</br>San Francisco, CA</br>Los Angeles, CA</br>Seattle, WA</br>Sunnyvale, CA</details>",
       "apply_url": "https://go.vansh.nyc/uG?s=A",
       "date_posted": "Oct 06",
-      "found_at": "2026-10-26T13:41:20.439985"
+      "found_at": "2026-10-26T19:37:43.968661"
     },
     {
       "id": "a98a680db1b1cab8ad252a1f7bd63a87",
@@ -2025,7 +3726,7 @@
       "location": "Fort Mill, SC",
       "apply_url": "https://go.vansh.nyc/uy?s=A",
       "date_posted": "Sep 30",
-      "found_at": "2026-10-26T13:41:20.439989"
+      "found_at": "2026-10-26T19:37:43.968665"
     },
     {
       "id": "dd5f12141964c258eb91f4375628789d",
@@ -2034,7 +3735,7 @@
       "location": "Clearwater, FL",
       "apply_url": "https://go.vansh.nyc/uz?s=A",
       "date_posted": "Sep 30",
-      "found_at": "2026-10-26T13:41:20.439993"
+      "found_at": "2026-10-26T19:37:43.968669"
     },
     {
       "id": "66a62d4492b4d182a701363444f5c924",
@@ -2043,7 +3744,7 @@
       "location": "San Francisco, CA</br>New York, NY",
       "apply_url": "https://go.vansh.nyc/u9?s=A",
       "date_posted": "Sep 25",
-      "found_at": "2026-10-26T13:41:20.439997"
+      "found_at": "2026-10-26T19:37:43.968673"
     },
     {
       "id": "2840ee9b8afcf01cb386e0d29b2491ea",
@@ -2052,7 +3753,7 @@
       "location": "Cupertino, CA",
       "apply_url": "https://go.vansh.nyc/u4?s=A",
       "date_posted": "Sep 20",
-      "found_at": "2026-10-26T13:41:20.440000"
+      "found_at": "2026-10-26T19:37:43.968677"
     },
     {
       "id": "51a2fec2a24acbd0ba2e5f9e56b6f791",
@@ -2061,7 +3762,7 @@
       "location": "Pittsburgh, PA",
       "apply_url": "https://go.vansh.nyc/tE?s=A",
       "date_posted": "Sep 15",
-      "found_at": "2026-10-26T13:41:20.440003"
+      "found_at": "2026-10-26T19:37:43.968680"
     },
     {
       "id": "b6b7365fca1d9bf368b5bb004021de7b",
@@ -2070,7 +3771,7 @@
       "location": "Pittsburgh, PA",
       "apply_url": "https://go.vansh.nyc/tD?s=A",
       "date_posted": "Sep 15",
-      "found_at": "2026-10-26T13:41:20.440007"
+      "found_at": "2026-10-26T19:37:43.968684"
     },
     {
       "id": "53d66ebcef570a72f5443c52d776f02c",
@@ -2079,7 +3780,7 @@
       "location": "Fremont, CA",
       "apply_url": "https://go.vansh.nyc/t5?s=A",
       "date_posted": "Sep 11",
-      "found_at": "2026-10-26T13:41:20.440010"
+      "found_at": "2026-10-26T19:37:43.968688"
     },
     {
       "id": "0b89a941a806c26166852ea62cfd37df",
@@ -2088,7 +3789,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/t4?s=A",
       "date_posted": "Sep 11",
-      "found_at": "2026-10-26T13:41:20.440014"
+      "found_at": "2026-10-26T19:37:43.968691"
     },
     {
       "id": "7e2326750af2821c4712bd2afdc022cb",
@@ -2097,7 +3798,7 @@
       "location": "Chicago, IL",
       "apply_url": "https://go.vansh.nyc/t8?s=A",
       "date_posted": "Sep 11",
-      "found_at": "2026-10-26T13:41:20.440017"
+      "found_at": "2026-10-26T19:37:43.968695"
     },
     {
       "id": "6908fbe8964b9b4faac5ca567ed52576",
@@ -2106,7 +3807,7 @@
       "location": "Los Angeles, CA",
       "apply_url": "https://go.vansh.nyc/t9?s=A",
       "date_posted": "Sep 11",
-      "found_at": "2026-10-26T13:41:20.440021"
+      "found_at": "2026-10-26T19:37:43.968698"
     },
     {
       "id": "9563e22d05fc08646f6e7628b4017fd6",
@@ -2115,7 +3816,7 @@
       "location": "San Diego, CA",
       "apply_url": "https://go.vansh.nyc/t2?s=A",
       "date_posted": "Sep 10",
-      "found_at": "2026-10-26T13:41:20.440024"
+      "found_at": "2026-10-26T19:37:43.968702"
     },
     {
       "id": "baf63b2ba9add7e70a25afd912ce0a3b",
@@ -2124,7 +3825,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/s4?s=A",
       "date_posted": "Sep 08",
-      "found_at": "2026-10-26T13:41:20.440027"
+      "found_at": "2026-10-26T19:37:43.968706"
     },
     {
       "id": "fadcd65310fb51073c10fd0526205222",
@@ -2133,7 +3834,7 @@
       "location": "Austin, TX",
       "apply_url": "https://go.vansh.nyc/rZ?s=A",
       "date_posted": "Sep 08",
-      "found_at": "2026-10-26T13:41:20.440031"
+      "found_at": "2026-10-26T19:37:43.968709"
     },
     {
       "id": "017f5af8b5b2c318359adf9b4754362d",
@@ -2142,7 +3843,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/rY?s=A",
       "date_posted": "Sep 08",
-      "found_at": "2026-10-26T13:41:20.440034"
+      "found_at": "2026-10-26T19:37:43.968713"
     },
     {
       "id": "b120f32c260682656ccb5dbad758a836",
@@ -2151,7 +3852,7 @@
       "location": "Remote in USA",
       "apply_url": "https://go.vansh.nyc/ss?s=A",
       "date_posted": "Sep 08",
-      "found_at": "2026-10-26T13:41:20.440038"
+      "found_at": "2026-10-26T19:37:43.968717"
     },
     {
       "id": "1ccff6e8ecc2277279e1888a3f66cef5",
@@ -2160,7 +3861,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://go.vansh.nyc/sy?s=A",
       "date_posted": "Sep 08",
-      "found_at": "2026-10-26T13:41:20.440041"
+      "found_at": "2026-10-26T19:37:43.968720"
     },
     {
       "id": "4405a983b05087392fbd5ad34a6a9195",
@@ -2169,7 +3870,7 @@
       "location": "Austin, TX",
       "apply_url": "https://go.vansh.nyc/sv?s=A",
       "date_posted": "Sep 08",
-      "found_at": "2026-10-26T13:41:20.440044"
+      "found_at": "2026-10-26T19:37:43.968724"
     },
     {
       "id": "0c556079dc640f91c0d21da50bd40419",
@@ -2178,7 +3879,7 @@
       "location": "Reston, VA",
       "apply_url": "https://go.vansh.nyc/rI?s=A",
       "date_posted": "Sep 05",
-      "found_at": "2026-10-26T13:41:20.440048"
+      "found_at": "2026-10-26T19:37:43.968728"
     },
     {
       "id": "5cd67a5f4c3f15093798600c492f79a4",
@@ -2187,7 +3888,7 @@
       "location": "Seattle, WA</br>SF",
       "apply_url": "https://go.vansh.nyc/ro?s=A",
       "date_posted": "Sep 03",
-      "found_at": "2026-10-26T13:41:20.440051"
+      "found_at": "2026-10-26T19:37:43.968732"
     },
     {
       "id": "80420d2a06ba33851fa7221122fa6c50",
@@ -2196,7 +3897,7 @@
       "location": "Oakland, CA</br>NYC",
       "apply_url": "https://go.vansh.nyc/rf?s=A",
       "date_posted": "Sep 03",
-      "found_at": "2026-10-26T13:41:20.440055"
+      "found_at": "2026-10-26T19:37:43.968736"
     },
     {
       "id": "48326c6845555e8d81671a580e830588",
@@ -2205,7 +3906,7 @@
       "location": "<details><summary>**14 locations**</summary>Sandy Springs, GA</br>Poughkeepsie, NY</br>Lowell, MA</br>Rochester, MN</br>Tucson, AZ</br>Research Triangle Park, NC</br>Durham, NC</br>Hopewell Junction, NY</br>San Jose, CA</br>Dallas, TX</br>Houston, TX</br>Austin, TX</br>Herndon, VA</br>New York, NY</details>",
       "apply_url": "https://go.vansh.nyc/rg?s=A",
       "date_posted": "Sep 03",
-      "found_at": "2026-10-26T13:41:20.440059"
+      "found_at": "2026-10-26T19:37:43.968740"
     },
     {
       "id": "3d2e85d83db263f08e50de859d9b15df",
@@ -2214,7 +3915,7 @@
       "location": "Mountain View, CA",
       "apply_url": "https://go.vansh.nyc/r4?s=A",
       "date_posted": "Sep 03",
-      "found_at": "2026-10-26T13:41:20.440062"
+      "found_at": "2026-10-26T19:37:43.968755"
     },
     {
       "id": "b2bfa1768b58c780643985634618862a",
@@ -2223,7 +3924,7 @@
       "location": "Fremont, CA",
       "apply_url": "https://go.vansh.nyc/qZ?s=A",
       "date_posted": "Aug 28",
-      "found_at": "2026-10-26T13:41:20.440066"
+      "found_at": "2026-10-26T19:37:43.968759"
     },
     {
       "id": "a99069a9ac1a9783cfa5869c5b6bed49",
@@ -2232,7 +3933,7 @@
       "location": "Fremont, CA",
       "apply_url": "https://go.vansh.nyc/qY?s=A",
       "date_posted": "Aug 28",
-      "found_at": "2026-10-26T13:41:20.440069"
+      "found_at": "2026-10-26T19:37:43.968763"
     },
     {
       "id": "14d0a264fd332f3a6eeadcfba746b6e6",
@@ -2241,7 +3942,7 @@
       "location": "AUSTIN, Texas",
       "apply_url": "https://go.vansh.nyc/qX?s=A",
       "date_posted": "Aug 28",
-      "found_at": "2026-10-26T13:41:20.440072"
+      "found_at": "2026-10-26T19:37:43.968767"
     },
     {
       "id": "36b2c74db718dd8167f0e556cc1348f5",
@@ -2250,7 +3951,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/qW?s=A",
       "date_posted": "Aug 28",
-      "found_at": "2026-10-26T13:41:20.440075"
+      "found_at": "2026-10-26T19:37:43.968770"
     },
     {
       "id": "787ffe08578abf5a9370be3f89f0bd96",
@@ -2259,7 +3960,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://go.vansh.nyc/qV?s=A",
       "date_posted": "Aug 28",
-      "found_at": "2026-10-26T13:41:20.440079"
+      "found_at": "2026-10-26T19:37:43.968774"
     },
     {
       "id": "8d718146582d4bfade6a4acc4855af4e",
@@ -2268,7 +3969,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://go.vansh.nyc/qU?s=A",
       "date_posted": "Aug 28",
-      "found_at": "2026-10-26T13:41:20.440083"
+      "found_at": "2026-10-26T19:37:43.968778"
     },
     {
       "id": "63f14c73a444f00dc208f0b848227a87",
@@ -2277,7 +3978,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/qO?s=A",
       "date_posted": "Aug 23",
-      "found_at": "2026-10-26T13:41:20.440086"
+      "found_at": "2026-10-26T19:37:43.968782"
     },
     {
       "id": "aeb77b9228320d0b75f7ff1a8aa95d2b",
@@ -2286,7 +3987,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/qN?s=A",
       "date_posted": "Aug 23",
-      "found_at": "2026-10-26T13:41:20.440089"
+      "found_at": "2026-10-26T19:37:43.968786"
     },
     {
       "id": "12f8f3355868a3e0235b282142d24b30",
@@ -2295,7 +3996,7 @@
       "location": "<details><summary>**5 locations**</summary>San Jose, CA</br>Chicago, IL</br>Omaha, NE</br>Scottsdale, AZ</br>Austin, TX</details>",
       "apply_url": "https://go.vansh.nyc/qK?s=A",
       "date_posted": "Aug 23",
-      "found_at": "2026-10-26T13:41:20.440093"
+      "found_at": "2026-10-26T19:37:43.968789"
     },
     {
       "id": "22c0c43f2b71c39344746d59b3149470",
@@ -2304,7 +4005,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/qC?s=A",
       "date_posted": "Aug 22",
-      "found_at": "2026-10-26T13:41:20.440097"
+      "found_at": "2026-10-26T19:37:43.968793"
     },
     {
       "id": "8ecf02f4210ecceb182f531b8ca23bf5",
@@ -2313,7 +4014,7 @@
       "location": "Fremont, CA",
       "apply_url": "https://go.vansh.nyc/qB?s=A",
       "date_posted": "Aug 22",
-      "found_at": "2026-10-26T13:41:20.440100"
+      "found_at": "2026-10-26T19:37:43.968797"
     },
     {
       "id": "665b512d6f32680a47dcc117b5e6119d",
@@ -2322,7 +4023,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/qA?s=A",
       "date_posted": "Aug 22",
-      "found_at": "2026-10-26T13:41:20.440104"
+      "found_at": "2026-10-26T19:37:43.968800"
     },
     {
       "id": "7a7899deffcde71e8f43bdb9ed0c1e29",
@@ -2331,7 +4032,7 @@
       "location": "Sunnyvale, CA",
       "apply_url": "https://go.vansh.nyc/qE?s=A",
       "date_posted": "Aug 22",
-      "found_at": "2026-10-26T13:41:20.440107"
+      "found_at": "2026-10-26T19:37:43.968804"
     },
     {
       "id": "a797cfed8934c12a7e0a400117f2ccdc",
@@ -2340,7 +4041,7 @@
       "location": "SPARKS, Nevada",
       "apply_url": "https://go.vansh.nyc/qu?s=A",
       "date_posted": "Aug 20",
-      "found_at": "2026-10-26T13:41:20.440111"
+      "found_at": "2026-10-26T19:37:43.968807"
     },
     {
       "id": "efaf5e6c516e4e4d5d85df27b3187544",
@@ -2349,7 +4050,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/qt?s=A",
       "date_posted": "Aug 20",
-      "found_at": "2026-10-26T13:41:20.440114"
+      "found_at": "2026-10-26T19:37:43.968811"
     },
     {
       "id": "28617524cf1a25e30781b137c27407c2",
@@ -2358,7 +4059,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://go.vansh.nyc/qq?s=A",
       "date_posted": "Aug 19",
-      "found_at": "2026-10-26T13:41:20.440118"
+      "found_at": "2026-10-26T19:37:43.968815"
     },
     {
       "id": "c18489c4ddfe8806f8f603bce4832396",
@@ -2367,7 +4068,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://go.vansh.nyc/qp?s=A",
       "date_posted": "Aug 19",
-      "found_at": "2026-10-26T13:41:20.440121"
+      "found_at": "2026-10-26T19:37:43.968819"
     },
     {
       "id": "6b4012f0f74c2d3c596c1f3c09d3cf71",
@@ -2376,7 +4077,7 @@
       "location": "Evanston, IL",
       "apply_url": "https://go.vansh.nyc/pY?s=A",
       "date_posted": "Aug 17",
-      "found_at": "2026-10-26T13:41:20.440124"
+      "found_at": "2026-10-26T19:37:43.968822"
     },
     {
       "id": "8d1205db20dfe6cd20d01e9f02eb199f",
@@ -2385,7 +4086,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/pI?s=A",
       "date_posted": "Aug 16",
-      "found_at": "2026-10-26T13:41:20.440128"
+      "found_at": "2026-10-26T19:37:43.968826"
     },
     {
       "id": "b647d7a868bda05d709e9f8047b8e09d",
@@ -2394,7 +4095,7 @@
       "location": "Seattle, WA</br>Helena, MT",
       "apply_url": "https://go.vansh.nyc/pQ?s=A",
       "date_posted": "Aug 16",
-      "found_at": "2026-10-26T13:41:20.440131"
+      "found_at": "2026-10-26T19:37:43.968830"
     },
     {
       "id": "12f8f3355868a3e0235b282142d24b30",
@@ -2403,7 +4104,7 @@
       "location": "<details><summary>**5 locations**</summary>San Jose, CA</br>Chicago, IL</br>Omaha, NE</br>Scottsdale, AZ</br>Austin, TX</details>",
       "apply_url": "https://go.vansh.nyc/pV?s=A",
       "date_posted": "Aug 16",
-      "found_at": "2026-10-26T13:41:20.440137"
+      "found_at": "2026-10-26T19:37:43.968835"
     },
     {
       "id": "bd02149de821e288ff0851d7870d0a4a",
@@ -2412,7 +4113,7 @@
       "location": "Remote",
       "apply_url": "https://go.vansh.nyc/pU?s=A",
       "date_posted": "Aug 16",
-      "found_at": "2026-10-26T13:41:20.440140"
+      "found_at": "2026-10-26T19:37:43.968838"
     },
     {
       "id": "2bc9a5135dd1035a4e92b1d513aa15cb",
@@ -2421,7 +4122,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://go.vansh.nyc/pK?s=A",
       "date_posted": "Aug 16",
-      "found_at": "2026-10-26T13:41:20.440144"
+      "found_at": "2026-10-26T19:37:43.968842"
     },
     {
       "id": "51e1f05464153bd63d5137b7e7038c72",
@@ -2430,7 +4131,7 @@
       "location": "Seattle, WA",
       "apply_url": "https://go.vansh.nyc/pJ?s=A",
       "date_posted": "Aug 16",
-      "found_at": "2026-10-26T13:41:20.440147"
+      "found_at": "2026-10-26T19:37:43.968846"
     },
     {
       "id": "9658da32aa002a9f590f48dba57095d4",
@@ -2439,7 +4140,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://go.vansh.nyc/pH?s=A",
       "date_posted": "Aug 16",
-      "found_at": "2026-10-26T13:41:20.440151"
+      "found_at": "2026-10-26T19:37:43.968850"
     },
     {
       "id": "b8d6878113b50a2d81fd941f5aeca0c2",
@@ -2448,7 +4149,7 @@
       "location": "Seattle, WA",
       "apply_url": "https://go.vansh.nyc/pG?s=A",
       "date_posted": "Aug 16",
-      "found_at": "2026-10-26T13:41:20.440154"
+      "found_at": "2026-10-26T19:37:43.968854"
     },
     {
       "id": "18dd7c14d644d73aace0c49750970cd8",
@@ -2457,7 +4158,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://go.vansh.nyc/pF?s=A",
       "date_posted": "Aug 16",
-      "found_at": "2026-10-26T13:41:20.440158"
+      "found_at": "2026-10-26T19:37:43.968857"
     },
     {
       "id": "7a38dad9e3f17f9d777118cd84ae4acc",
@@ -2466,7 +4167,7 @@
       "location": "Seattle",
       "apply_url": "https://go.vansh.nyc/pE?s=A",
       "date_posted": "Aug 16",
-      "found_at": "2026-10-26T13:41:20.440161"
+      "found_at": "2026-10-26T19:37:43.968861"
     },
     {
       "id": "dae78e05e8ef4b5bfcc598d71e3b80cf",
@@ -2475,7 +4176,7 @@
       "location": "Falls Church, VA",
       "apply_url": "https://go.vansh.nyc/pC?s=A",
       "date_posted": "Aug 14",
-      "found_at": "2026-10-26T13:41:20.440165"
+      "found_at": "2026-10-26T19:37:43.968866"
     },
     {
       "id": "3a713d91442e8c124c9ba83864137158",
@@ -2484,7 +4185,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/pv?s=A",
       "date_posted": "Aug 13",
-      "found_at": "2026-10-26T13:41:20.440169"
+      "found_at": "2026-10-26T19:37:43.968870"
     },
     {
       "id": "2947532c98cb1d0e490755a86783bff1",
@@ -2493,7 +4194,7 @@
       "location": "Indianapolis, IN",
       "apply_url": "https://go.vansh.nyc/oZ?s=A",
       "date_posted": "Aug 13",
-      "found_at": "2026-10-26T13:41:20.440172"
+      "found_at": "2026-10-26T19:37:43.968873"
     },
     {
       "id": "4d9ffff66bc03e2d04d0a023aa18f153",
@@ -2502,7 +4203,7 @@
       "location": "Washington, DC",
       "apply_url": "https://go.vansh.nyc/p5?s=A",
       "date_posted": "Aug 13",
-      "found_at": "2026-10-26T13:41:20.440175"
+      "found_at": "2026-10-26T19:37:43.968877"
     },
     {
       "id": "3942ce7a68b84a673155fec5eb8fc1c6",
@@ -2511,7 +4212,7 @@
       "location": "New York, NY",
       "apply_url": "https://go.vansh.nyc/pz?s=A",
       "date_posted": "Aug 13",
-      "found_at": "2026-10-26T13:41:20.440179"
+      "found_at": "2026-10-26T19:37:43.968881"
     },
     {
       "id": "67c1d5754d043f3bddfb247fc8c3c44b",
@@ -2520,7 +4221,7 @@
       "location": "Miami, FL",
       "apply_url": "https://go.vansh.nyc/pr?s=A",
       "date_posted": "Aug 13",
-      "found_at": "2026-10-26T13:41:20.440182"
+      "found_at": "2026-10-26T19:37:43.968884"
     },
     {
       "id": "1cc21e208f64fb2f364793d4e194bbd6",
@@ -2529,7 +4230,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://go.vansh.nyc/pn?s=A",
       "date_posted": "Aug 13",
-      "found_at": "2026-10-26T13:41:20.440186"
+      "found_at": "2026-10-26T19:37:43.968888"
     },
     {
       "id": "28617524cf1a25e30781b137c27407c2",
@@ -2538,7 +4239,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://go.vansh.nyc/pj?s=A",
       "date_posted": "Aug 13",
-      "found_at": "2026-10-26T13:41:20.440189"
+      "found_at": "2026-10-26T19:37:43.968892"
     },
     {
       "id": "37c7e3fde7fda9fe600f8a45dccdbce9",
@@ -2547,7 +4248,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://go.vansh.nyc/pi?s=A",
       "date_posted": "Aug 13",
-      "found_at": "2026-10-26T13:41:20.440192"
+      "found_at": "2026-10-26T19:37:43.968896"
     },
     {
       "id": "bb8e1546c704b0cd188e2780b7724fb9",
@@ -2556,7 +4257,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://go.vansh.nyc/pf?s=A",
       "date_posted": "Aug 13",
-      "found_at": "2026-10-26T13:41:20.440196"
+      "found_at": "2026-10-26T19:37:43.968900"
     },
     {
       "id": "aa2d0bc98aa74d62828f2c8f0b0a3937",
@@ -2565,7 +4266,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://go.vansh.nyc/ow?s=A",
       "date_posted": "Aug 13",
-      "found_at": "2026-10-26T13:41:20.440199"
+      "found_at": "2026-10-26T19:37:43.968904"
     },
     {
       "id": "a291025d23dd1aa9fffefa36156399a1",
@@ -2574,7 +4275,7 @@
       "location": "Roseville, MN",
       "apply_url": "https://go.vansh.nyc/oD?s=A",
       "date_posted": "Aug 13",
-      "found_at": "2026-10-26T13:41:20.440203"
+      "found_at": "2026-10-26T19:37:43.968907"
     },
     {
       "id": "a291025d23dd1aa9fffefa36156399a1",
@@ -2583,7 +4284,7 @@
       "location": "Roseville, MN",
       "apply_url": "https://go.vansh.nyc/oE?s=A",
       "date_posted": "Aug 13",
-      "found_at": "2026-10-26T13:41:20.440206"
+      "found_at": "2026-10-26T19:37:43.968911"
     },
     {
       "id": "a291025d23dd1aa9fffefa36156399a1",
@@ -2592,7 +4293,7 @@
       "location": "Roseville, MN",
       "apply_url": "https://go.vansh.nyc/pe?s=A",
       "date_posted": "Aug 13",
-      "found_at": "2026-10-26T13:41:20.440209"
+      "found_at": "2026-10-26T19:37:43.968916"
     },
     {
       "id": "f2130a16e12383a32ba5324b21594cd2",
@@ -2601,7 +4302,7 @@
       "location": "Costa Mesa, CA",
       "apply_url": "https://go.vansh.nyc/oW?s=A",
       "date_posted": "Aug 13",
-      "found_at": "2026-10-26T13:41:20.440214"
+      "found_at": "2026-10-26T19:37:43.968922"
     },
     {
       "id": "77fa62306f2eb8ed4a5fceb72f7b73a0",
@@ -2610,7 +4311,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/oa?s=A",
       "date_posted": "Aug 07",
-      "found_at": "2026-10-26T13:41:20.440218"
+      "found_at": "2026-10-26T19:37:43.968925"
     },
     {
       "id": "76e4cf7ce8e4c6af642e82847f1cd03e",
@@ -2619,7 +4320,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/o9?s=A",
       "date_posted": "Aug 07",
-      "found_at": "2026-10-26T13:41:20.440221"
+      "found_at": "2026-10-26T19:37:43.968929"
     },
     {
       "id": "069706b3d0623488fef262369bac4399",
@@ -2628,7 +4329,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/o8?s=A",
       "date_posted": "Aug 07",
-      "found_at": "2026-10-26T13:41:20.440225"
+      "found_at": "2026-10-26T19:37:43.968933"
     },
     {
       "id": "43377d1fb78e230b3bf0df847c7e0a8a",
@@ -2637,7 +4338,7 @@
       "location": "Hamilton, NJ",
       "apply_url": "https://go.vansh.nyc/oo?s=A",
       "date_posted": "Aug 07",
-      "found_at": "2026-10-26T13:41:20.440228"
+      "found_at": "2026-10-26T19:37:43.968936"
     },
     {
       "id": "6f03f831df5af97f2f7f244ca5bfa0e4",
@@ -2646,7 +4347,7 @@
       "location": "Kennedy Space Center, FL",
       "apply_url": "https://go.vansh.nyc/op?s=A",
       "date_posted": "Aug 07",
-      "found_at": "2026-10-26T13:41:20.440232"
+      "found_at": "2026-10-26T19:37:43.968940"
     },
     {
       "id": "1a210149276b869aff0cc912dd9c6f53",
@@ -2655,7 +4356,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://go.vansh.nyc/o7?s=A",
       "date_posted": "Aug 07",
-      "found_at": "2026-10-26T13:41:20.440235"
+      "found_at": "2026-10-26T19:37:43.968943"
     },
     {
       "id": "bf517f9cf4659337f2365d6035ab0dcd",
@@ -2664,7 +4365,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://go.vansh.nyc/o6?s=A",
       "date_posted": "Aug 07",
-      "found_at": "2026-10-26T13:41:20.440238"
+      "found_at": "2026-10-26T19:37:43.968947"
     },
     {
       "id": "e05f1bfa7abc158f40ced97d096a45de",
@@ -2673,7 +4374,7 @@
       "location": "Bellevue, WA</br>Menlo Park, CA",
       "apply_url": "https://go.vansh.nyc/nu?s=A",
       "date_posted": "Jul 31",
-      "found_at": "2026-10-26T13:41:20.440242"
+      "found_at": "2026-10-26T19:37:43.968951"
     },
     {
       "id": "639a4428f84fa1e87464cddc1a407491",
@@ -2682,7 +4383,7 @@
       "location": "Remote",
       "apply_url": "https://go.vansh.nyc/nn?s=A",
       "date_posted": "Jul 30",
-      "found_at": "2026-10-26T13:41:20.440245"
+      "found_at": "2026-10-26T19:37:43.968955"
     },
     {
       "id": "8ea082885a625b826ac58f4de69fb280",
@@ -2691,7 +4392,7 @@
       "location": "Austin, TX",
       "apply_url": "https://go.vansh.nyc/mU?s=A",
       "date_posted": "Jul 30",
-      "found_at": "2026-10-26T13:41:20.440249"
+      "found_at": "2026-10-26T19:37:43.968958"
     },
     {
       "id": "109b485f47bdc45711614b3b1006e70e",
@@ -2700,7 +4401,7 @@
       "location": "New York, NY",
       "apply_url": "https://go.vansh.nyc/mT?s=A",
       "date_posted": "Jul 30",
-      "found_at": "2026-10-26T13:41:20.440252"
+      "found_at": "2026-10-26T19:37:43.968962"
     },
     {
       "id": "839d6a1826506bd25abf7ef728188aae",
@@ -2709,7 +4410,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://go.vansh.nyc/nk?s=A",
       "date_posted": "Jul 30",
-      "found_at": "2026-10-26T13:41:20.440262"
+      "found_at": "2026-10-26T19:37:43.968965"
     },
     {
       "id": "11a86e5388b6a85519035d1b492c975a",
@@ -2718,7 +4419,7 @@
       "location": "Seattle, WA",
       "apply_url": "https://go.vansh.nyc/nj?s=A",
       "date_posted": "Jul 30",
-      "found_at": "2026-10-26T13:41:20.440266"
+      "found_at": "2026-10-26T19:37:43.968969"
     },
     {
       "id": "31d48e3580d07cf870de307d8c789cd7",
@@ -2727,7 +4428,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://go.vansh.nyc/mN?s=A",
       "date_posted": "Jul 25",
-      "found_at": "2026-10-26T13:41:20.440269"
+      "found_at": "2026-10-26T19:37:43.968973"
     },
     {
       "id": "75e84d65d2e581dd569f04bc32c86787",
@@ -2736,7 +4437,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/mG?s=A",
       "date_posted": "Jul 24",
-      "found_at": "2026-10-26T13:41:20.440273"
+      "found_at": "2026-10-26T19:37:43.968976"
     },
     {
       "id": "d60aacb2ca19c35c281c4e9c11ebea86",
@@ -2745,7 +4446,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/mF?s=A",
       "date_posted": "Jul 24",
-      "found_at": "2026-10-26T13:41:20.440276"
+      "found_at": "2026-10-26T19:37:43.968980"
     },
     {
       "id": "0a3d346f534f92f7f50026762e29a266",
@@ -2754,7 +4455,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/mE?s=A",
       "date_posted": "Jul 24",
-      "found_at": "2026-10-26T13:41:20.440279"
+      "found_at": "2026-10-26T19:37:43.968984"
     },
     {
       "id": "3024197f5d04734fdfd2db42ad7a8f35",
@@ -2763,7 +4464,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/my?s=A",
       "date_posted": "Jul 24",
-      "found_at": "2026-10-26T13:41:20.440283"
+      "found_at": "2026-10-26T19:37:43.968988"
     },
     {
       "id": "240a6394213ad0af87c1422017329e69",
@@ -2772,7 +4473,7 @@
       "location": "Foster City, CA",
       "apply_url": "https://go.vansh.nyc/mz?s=A",
       "date_posted": "Jul 24",
-      "found_at": "2026-10-26T13:41:20.440286"
+      "found_at": "2026-10-26T19:37:43.968991"
     },
     {
       "id": "ca1990edc21616cf4e79cf9de644b961",
@@ -2781,7 +4482,7 @@
       "location": "New York, NY</br>San Francisco, CA",
       "apply_url": "https://go.vansh.nyc/DL?s=A",
       "date_posted": "Jul 24",
-      "found_at": "2026-10-26T13:41:20.440290"
+      "found_at": "2026-10-26T19:37:43.968995"
     },
     {
       "id": "1f17f99ed27ed16d7af799fe2e5651d3",
@@ -2790,7 +4491,7 @@
       "location": "San Diego, CA",
       "apply_url": "https://go.vansh.nyc/mr?s=A",
       "date_posted": "Jul 20",
-      "found_at": "2026-10-26T13:41:20.440294"
+      "found_at": "2026-10-26T19:37:43.968999"
     },
     {
       "id": "b98c2b1d6edb701218d00a33ffd9a3df",
@@ -2799,7 +4500,7 @@
       "location": "New York, NY",
       "apply_url": "https://go.vansh.nyc/mp?s=A",
       "date_posted": "Jul 15",
-      "found_at": "2026-10-26T13:41:20.440297"
+      "found_at": "2026-10-26T19:37:43.969002"
     },
     {
       "id": "2ec3cef0cdfc9b38a3dd031ddfdb1826",
@@ -2808,7 +4509,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/mc?s=A",
       "date_posted": "Jul 14",
-      "found_at": "2026-10-26T13:41:20.440300"
+      "found_at": "2026-10-26T19:37:43.969006"
     },
     {
       "id": "bb226e38f6ce130fd308756ffa75386a",
@@ -2817,7 +4518,7 @@
       "location": "San Diego, CA",
       "apply_url": "https://go.vansh.nyc/m8?s=A",
       "date_posted": "Jul 14",
-      "found_at": "2026-10-26T13:41:20.440304"
+      "found_at": "2026-10-26T19:37:43.969009"
     },
     {
       "id": "306f6e916b0a6b54fed4d119b1643522",
@@ -2826,7 +4527,7 @@
       "location": "Chicago, IL",
       "apply_url": "https://go.vansh.nyc/me?s=A",
       "date_posted": "Jul 14",
-      "found_at": "2026-10-26T13:41:20.440307"
+      "found_at": "2026-10-26T19:37:43.969013"
     },
     {
       "id": "906fd6ea5b848f2ed654e6e6bc2fe797",
@@ -2835,7 +4536,7 @@
       "location": "Chicago, IL",
       "apply_url": "https://go.vansh.nyc/md?s=A",
       "date_posted": "Jul 14",
-      "found_at": "2026-10-26T13:41:20.440311"
+      "found_at": "2026-10-26T19:37:43.969017"
     },
     {
       "id": "da260b093da379586583a3b11484a3cd",
@@ -2844,7 +4545,7 @@
       "location": "Mountain View, CA",
       "apply_url": "https://go.vansh.nyc/m2?s=A",
       "date_posted": "Jul 14",
-      "found_at": "2026-10-26T13:41:20.440314"
+      "found_at": "2026-10-26T19:37:43.969021"
     },
     {
       "id": "87893a5d4a531103ce21f7fbd0e5ca2f",
@@ -2853,7 +4554,7 @@
       "location": "San Francisco, CA</br>Denver, CO</br>New York, NY",
       "apply_url": "https://go.vansh.nyc/mk?s=A",
       "date_posted": "Jul 14",
-      "found_at": "2026-10-26T13:41:20.440317"
+      "found_at": "2026-10-26T19:37:43.969024"
     },
     {
       "id": "fe25fa98041e01aec75f8757bfce3ef6",
@@ -2862,7 +4563,7 @@
       "location": "Austin, TX",
       "apply_url": "https://go.vansh.nyc/m4?s=A",
       "date_posted": "Jul 13",
-      "found_at": "2026-10-26T13:41:20.440321"
+      "found_at": "2026-10-26T19:37:43.969028"
     },
     {
       "id": "b12d1bb53c38d1a5774981c730caee72",
@@ -2871,7 +4572,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/lY?s=A",
       "date_posted": "Jul 05",
-      "found_at": "2026-10-26T13:41:20.440325"
+      "found_at": "2026-10-26T19:37:43.969032"
     },
     {
       "id": "dbeddb2f1bbbe080392624de9f4bb83d",
@@ -2880,7 +4581,7 @@
       "location": "San Diego, CA",
       "apply_url": "https://go.vansh.nyc/lR?s=A",
       "date_posted": "Jul 05",
-      "found_at": "2026-10-26T13:41:20.440328"
+      "found_at": "2026-10-26T19:37:43.969035"
     },
     {
       "id": "3c36f157b871e9ea25dbddadcccab529",
@@ -2889,7 +4590,7 @@
       "location": "Seattle, WA",
       "apply_url": "https://go.vansh.nyc/m0?s=A",
       "date_posted": "Jul 05",
-      "found_at": "2026-10-26T13:41:20.440331"
+      "found_at": "2026-10-26T19:37:43.969039"
     },
     {
       "id": "f04d88f5db482908664d0d2dec89f405",
@@ -2898,7 +4599,7 @@
       "location": "New York, NY",
       "apply_url": "https://go.vansh.nyc/lH?s=A",
       "date_posted": "Jul 05",
-      "found_at": "2026-10-26T13:41:20.440334"
+      "found_at": "2026-10-26T19:37:43.969043"
     },
     {
       "id": "f04d88f5db482908664d0d2dec89f405",
@@ -2907,7 +4608,7 @@
       "location": "New York, NY",
       "apply_url": "https://go.vansh.nyc/lG?s=A",
       "date_posted": "Jul 05",
-      "found_at": "2026-10-26T13:41:20.440338"
+      "found_at": "2026-10-26T19:37:43.969046"
     },
     {
       "id": "a856f2f517a60e4a4b3985838d571b82",
@@ -2916,7 +4617,7 @@
       "location": "Washington, DC",
       "apply_url": "https://go.vansh.nyc/lF?s=A",
       "date_posted": "Jul 05",
-      "found_at": "2026-10-26T13:41:20.440342"
+      "found_at": "2026-10-26T19:37:43.969050"
     },
     {
       "id": "7a3ee909a066baf349574ee9b73fa051",
@@ -2925,7 +4626,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/lE?s=A",
       "date_posted": "Jul 05",
-      "found_at": "2026-10-26T13:41:20.440346"
+      "found_at": "2026-10-26T19:37:43.969055"
     },
     {
       "id": "0170d3d067ed31c6b1dbeb83d90e819c",
@@ -2934,7 +4635,7 @@
       "location": "New York, NY",
       "apply_url": "https://go.vansh.nyc/lD?s=A",
       "date_posted": "Jul 05",
-      "found_at": "2026-10-26T13:41:20.440350"
+      "found_at": "2026-10-26T19:37:43.969059"
     },
     {
       "id": "f04d88f5db482908664d0d2dec89f405",
@@ -2943,7 +4644,7 @@
       "location": "New York, NY",
       "apply_url": "https://go.vansh.nyc/lC?s=A",
       "date_posted": "Jul 05",
-      "found_at": "2026-10-26T13:41:20.440353"
+      "found_at": "2026-10-26T19:37:43.969063"
     },
     {
       "id": "96865242528fbf7976dcf66048367dfc",
@@ -2952,7 +4653,7 @@
       "location": "Denver, CO",
       "apply_url": "https://go.vansh.nyc/lA?s=A",
       "date_posted": "Jul 05",
-      "found_at": "2026-10-26T13:41:20.440356"
+      "found_at": "2026-10-26T19:37:43.969066"
     },
     {
       "id": "fa6542247d04751afdb93bc42c2af9da",
@@ -2961,7 +4662,7 @@
       "location": "Miami, FL</br>New York, NY",
       "apply_url": "https://go.vansh.nyc/lP?s=A",
       "date_posted": "Jul 05",
-      "found_at": "2026-10-26T13:41:20.440360"
+      "found_at": "2026-10-26T19:37:43.969070"
     },
     {
       "id": "4328aa2fa2956ababf1611400c88ec21",
@@ -2970,7 +4671,7 @@
       "location": "Miami, FL</br>New York, NY",
       "apply_url": "https://go.vansh.nyc/lO?s=A",
       "date_posted": "Jul 05",
-      "found_at": "2026-10-26T13:41:20.440364"
+      "found_at": "2026-10-26T19:37:43.969073"
     },
     {
       "id": "245021f6fd2611e69852b27a24d4bfe4",
@@ -2979,7 +4680,7 @@
       "location": "Miami, FL</br>New York, NY",
       "apply_url": "https://go.vansh.nyc/lN?s=A",
       "date_posted": "Jul 05",
-      "found_at": "2026-10-26T13:41:20.440367"
+      "found_at": "2026-10-26T19:37:43.969077"
     },
     {
       "id": "6fecbeefeb18438eb3d0a7b11bfe87fe",
@@ -2988,7 +4689,7 @@
       "location": "New York, NY",
       "apply_url": "https://go.vansh.nyc/lQ?s=A",
       "date_posted": "Jul 05",
-      "found_at": "2026-10-26T13:41:20.440371"
+      "found_at": "2026-10-26T19:37:43.969081"
     },
     {
       "id": "181692657e1537645226deaf9db171ac",
@@ -2997,7 +4698,7 @@
       "location": "Sunnyvale, CA",
       "apply_url": "https://go.vansh.nyc/lU?s=A",
       "date_posted": "Jul 05",
-      "found_at": "2026-10-26T13:41:20.440375"
+      "found_at": "2026-10-26T19:37:43.969085"
     },
     {
       "id": "df96988e4b35e94084012e6049eaf2b0",
@@ -3006,7 +4707,7 @@
       "location": "Austin, TX",
       "apply_url": "https://go.vansh.nyc/lT?s=A",
       "date_posted": "Jul 05",
-      "found_at": "2026-10-26T13:41:20.440378"
+      "found_at": "2026-10-26T19:37:43.969088"
     },
     {
       "id": "1d0dd093d858b0f42745b0795f92f4d0",
@@ -3015,7 +4716,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/lr?s=A",
       "date_posted": "Jun 30",
-      "found_at": "2026-10-26T13:41:20.440381"
+      "found_at": "2026-10-26T19:37:43.969544"
     },
     {
       "id": "4038eb312654f0ce896fc6175e385041",
@@ -3024,7 +4725,7 @@
       "location": "Hawthorne, CA",
       "apply_url": "https://go.vansh.nyc/lq?s=A",
       "date_posted": "Jun 30",
-      "found_at": "2026-10-26T13:41:20.440385"
+      "found_at": "2026-10-26T19:37:43.969552"
     },
     {
       "id": "0278e0337d49fe390b12163aa572e3cf",
@@ -3033,7 +4734,7 @@
       "location": "San Diego, CA",
       "apply_url": "https://go.vansh.nyc/lo?s=A",
       "date_posted": "Jun 30",
-      "found_at": "2026-10-26T13:41:20.440388"
+      "found_at": "2026-10-26T19:37:43.969556"
     },
     {
       "id": "ef7d9722ae50ecd652d5558746cf3610",
@@ -3042,7 +4743,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/l8?s=A",
       "date_posted": "Jun 27",
-      "found_at": "2026-10-26T13:41:20.440392"
+      "found_at": "2026-10-26T19:37:43.969560"
     },
     {
       "id": "6e9bd69e082d21b2d9494387af1f3cd0",
@@ -3051,7 +4752,7 @@
       "location": "San Diego, CA",
       "apply_url": "https://go.vansh.nyc/lg?s=A",
       "date_posted": "Jun 27",
-      "found_at": "2026-10-26T13:41:20.440395"
+      "found_at": "2026-10-26T19:37:43.969563"
     },
     {
       "id": "8d7161422d612c7c68d82b06c194f329",
@@ -3060,7 +4761,7 @@
       "location": "San Diego, CA",
       "apply_url": "https://go.vansh.nyc/lb?s=A",
       "date_posted": "Jun 27",
-      "found_at": "2026-10-26T13:41:20.440399"
+      "found_at": "2026-10-26T19:37:43.969567"
     },
     {
       "id": "9595d37fb090df27b811488d2185a639",
@@ -3069,7 +4770,7 @@
       "location": "Menlo Park, CA",
       "apply_url": "https://go.vansh.nyc/l9?s=A",
       "date_posted": "Jun 27",
-      "found_at": "2026-10-26T13:41:20.440402"
+      "found_at": "2026-10-26T19:37:43.969570"
     },
     {
       "id": "72f8e1312e14b4c0c02ffff88d6fdea3",
@@ -3078,7 +4779,7 @@
       "location": "Miami, FL",
       "apply_url": "https://go.vansh.nyc/l1?s=A",
       "date_posted": "Jun 21",
-      "found_at": "2026-10-26T13:41:20.440405"
+      "found_at": "2026-10-26T19:37:43.969574"
     },
     {
       "id": "89237e0993ff68da80bc0a5c098e58b4",
@@ -3087,7 +4788,7 @@
       "location": "San Diego, CA",
       "apply_url": "https://go.vansh.nyc/kY?s=A",
       "date_posted": "Jun 17",
-      "found_at": "2026-10-26T13:41:20.440409"
+      "found_at": "2026-10-26T19:37:43.969577"
     },
     {
       "id": "2e9773a2c72b111dcffdf07946f66bad",
@@ -3096,7 +4797,7 @@
       "location": "San Diego, CA",
       "apply_url": "https://go.vansh.nyc/kX?s=A",
       "date_posted": "Jun 17",
-      "found_at": "2026-10-26T13:41:20.440412"
+      "found_at": "2026-10-26T19:37:43.969581"
     },
     {
       "id": "af7c9cde2748f375825666945cada59e",
@@ -3105,7 +4806,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/kQ?s=A",
       "date_posted": "Jun 09",
-      "found_at": "2026-10-26T13:41:20.440416"
+      "found_at": "2026-10-26T19:37:43.969585"
     },
     {
       "id": "ed787f442beb267e773288f6d6ce1ef6",
@@ -3114,7 +4815,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/kP?s=A",
       "date_posted": "Jun 09",
-      "found_at": "2026-10-26T13:41:20.440419"
+      "found_at": "2026-10-26T19:37:43.969589"
     },
     {
       "id": "afebc6843dfb9cd17c2f86e64a2ebd02",
@@ -3123,7 +4824,7 @@
       "location": "New York, NY",
       "apply_url": "https://go.vansh.nyc/kO?s=A",
       "date_posted": "Jun 07",
-      "found_at": "2026-10-26T13:41:20.440422"
+      "found_at": "2026-10-26T19:37:43.969592"
     },
     {
       "id": "cbb8c272c7f96ee707c3c5f6b6861540",
@@ -3132,7 +4833,7 @@
       "location": "San Francisco, CA",
       "apply_url": "https://go.vansh.nyc/kC?s=A",
       "date_posted": "Jun 07",
-      "found_at": "2026-10-26T13:41:20.440426"
+      "found_at": "2026-10-26T19:37:43.969598"
     },
     {
       "id": "142dd6cde5e61681a178341bde2fbb76",
@@ -3141,7 +4842,7 @@
       "location": "New York City",
       "apply_url": "https://go.vansh.nyc/kv?s=A",
       "date_posted": "Jun 06",
-      "found_at": "2026-10-26T13:41:20.440429"
+      "found_at": "2026-10-26T19:37:43.969601"
     },
     {
       "id": "7fd61c79b85af265d17063257ee42647",
@@ -3150,7 +4851,7 @@
       "location": "New York City",
       "apply_url": "https://go.vansh.nyc/ku?s=A",
       "date_posted": "Jun 06",
-      "found_at": "2026-10-26T13:41:20.440433"
+      "found_at": "2026-10-26T19:37:43.969605"
     },
     {
       "id": "615592d1b59d630c4758447f127acd35",
@@ -3159,7 +4860,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/ke?s=A",
       "date_posted": "May 30",
-      "found_at": "2026-10-26T13:41:20.440436"
+      "found_at": "2026-10-26T19:37:43.969609"
     },
     {
       "id": "85dfcfdbbe46ae9f99572b582c057b59",
@@ -3168,7 +4869,7 @@
       "location": "Mountain View, CA",
       "apply_url": "https://go.vansh.nyc/kd?s=A",
       "date_posted": "May 30",
-      "found_at": "2026-10-26T13:41:20.440439"
+      "found_at": "2026-10-26T19:37:43.969612"
     },
     {
       "id": "e751325503744517010c499213fb0d08",
@@ -3177,7 +4878,7 @@
       "location": "Raleigh, NC",
       "apply_url": "https://go.vansh.nyc/k4?s=A",
       "date_posted": "May 30",
-      "found_at": "2026-10-26T13:41:20.440443"
+      "found_at": "2026-10-26T19:37:43.969616"
     },
     {
       "id": "a25fe721b331c8cd49e270b7de2a026e",
@@ -3186,7 +4887,7 @@
       "location": "San Mateo, CA",
       "apply_url": "https://go.vansh.nyc/k3?s=A",
       "date_posted": "May 30",
-      "found_at": "2026-10-26T13:41:20.440446"
+      "found_at": "2026-10-26T19:37:43.969620"
     },
     {
       "id": "3d791a3408c9acffb0224794a830c93a",
@@ -3195,7 +4896,7 @@
       "location": "New York, NY",
       "apply_url": "https://go.vansh.nyc/km?s=A",
       "date_posted": "May 30",
-      "found_at": "2026-10-26T13:41:20.440450"
+      "found_at": "2026-10-26T19:37:43.969623"
     },
     {
       "id": "e1fa8cad5df0a0ca682d0d93e4f87d7e",
@@ -3204,7 +4905,7 @@
       "location": "New York, NY",
       "apply_url": "https://go.vansh.nyc/jX?s=A",
       "date_posted": "May 28",
-      "found_at": "2026-10-26T13:41:20.440453"
+      "found_at": "2026-10-26T19:37:43.969627"
     },
     {
       "id": "326eae0773daa5be539f29d6530eeaf7",
@@ -3213,7 +4914,7 @@
       "location": "New York, NY",
       "apply_url": "https://go.vansh.nyc/jY?s=A",
       "date_posted": "May 28",
-      "found_at": "2026-10-26T13:41:20.440456"
+      "found_at": "2026-10-26T19:37:43.969630"
     },
     {
       "id": "50ef32908a44be170d44a17e302b088a",
@@ -3222,7 +4923,7 @@
       "location": "Miami, FL",
       "apply_url": "https://go.vansh.nyc/jZ?s=A",
       "date_posted": "May 28",
-      "found_at": "2026-10-26T13:41:20.440460"
+      "found_at": "2026-10-26T19:37:43.969634"
     },
     {
       "id": "0eb597635ae8f60ccbe5ca76e59f12a1",
@@ -3231,7 +4932,7 @@
       "location": "San Diego, CA",
       "apply_url": "https://go.vansh.nyc/jL?s=A",
       "date_posted": "May 23",
-      "found_at": "2026-10-26T13:41:20.440463"
+      "found_at": "2026-10-26T19:37:43.969637"
     },
     {
       "id": "3d606a1306cd626ca32dfd779d28519c",
@@ -3240,7 +4941,7 @@
       "location": "San Diego, CA",
       "apply_url": "https://go.vansh.nyc/jK?s=A",
       "date_posted": "May 23",
-      "found_at": "2026-10-26T13:41:20.440467"
+      "found_at": "2026-10-26T19:37:43.969641"
     },
     {
       "id": "e55017b0a35630554011af7966dbf801",
@@ -3249,7 +4950,7 @@
       "location": "San Diego, CA",
       "apply_url": "https://go.vansh.nyc/jJ?s=A",
       "date_posted": "May 23",
-      "found_at": "2026-10-26T13:41:20.440470"
+      "found_at": "2026-10-26T19:37:43.969644"
     },
     {
       "id": "15983e170e81d14fb9bfa3eefeb978b8",
@@ -3258,7 +4959,7 @@
       "location": "San Diego, CA",
       "apply_url": "https://go.vansh.nyc/jI?s=A",
       "date_posted": "May 23",
-      "found_at": "2026-10-26T13:41:20.440473"
+      "found_at": "2026-10-26T19:37:43.969648"
     },
     {
       "id": "3ed161db9c6025bdee1c1d166f8d6a7f",
@@ -3267,7 +4968,7 @@
       "location": "Moffett Field, CA",
       "apply_url": "https://go.vansh.nyc/jC?s=A",
       "date_posted": "May 23",
-      "found_at": "2026-10-26T13:41:20.440476"
+      "found_at": "2026-10-26T19:37:43.969651"
     },
     {
       "id": "e70b252a63cc4c8c463a032026c20038",
@@ -3276,7 +4977,7 @@
       "location": "Sunnyvale, CA",
       "apply_url": "https://go.vansh.nyc/jE?s=A",
       "date_posted": "May 23",
-      "found_at": "2026-10-26T13:41:20.440480"
+      "found_at": "2026-10-26T19:37:43.969655"
     },
     {
       "id": "4e1c198732f51d5942aa9836d8b8c174",
@@ -3285,7 +4986,7 @@
       "location": "San Francisco, CA</br>New York, NY",
       "apply_url": "https://go.vansh.nyc/jo?s=A",
       "date_posted": "May 17",
-      "found_at": "2026-10-26T13:41:20.440484"
+      "found_at": "2026-10-26T19:37:43.969658"
     },
     {
       "id": "9010c84477b0f2740edcac10ca94753c",
@@ -3294,7 +4995,7 @@
       "location": "San Diego, CA",
       "apply_url": "https://go.vansh.nyc/jq?s=A",
       "date_posted": "May 17",
-      "found_at": "2026-10-26T13:41:20.440487"
+      "found_at": "2026-10-26T19:37:43.969662"
     },
     {
       "id": "002672605c0beb2d323f50e35880a71f",
@@ -3303,7 +5004,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/ji?s=A",
       "date_posted": "May 15",
-      "found_at": "2026-10-26T13:41:20.440490"
+      "found_at": "2026-10-26T19:37:43.969665"
     },
     {
       "id": "8e7df8fbd313cffea5383f8617715162",
@@ -3312,7 +5013,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/jd?s=A",
       "date_posted": "May 15",
-      "found_at": "2026-10-26T13:41:20.440493"
+      "found_at": "2026-10-26T19:37:43.969669"
     },
     {
       "id": "85dfcfdbbe46ae9f99572b582c057b59",
@@ -3321,7 +5022,7 @@
       "location": "Mountain View, CA",
       "apply_url": "https://go.vansh.nyc/j9?s=A",
       "date_posted": "May 15",
-      "found_at": "2026-10-26T13:41:20.440497"
+      "found_at": "2026-10-26T19:37:43.969673"
     },
     {
       "id": "9994abd8b05428d7b2a97bba5d4a6493",
@@ -3330,7 +5031,7 @@
       "location": "San Jose, CA",
       "apply_url": "https://go.vansh.nyc/iY?s=A",
       "date_posted": "May 03",
-      "found_at": "2026-10-26T13:41:20.440500"
+      "found_at": "2026-10-26T19:37:43.969676"
     },
     {
       "id": "e287dcb43b78fd70715eb9bd20ba202c",
@@ -3339,7 +5040,7 @@
       "location": "Philadelphia, PA",
       "apply_url": "https://go.vansh.nyc/iP?s=A",
       "date_posted": "Apr 14",
-      "found_at": "2026-10-26T13:41:20.440504"
+      "found_at": "2026-10-26T19:37:43.969680"
     },
     {
       "id": "964db091a139481e44e9033c8d3f07ed",
@@ -3348,7 +5049,7 @@
       "location": "Remote</br>US",
       "apply_url": "https://go.vansh.nyc/iO?s=A",
       "date_posted": "Apr 14",
-      "found_at": "2026-10-26T13:41:20.440507"
+      "found_at": "2026-10-26T19:37:43.969683"
     },
     {
       "id": "9a2e2f3e275808925a13eb4e2b89e24d",
@@ -3357,7 +5058,7 @@
       "location": "Morehead City, NC",
       "apply_url": "https://go.vansh.nyc/iL?s=A",
       "date_posted": "Apr 14",
-      "found_at": "2026-10-26T13:41:20.440510"
+      "found_at": "2026-10-26T19:37:43.969686"
     },
     {
       "id": "ed0b95724aa30d4f356d5d093097c088",
@@ -3366,7 +5067,7 @@
       "location": "Fremont, CA",
       "apply_url": "https://go.vansh.nyc/iv?s=A",
       "date_posted": "Apr 12",
-      "found_at": "2026-10-26T13:41:20.440514"
+      "found_at": "2026-10-26T19:37:43.969690"
     },
     {
       "id": "735ae77006fb978e8d54be539cf18ba4",
@@ -3375,7 +5076,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/iu?s=A",
       "date_posted": "Apr 12",
-      "found_at": "2026-10-26T13:41:20.440517"
+      "found_at": "2026-10-26T19:37:43.969694"
     },
     {
       "id": "08d168e7279bd15bcc024aa9831d5568",
@@ -3384,7 +5085,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/it?s=A",
       "date_posted": "Apr 12",
-      "found_at": "2026-10-26T13:41:20.440520"
+      "found_at": "2026-10-26T19:37:43.969698"
     },
     {
       "id": "3aab6a3f53edee528a3c0d08ccd3d306",
@@ -3393,7 +5094,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/is?s=A",
       "date_posted": "Apr 12",
-      "found_at": "2026-10-26T13:41:20.440524"
+      "found_at": "2026-10-26T19:37:43.969701"
     },
     {
       "id": "ed5f5e158dfad8822c3e6070b32dada0",
@@ -3402,7 +5103,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/ir?s=A",
       "date_posted": "Apr 12",
-      "found_at": "2026-10-26T13:41:20.440527"
+      "found_at": "2026-10-26T19:37:43.969705"
     },
     {
       "id": "0b74e73b2f19202b43afee5fb28d1ec1",
@@ -3411,7 +5112,7 @@
       "location": "Remote</br>US",
       "apply_url": "https://go.vansh.nyc/iG?s=A",
       "date_posted": "Apr 12",
-      "found_at": "2026-10-26T13:41:20.440530"
+      "found_at": "2026-10-26T19:37:43.969709"
     },
     {
       "id": "cd267a5f56b53c0590449bf7e8893b40",
@@ -3420,7 +5121,7 @@
       "location": "Palo Alto, CA",
       "apply_url": "https://go.vansh.nyc/ig?s=A",
       "date_posted": "Apr 05",
-      "found_at": "2026-10-26T13:41:20.440533"
+      "found_at": "2026-10-26T19:37:43.969712"
     },
     {
       "id": "8134a991b451c95702d07e29203fd8bf",
@@ -3429,7 +5130,7 @@
       "location": "San Diego, CA",
       "apply_url": "https://go.vansh.nyc/i2?s=A",
       "date_posted": "Mar 31",
-      "found_at": "2026-10-26T13:41:20.440536"
+      "found_at": "2026-10-26T19:37:43.969716"
     }
   ]
 }
